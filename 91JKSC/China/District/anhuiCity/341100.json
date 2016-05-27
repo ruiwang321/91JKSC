@@ -1,0 +1,37 @@
+{
+    "city": "滁州市",
+    "district": [
+        {
+            "name": "琅琊区",
+            "postCode": "239000"
+        },
+        {
+            "name": "南谯区",
+            "postCode": "239000"
+        },
+        {
+            "name": "明光市",
+            "postCode": "239400"
+        },
+        {
+            "name": "天长市",
+            "postCode": "239300"
+        },
+        {
+            "name": "来安县",
+            "postCode": "239200"
+        },
+        {
+            "name": "全椒县",
+            "postCode": "239500"
+        },
+        {
+            "name": "定远县",
+            "postCode": "233200"
+        },
+        {
+            "name": "凤阳县",
+            "postCode": "233100"
+        }
+    ]
+}

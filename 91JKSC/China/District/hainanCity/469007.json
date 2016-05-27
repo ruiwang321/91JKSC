@@ -1,0 +1,45 @@
+{
+    "city": "东方市",
+    "district": [
+        {
+            "name": "八所镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "东河镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "大田镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "感城镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "板桥镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "三家镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "四更镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "新龙镇",
+            "postCode": "572600"
+        },
+        {
+            "name": "天安乡",
+            "postCode": "572600"
+        },
+        {
+            "name": "江边乡",
+            "postCode": "572600"
+        }
+    ]
+}

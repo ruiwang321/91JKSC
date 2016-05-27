@@ -1,0 +1,143 @@
+{
+    "province": [
+        {
+            "name": "北京市",
+            "spellName": "beijingCity",
+            "postCode": ""
+        },
+        {
+            "name": "广东省",
+            "spellName": "guangdongCity",
+            "postCode": ""
+        },
+        {
+            "name": "山东省",
+            "spellName": "shandongCity",
+            "postCode": ""
+        },
+        {
+            "name": "江苏省",
+            "spellName": "jiangsuCity"
+        },
+        {
+            "name": "河南省",
+            "spellName": "henanCity"
+        },
+        {
+            "name": "上海市",
+            "spellName": "shanghaiCity"
+        },
+        {
+            "name": "河北省",
+            "spellName": "hebeiCity"
+        },
+        {
+            "name": "浙江省",
+            "spellName": "zhejiangCity"
+        },
+        {
+            "name": "陕西省",
+            "spellName": "shannxiCity"
+        },
+        {
+            "name": "湖南省",
+            "spellName": "hunanCity"
+        },
+        {
+            "name": "重庆市",
+            "spellName": "chongqingCity"
+        },
+        {
+            "name": "福建省",
+            "spellName": "fujianCity"
+        },
+        {
+            "name": "天津市",
+            "spellName": "tianjinCity"
+        },
+        {
+            "name": "云南省",
+            "spellName": "yunnanCity"
+        },
+        {
+            "name": "四川省",
+            "spellName": "sichuanCity"
+        },
+        {
+            "name": "广西壮族自治区",
+            "spellName": "guangxiCity"
+        },
+        {
+            "name": "安徽省",
+            "spellName": "anhuiCity"
+        },
+        {
+            "name": "海南省",
+            "spellName": "hainanCity"
+        },
+        {
+            "name": "江西省",
+            "spellName": "jiangxiCity"
+        },
+        {
+            "name": "湖北省",
+            "spellName": "hubeiCity"
+        },
+        {
+            "name": "山西省",
+            "spellName": "shanxiCity"
+        },
+        {
+            "name": "辽宁省",
+            "spellName": "liaoningCity"
+        },
+        {
+            "name": "黑龙江",
+            "spellName": "heilongjiangCity"
+        },
+        {
+            "name": "内蒙古自治区",
+            "spellName": "neimengguCity"
+        },
+        {
+            "name": "贵州省",
+            "spellName": "guizhouCity"
+        },
+        {
+            "name": "甘肃省",
+            "spellName": "gansuCity"
+        },
+        {
+            "name": "青海省",
+            "spellName": "qinghaiCity"
+        },
+        {
+            "name": "新疆维吾尔自治区",
+            "spellName": "xinjiangCity"
+        },
+        {
+            "name": "西藏区",
+            "spellName": "xizangCity"
+        },
+        {
+            "name": "吉林省",
+            "spellName": "jilinCity"
+        },
+        {
+            "name": "宁夏回族自治区",
+            "spellName": "ningxiaCity"
+        },
+        {
+            "name": "香港特别行政区",
+            "spellName": "xianggangCity"
+        },
+        {
+            "name": "澳门特别行政区",
+            "spellName": "aomenCity"
+        },
+        {
+            "name": "台湾省",
+            "spellName": "taiwanCity"
+        }
+    ]
+}

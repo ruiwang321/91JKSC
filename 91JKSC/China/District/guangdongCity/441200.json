@@ -1,0 +1,37 @@
+{
+    "city":"肇庆市",
+    "district": [
+        {
+            "name": "端州区",
+            "postCode": "526040"
+        },
+        {
+            "name": "鼎湖区",
+            "postCode": "526070"
+        },
+        {
+            "name": "高要市",
+            "postCode": "526100"
+        },
+        {
+            "name": "四会市",
+            "postCode": "526200"
+        },
+        {
+            "name": "广宁县",
+            "postCode": "526300"
+        },
+        {
+            "name": "怀集县",
+            "postCode": "526400"
+        },
+        {
+            "name": "封开县",
+            "postCode": "526500"
+        },
+        {
+            "name": "德庆县",
+            "postCode": "526600"
+        }
+    ]
+}

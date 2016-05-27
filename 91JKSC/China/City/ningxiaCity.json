@@ -1,0 +1,24 @@
+{
+    "city": [
+        {
+            "name": "银川市",
+            "spellName": "640100"
+        },
+        {
+            "name": "吴忠市",
+            "spellName": "640300"
+        },
+        {
+            "name": "中卫市",
+            "spellName": "640500"
+        },
+        {
+            "name": "石嘴山市",
+            "spellName": "640200"
+        },
+        {
+            "name": "固原市",
+            "spellName": "640400"
+        }
+    ]
+}

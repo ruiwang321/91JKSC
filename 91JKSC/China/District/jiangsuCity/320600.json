@@ -1,0 +1,37 @@
+{
+    "city":"南通市",
+    "district": [
+        {
+            "name": "崇川区",
+            "postCode": "226001"
+        },
+        {
+            "name": "港闸区",
+            "postCode": "226001"
+        },
+        {
+            "name": "海门市",
+            "postCode": "226100"
+        },
+        {
+            "name": "启东市",
+            "postCode": "226200"
+        },
+        {
+            "name": "通州市",
+            "postCode": "226300"
+        },
+        {
+            "name": "如皋市",
+            "postCode": "226500"
+        },
+        {
+            "name": "如东县",
+            "postCode": "226400"
+        },
+        {
+            "name": "海安县",
+            "postCode": "226600"
+        }
+    ]
+}

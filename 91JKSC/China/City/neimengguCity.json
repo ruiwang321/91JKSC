@@ -1,0 +1,52 @@
+{
+    "city": [
+        {
+            "name": "赤峰市",
+            "spellName": "150400"
+        },
+        {
+            "name": "包头市",
+            "spellName": "150200"
+        },
+        {
+            "name": "通辽市",
+            "spellName": "150500"
+        },
+        {
+            "name": "呼和浩特市",
+            "spellName": "150100"
+        },
+        {
+            "name": "鄂尔多斯市",
+            "spellName": "150600"
+        },
+        {
+            "name": "乌海市",
+            "spellName": "150300"
+        },
+        {
+            "name": "呼伦贝尔市",
+            "spellName": "150700"
+        },
+        {
+            "name": "兴安盟",
+            "spellName": "152200"
+        },
+        {
+            "name": "巴彦淖尔盟",
+            "spellName": "150800"
+        },
+        {
+            "name": "乌兰察布盟",
+            "spellName": "150900"
+        },
+        {
+            "name": "锡林郭勒盟",
+            "spellName": "152500"
+        },
+        {
+            "name": "阿拉善盟",
+            "spellName": "152900"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "city": "长春市",
+    "district": [
+        {
+            "name": "朝阳区",
+            "postCode": "130012"
+        },
+        {
+            "name": "南关区",
+            "postCode": "130022"
+        },
+        {
+            "name": "宽城区",
+            "postCode": "130051"
+        },
+        {
+            "name": "二道区",
+            "postCode": "130031"
+        },
+        {
+            "name": "绿园区",
+            "postCode": "130062"
+        },
+        {
+            "name": "双阳区",
+            "postCode": "130600"
+        },
+        {
+            "name": "德惠市",
+            "postCode": "130300"
+        },
+        {
+            "name": "九台市",
+            "postCode": "130500"
+        },
+        {
+            "name": "榆树市",
+            "postCode": "130400"
+        },
+        {
+            "name": "农安县",
+            "postCode": "130200"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "city":"邢台市",
+    "district": [
+        {
+            "name": "桥东区",
+            "postCode": "054001"
+        },
+        {
+            "name": "桥西区",
+            "postCode": "054000"
+        },
+        {
+            "name": "南宫市",
+            "postCode": "055750"
+        },
+        {
+            "name": "沙河市",
+            "postCode": "054100"
+        },
+        {
+            "name": "邢台县",
+            "postCode": "054001"
+        },
+        {
+            "name": "临城县",
+            "postCode": "054300"
+        },
+        {
+            "name": "内丘县",
+            "postCode": "054200"
+        },
+        {
+            "name": "柏乡县",
+            "postCode": "055450"
+        },
+        {
+            "name": "隆尧县",
+            "postCode": "055350"
+        },
+        {
+            "name": "任　县",
+            "postCode": "055150"
+        },
+        {
+            "name": "南和县",
+            "postCode": "054400"
+        },
+        {
+            "name": "宁晋县",
+            "postCode": "055550"
+        },
+        {
+            "name": "巨鹿县",
+            "postCode": "055250"
+        },
+        {
+            "name": "新河县",
+            "postCode": "051730"
+        },
+        {
+            "name": "广宗县",
+            "postCode": "054600"
+        },
+        {
+            "name": "平乡县",
+            "postCode": "054500"
+        },
+        {
+            "name": "威　县",
+            "postCode": "054700"
+        },
+        {
+            "name": "清河县",
+            "postCode": "054800"
+        },
+        {
+            "name": "临西县",
+            "postCode": "054900"
+        }
+    ]
+}

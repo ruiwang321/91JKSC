@@ -1,0 +1,33 @@
+{
+    "city": "台南市",
+    "district": [
+        {
+            "name": "东　区",
+            "postCode": "000700"
+        },
+        {
+            "name": "南　区",
+            "postCode": "000700"
+        },
+        {
+            "name": "西　区",
+            "postCode": "000700"
+        },
+        {
+            "name": "北　区",
+            "postCode": "000700"
+        },
+        {
+            "name": "中　区",
+            "postCode": "000700"
+        },
+        {
+            "name": "安南区",
+            "postCode": "000700"
+        },
+        {
+            "name": "安平区",
+            "postCode": "000700"
+        }
+    ]
+}

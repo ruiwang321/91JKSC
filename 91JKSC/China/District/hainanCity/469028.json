@@ -1,0 +1,49 @@
+{
+    "city": "临高县",
+    "district": [
+        {
+            "name": "临城镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "波莲镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "东英镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "博厚镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "皇桐镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "多文镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "和舍镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "南宝镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "新盈镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "调楼镇",
+            "postCode": "571800"
+        },
+        {
+            "name": "加来镇",
+            "postCode": "571800"
+        }
+    ]
+}

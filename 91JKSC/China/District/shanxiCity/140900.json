@@ -1,0 +1,61 @@
+{
+    "city": "忻州市",
+    "district": [
+        {
+            "name": "忻府区",
+            "postCode": "034000"
+        },
+        {
+            "name": "原平市",
+            "postCode": "034100"
+        },
+        {
+            "name": "定襄县",
+            "postCode": "035400"
+        },
+        {
+            "name": "五台县",
+            "postCode": "035500"
+        },
+        {
+            "name": "代　县",
+            "postCode": "034200"
+        },
+        {
+            "name": "繁峙县",
+            "postCode": "034300"
+        },
+        {
+            "name": "宁武县",
+            "postCode": "036700"
+        },
+        {
+            "name": "静乐县",
+            "postCode": "035100"
+        },
+        {
+            "name": "神池县",
+            "postCode": "036100"
+        },
+        {
+            "name": "五寨县",
+            "postCode": "036200"
+        },
+        {
+            "name": "岢岚县",
+            "postCode": "036300"
+        },
+        {
+            "name": "河曲县",
+            "postCode": "036500"
+        },
+        {
+            "name": "保德县",
+            "postCode": "036600"
+        },
+        {
+            "name": "偏关县",
+            "postCode": "036400"
+        }
+    ]
+}

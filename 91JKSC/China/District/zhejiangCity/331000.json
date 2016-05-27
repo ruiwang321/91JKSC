@@ -1,0 +1,41 @@
+{
+    "city": "台州市",
+    "district": [
+        {
+            "name": "椒江区",
+            "postCode": "318000"
+        },
+        {
+            "name": "黄岩区",
+            "postCode": "318020"
+        },
+        {
+            "name": "路桥区",
+            "postCode": "318050"
+        },
+        {
+            "name": "临海市",
+            "postCode": "317000"
+        },
+        {
+            "name": "温岭市",
+            "postCode": "317500"
+        },
+        {
+            "name": "三门县",
+            "postCode": "317100"
+        },
+        {
+            "name": "天台县",
+            "postCode": "317200"
+        },
+        {
+            "name": "仙居县",
+            "postCode": "317300"
+        },
+        {
+            "name": "玉环县",
+            "postCode": "317600"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "city": "渭南市",
+    "district": [
+        {
+            "name": "临渭区",
+            "postCode": "714000"
+        },
+        {
+            "name": "华阴市",
+            "postCode": "714200"
+        },
+        {
+            "name": "韩城市",
+            "postCode": "715400"
+        },
+        {
+            "name": "华　县",
+            "postCode": "714100"
+        },
+        {
+            "name": "潼关县",
+            "postCode": "714300"
+        },
+        {
+            "name": "大荔县",
+            "postCode": "715100"
+        },
+        {
+            "name": "蒲城县",
+            "postCode": "715500"
+        },
+        {
+            "name": "澄城县",
+            "postCode": "715200"
+        },
+        {
+            "name": "白水县",
+            "postCode": "715600"
+        },
+        {
+            "name": "合阳县",
+            "postCode": "715300"
+        },
+        {
+            "name": "富平县",
+            "postCode": "711700"
+        }
+    ]
+}

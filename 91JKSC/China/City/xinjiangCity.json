@@ -1,0 +1,76 @@
+{
+    "city": [
+        {
+            "name": "乌鲁木齐市",
+            "spellName": "650100"
+        },
+        {
+            "name": "伊犁州",
+            "spellName": "654000"
+        },
+        {
+            "name": "昌吉州",
+            "spellName": "652300"
+        },
+        {
+            "name": "石河子市",
+            "spellName": "659001"
+        },
+        {
+            "name": "哈密地区",
+            "spellName": "652200"
+        },
+        {
+            "name": "阿克苏地区",
+            "spellName": "652900"
+        },
+        {
+            "name": "巴音郭楞州",
+            "spellName": "652800"
+        },
+        {
+            "name": "喀什地区",
+            "spellName": "653100"
+        },
+        {
+            "name": "塔城地区",
+            "spellName": "654200"
+        },
+        {
+            "name": "克拉玛依市",
+            "spellName": "650200"
+        },
+        {
+            "name": "和田地区",
+            "spellName": "653200"
+        },
+        {
+            "name": "阿勒泰州",
+            "spellName": "654300"
+        },
+        {
+            "name": "吐鲁番地区",
+            "spellName": "652100"
+        },
+        {
+            "name": "阿拉尔市",
+            "spellName": "659002"
+        },
+        {
+            "name": "博尔塔拉州",
+            "spellName": "652700"
+        },
+        {
+            "name": "五家渠市",
+            "spellName": "659004"
+        },
+        {
+            "name": "克孜勒苏州",
+            "spellName": "845350"
+        },
+        {
+            "name": "图木舒克市",
+            "spellName": "659003"
+        }
+    ]
+}

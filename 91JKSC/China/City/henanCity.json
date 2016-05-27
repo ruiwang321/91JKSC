@@ -1,0 +1,76 @@
+{
+    "city": [
+        {
+            "name": "郑州市",
+            "spellName": "410100"
+        },
+        {
+            "name": "南阳市",
+            "spellName": "411300"
+        },
+        {
+            "name": "新乡市",
+            "spellName": "410700"
+        },
+        {
+            "name": "安阳市",
+            "spellName": "410500"
+        },
+        {
+            "name": "洛阳市",
+            "spellName": "410300"
+        },
+        {
+            "name": "信阳市",
+            "spellName": "411500"
+        },
+        {
+            "name": "平顶山市",
+            "spellName": "410400"
+        },
+        {
+            "name": "周口市",
+            "spellName": "411600"
+        },
+        {
+            "name": "商丘市",
+            "spellName": "411400"
+        },
+        {
+            "name": "开封市",
+            "spellName": "410200"
+        },
+        {
+            "name": "焦作市",
+            "spellName": "410800"
+        },
+        {
+            "name": "驻马店市",
+            "spellName": "411700"
+        },
+        {
+            "name": "濮阳市",
+            "spellName": "410900"
+        },
+        {
+            "name": "三门峡市",
+            "spellName": "411200"
+        },
+        {
+            "name": "漯河市",
+            "spellName": "411100"
+        },
+        {
+            "name": "许昌市",
+            "spellName": "411000"
+        },
+        {
+            "name": "鹤壁市",
+            "spellName": "410600"
+        },
+        {
+            "name": "济源市",
+            "spellName": "410881"
+        }
+    ]
+}

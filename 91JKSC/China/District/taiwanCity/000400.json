@@ -1,0 +1,37 @@
+{
+    "city": "台中市",
+    "district": [
+        {
+            "name": "中　区",
+            "postCode": "000400"
+        },
+        {
+            "name": "东　区",
+            "postCode": "000400"
+        },
+        {
+            "name": "西　区",
+            "postCode": "000400"
+        },
+        {
+            "name": "南　区",
+            "postCode": "000400"
+        },
+        {
+            "name": "北　区",
+            "postCode": "000400"
+        },
+        {
+            "name": "西屯区",
+            "postCode": "000400"
+        },
+        {
+            "name": "南屯区",
+            "postCode": "000400"
+        },
+        {
+            "name": "北屯区",
+            "postCode": "000400"
+        }
+    ]
+}

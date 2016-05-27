@@ -1,0 +1,33 @@
+{
+    "city":"滨州市",
+    "district": [
+        {
+            "name": "滨城区",
+            "postCode": "256601"
+        },
+        {
+            "name": "惠民县",
+            "postCode": "251700"
+        },
+        {
+            "name": "阳信县",
+            "postCode": "251800"
+        },
+        {
+            "name": "无棣县",
+            "postCode": "251900"
+        },
+        {
+            "name": "沾化县",
+            "postCode": "256800"
+        },
+        {
+            "name": "博兴县",
+            "postCode": "256500"
+        },
+        {
+            "name": "邹平县",
+            "postCode": "256200"
+        }
+    ]
+}

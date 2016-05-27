@@ -1,0 +1,61 @@
+{
+    "city":"唐山市",
+    "district": [
+        {
+            "name": "路北区",
+            "postCode": "063015"
+        },
+        {
+            "name": "路南区",
+            "postCode": "063017"
+        },
+        {
+            "name": "古冶区",
+            "postCode": "063104"
+        },
+        {
+            "name": "开平区",
+            "postCode": "063021"
+        },
+        {
+            "name": "丰润区",
+            "postCode": "064000"
+        },
+        {
+            "name": "丰南区",
+            "postCode": "063300"
+        },
+        {
+            "name": "遵化市",
+            "postCode": "064200"
+        },
+        {
+            "name": "迁安市",
+            "postCode": "064400"
+        },
+        {
+            "name": "滦　县",
+            "postCode": "063700"
+        },
+        {
+            "name": "滦南县",
+            "postCode": "063500"
+        },
+        {
+            "name": "乐亭县",
+            "postCode": "063600"
+        },
+        {
+            "name": "迁西县",
+            "postCode": "064300"
+        },
+        {
+            "name": "玉田县",
+            "postCode": "064100"
+        },
+        {
+            "name": "唐海县",
+            "postCode": "063200"
+        }
+    ]
+}

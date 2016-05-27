@@ -1,0 +1,77 @@
+{
+    "city":"北京市",
+    "district": [
+        {
+            "name": "朝阳区",
+            "postCode": "100020"
+        },
+        {
+            "name": "海淀区",
+            "postCode": "100089"
+        },
+        {
+            "name": "通州区",
+            "postCode": "101149"
+        },
+        {
+            "name": "房山区",
+            "postCode": "102400"
+        },
+        {
+            "name": "丰台区",
+            "postCode": "100071"
+        },
+        {
+            "name": "昌平区",
+            "postCode": "102200"
+        },
+        {
+            "name": "大兴区",
+            "postCode": "102600"
+        },
+        {
+            "name": "顺义区",
+            "postCode": "101300"
+        },
+        {
+            "name": "西城区",
+            "postCode": "100032"
+        },
+        {
+            "name": "延庆县",
+            "postCode": "102100"
+        },
+        {
+            "name": "石景山区",
+            "postCode": "100043"
+        },
+        {
+            "name": "宣武区",
+            "postCode": "100054"
+        },
+        {
+            "name": "怀柔区",
+            "postCode": "101400"
+        },
+        {
+            "name": "崇文区",
+            "postCode": "100061"
+        },
+        {
+            "name": "密云县",
+            "postCode": "101500"
+        },
+        {
+            "name": "东城区",
+            "postCode": "100010"
+        },
+        {
+            "name": "平谷区",
+            "postCode": "101200"
+        },
+        {
+            "name": "门头沟区",
+            "postCode": "102300"
+        }
+    ]
+}

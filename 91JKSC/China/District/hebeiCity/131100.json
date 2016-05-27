@@ -1,0 +1,49 @@
+{
+    "city":"衡水市",
+    "district": [
+        {
+            "name": "桃城区",
+            "postCode": "053000"
+        },
+        {
+            "name": "冀州市",
+            "postCode": "053200"
+        },
+        {
+            "name": "深州市",
+            "postCode": "053800"
+        },
+        {
+            "name": "枣强县",
+            "postCode": "053100"
+        },
+        {
+            "name": "武邑县",
+            "postCode": "053400"
+        },
+        {
+            "name": "武强县",
+            "postCode": "053300"
+        },
+        {
+            "name": "饶阳县",
+            "postCode": "053900"
+        },
+        {
+            "name": "安平县",
+            "postCode": "053600"
+        },
+        {
+            "name": "故城县",
+            "postCode": "253800"
+        },
+        {
+            "name": "景　县",
+            "postCode": "053500"
+        },
+        {
+            "name": "阜城县",
+            "postCode": "053700"
+        }
+    ]
+}

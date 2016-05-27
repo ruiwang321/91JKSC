@@ -1,0 +1,45 @@
+{
+    "city": "宜春市",
+    "district": [
+        {
+            "name": "袁州区",
+            "postCode": "336000"
+        },
+        {
+            "name": "丰城市",
+            "postCode": "331100"
+        },
+        {
+            "name": "樟树市",
+            "postCode": "331200"
+        },
+        {
+            "name": "高安市",
+            "postCode": "330800"
+        },
+        {
+            "name": "奉新县",
+            "postCode": "330700"
+        },
+        {
+            "name": "万载县",
+            "postCode": "336100"
+        },
+        {
+            "name": "上高县",
+            "postCode": "336400"
+        },
+        {
+            "name": "宜丰县",
+            "postCode": "336300"
+        },
+        {
+            "name": "靖安县",
+            "postCode": "330600"
+        },
+        {
+            "name": "铜鼓县",
+            "postCode": "336200"
+        }
+    ]
+}

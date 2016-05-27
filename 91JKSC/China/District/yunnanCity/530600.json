@@ -1,0 +1,49 @@
+{
+    "city": "昭通市",
+    "district": [
+        {
+            "name": "昭阳区",
+            "postCode": "657000"
+        },
+        {
+            "name": "鲁甸县",
+            "postCode": "657100"
+        },
+        {
+            "name": "巧家县",
+            "postCode": "654600"
+        },
+        {
+            "name": "盐津县",
+            "postCode": "657500"
+        },
+        {
+            "name": "大关县",
+            "postCode": "657400"
+        },
+        {
+            "name": "永善县",
+            "postCode": "657300"
+        },
+        {
+            "name": "绥江县",
+            "postCode": "657700"
+        },
+        {
+            "name": "镇雄县",
+            "postCode": "657200"
+        },
+        {
+            "name": "彝良县",
+            "postCode": "657600"
+        },
+        {
+            "name": "威信县",
+            "postCode": "657900"
+        },
+        {
+            "name": "水富县",
+            "postCode": "657800"
+        }
+    ]
+}

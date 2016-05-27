@@ -1,0 +1,81 @@
+{
+    "city": "成都市",
+    "district": [
+        {
+            "name": "青羊区　",
+            "postCode": "610031"
+        },
+        {
+            "name": "锦江区　",
+            "postCode": "610011"
+        },
+        {
+            "name": "金牛区　",
+            "postCode": "610036"
+        },
+        {
+            "name": "武侯区　",
+            "postCode": "610041"
+        },
+        {
+            "name": "成华区　",
+            "postCode": "610066"
+        },
+        {
+            "name": "龙泉驿区",
+            "postCode": "610100"
+        },
+        {
+            "name": "青白江区",
+            "postCode": "610300"
+        },
+        {
+            "name": "新都区　",
+            "postCode": "610500"
+        },
+        {
+            "name": "温江区　",
+            "postCode": "611130"
+        },
+        {
+            "name": "都江堰市",
+            "postCode": "611830"
+        },
+        {
+            "name": "彭州市　",
+            "postCode": "611930"
+        },
+        {
+            "name": "邛崃市　",
+            "postCode": "611530"
+        },
+        {
+            "name": "崇州市　",
+            "postCode": "611230"
+        },
+        {
+            "name": "金堂县　",
+            "postCode": "610400"
+        },
+        {
+            "name": "双流县　",
+            "postCode": "610200"
+        },
+        {
+            "name": "郫　县　",
+            "postCode": "611730"
+        },
+        {
+            "name": "大邑县　",
+            "postCode": "611330"
+        },
+        {
+            "name": "蒲江县　",
+            "postCode": "611630"
+        },
+        {
+            "name": "新津县　",
+            "postCode": "611430"
+        }
+    ]
+}

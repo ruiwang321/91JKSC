@@ -1,0 +1,37 @@
+{
+    "city": "和田地区",
+    "district": [
+        {
+            "name": "和田市",
+            "postCode": "848000"
+        },
+        {
+            "name": "和田县",
+            "postCode": "848000"
+        },
+        {
+            "name": "墨玉县",
+            "postCode": "848100"
+        },
+        {
+            "name": "皮山县",
+            "postCode": "845150"
+        },
+        {
+            "name": "洛浦县",
+            "postCode": "848200"
+        },
+        {
+            "name": "策勒县",
+            "postCode": "848300"
+        },
+        {
+            "name": "于田县",
+            "postCode": "848400"
+        },
+        {
+            "name": "民丰县",
+            "postCode": "848500"
+        }
+    ]
+}

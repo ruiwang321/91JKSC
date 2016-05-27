@@ -1,0 +1,41 @@
+{
+    "city": "岳阳市",
+    "district": [
+        {
+            "name": "岳阳楼区",
+            "postCode": "414000"
+        },
+        {
+            "name": "君山区",
+            "postCode": "414005"
+        },
+        {
+            "name": "云溪区",
+            "postCode": "414003"
+        },
+        {
+            "name": "汨罗市",
+            "postCode": "414400"
+        },
+        {
+            "name": "临湘市",
+            "postCode": "414300"
+        },
+        {
+            "name": "岳阳县",
+            "postCode": "414100"
+        },
+        {
+            "name": "华容县",
+            "postCode": "414200"
+        },
+        {
+            "name": "湘阴县",
+            "postCode": "410500"
+        },
+        {
+            "name": "平江县",
+            "postCode": "410400"
+        }
+    ]
+}

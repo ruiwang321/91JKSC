@@ -1,0 +1,52 @@
+{
+    "city": [
+        {
+            "name": "石家庄市",
+            "spellName": "130100"
+        },
+        {
+            "name": "唐山市",
+            "spellName": "130200"
+        },
+        {
+            "name": "保定市",
+            "spellName": "130600"
+        },
+        {
+            "name": "邯郸市",
+            "spellName": "130400"
+        },
+        {
+            "name": "邢台市",
+            "spellName": "130500"
+        },
+        {
+            "name": "河北区",
+            "spellName": "120105"
+        },
+        {
+            "name": "沧州市",
+            "spellName": "130900"
+        },
+        {
+            "name": "秦皇岛市",
+            "spellName": "130300"
+        },
+        {
+            "name": "张家口市",
+            "spellName": "130700"
+        },
+        {
+            "name": "衡水市",
+            "spellName": "131100"
+        },
+        {
+            "name": "廊坊市",
+            "spellName": "131000"
+        },
+        {
+            "name": "承德市",
+            "spellName": "130800"
+        }
+    ]
+}

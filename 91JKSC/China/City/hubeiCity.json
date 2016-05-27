@@ -1,0 +1,72 @@
+{
+    "city": [
+        {
+            "name": "武汉市",
+            "spellName": "420100"
+        },
+        {
+            "name": "宜昌市",
+            "spellName": "420500"
+        },
+        {
+            "name": "襄樊市",
+            "spellName": "420600"
+        },
+        {
+            "name": "荆州市",
+            "spellName": "421000"
+        },
+        {
+            "name": "恩施州",
+            "spellName": "422800"
+        },
+        {
+            "name": "黄冈市",
+            "spellName": "421100"
+        },
+        {
+            "name": "孝感市",
+            "spellName": "420900"
+        },
+        {
+            "name": "十堰市",
+            "spellName": "420300"
+        },
+        {
+            "name": "咸宁市",
+            "spellName": "421200"
+        },
+        {
+            "name": "黄石市",
+            "spellName": "420200"
+        },
+        {
+            "name": "仙桃市",
+            "spellName": "429004"
+        },
+        {
+            "name": "天门市",
+            "spellName": "429006"
+        },
+        {
+            "name": "随州市",
+            "spellName": "421300"
+        },
+        {
+            "name": "荆门市",
+            "spellName": "420800"
+        },
+        {
+            "name": "潜江市",
+            "spellName": "429005"
+        },
+        {
+            "name": "鄂州市",
+            "spellName": "420700"
+        },
+        {
+            "name": "神农架林区",
+            "spellName": "429021"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "city": "延安市",
+    "district": [
+        {
+            "name": "宝塔区",
+            "postCode": "716000"
+        },
+        {
+            "name": "延长县",
+            "postCode": "717100"
+        },
+        {
+            "name": "延川县",
+            "postCode": "717200"
+        },
+        {
+            "name": "子长县",
+            "postCode": "717300"
+        },
+        {
+            "name": "安塞县",
+            "postCode": "717400"
+        },
+        {
+            "name": "志丹县",
+            "postCode": "717500"
+        },
+        {
+            "name": "吴起县",
+            "postCode": "717600"
+        },
+        {
+            "name": "甘泉县",
+            "postCode": "716100"
+        },
+        {
+            "name": "富　县",
+            "postCode": "727500"
+        },
+        {
+            "name": "洛川县",
+            "postCode": "727400"
+        },
+        {
+            "name": "宜川县",
+            "postCode": "716200"
+        },
+        {
+            "name": "黄龙县",
+            "postCode": "715700"
+        },
+        {
+            "name": "黄陵县",
+            "postCode": "727300"
+        }
+    ]
+}

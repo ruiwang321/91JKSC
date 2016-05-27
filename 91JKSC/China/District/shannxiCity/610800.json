@@ -1,0 +1,53 @@
+{
+    "city": "榆林市",
+    "district": [
+        {
+            "name": "榆阳区",
+            "postCode": "719000"
+        },
+        {
+            "name": "神木县",
+            "postCode": "719300"
+        },
+        {
+            "name": "府谷县",
+            "postCode": "719400"
+        },
+        {
+            "name": "横山县",
+            "postCode": "719200"
+        },
+        {
+            "name": "靖边县",
+            "postCode": "718500"
+        },
+        {
+            "name": "定边县",
+            "postCode": "718600"
+        },
+        {
+            "name": "绥德县",
+            "postCode": "718000"
+        },
+        {
+            "name": "米脂县",
+            "postCode": "718100"
+        },
+        {
+            "name": "佳　县",
+            "postCode": "719200"
+        },
+        {
+            "name": "吴堡县",
+            "postCode": "718200"
+        },
+        {
+            "name": "清涧县",
+            "postCode": "718300"
+        },
+        {
+            "name": "子洲县",
+            "postCode": "718400"
+        }
+    ]
+}

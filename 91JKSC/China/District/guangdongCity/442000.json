@@ -1,0 +1,101 @@
+{
+    "city":"中山市",
+    "district": [
+        {
+            "name": "石岐区",
+            "postCode": "528499"
+        },
+        {
+            "name": "东区",
+            "postCode": "528403"
+        },
+        {
+            "name": "西区",
+            "postCode": "528401"
+        },
+        {
+            "name": "环城",
+            "postCode": "528455"
+        },
+        {
+            "name": "中山港",
+            "postCode": "528437"
+        },
+        {
+            "name": "五桂山",
+            "postCode": "528458"
+        },
+        {
+            "name": "港口",
+            "postCode": "528447"
+        },
+        {
+            "name": "三角",
+            "postCode": "528445"
+        },
+        {
+            "name": "民众",
+            "postCode": "528441"
+        },
+        {
+            "name": "南朗",
+            "postCode": "528451"
+        },
+        {
+            "name": "三乡",
+            "postCode": "528463"
+        },
+        {
+            "name": "坦洲",
+            "postCode": "528467"
+        },
+        {
+            "name": "神湾",
+            "postCode": "528462"
+        },
+        {
+            "name": "板芙",
+            "postCode": "528459"
+        },
+        {
+            "name": "大涌",
+            "postCode": "528476"
+        },
+        {
+            "name": "沙溪",
+            "postCode": "528471"
+        },
+        {
+            "name": "横栏",
+            "postCode": "528478"
+        },
+        {
+            "name": "古镇",
+            "postCode": "528421"
+        },
+        {
+            "name": "小榄",
+            "postCode": "528415"
+        },
+        {
+            "name": "东凤",
+            "postCode": "528425"
+        },
+        {
+            "name": "南头",
+            "postCode": "528427"
+        },
+        {
+            "name": "阜沙",
+            "postCode": "528434"
+        },
+        {
+            "name": "黄圃",
+            "postCode": "528429"
+        },
+        {
+            "name": "东升",
+            "postCode": "528414"
+        }
+    ]
+}

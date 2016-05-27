@@ -1,0 +1,37 @@
+{
+    "city": "荆州市",
+    "district": [
+        {
+            "name": "沙市区",
+            "postCode": "434000"
+        },
+        {
+            "name": "荆州区",
+            "postCode": "434020"
+        },
+        {
+            "name": "石首市",
+            "postCode": "434400"
+        },
+        {
+            "name": "洪湖市",
+            "postCode": "433200"
+        },
+        {
+            "name": "松滋市",
+            "postCode": "434200"
+        },
+        {
+            "name": "江陵县",
+            "postCode": "434101"
+        },
+        {
+            "name": "公安县",
+            "postCode": "434300"
+        },
+        {
+            "name": "监利县",
+            "postCode": "433300"
+        }
+    ]
+}

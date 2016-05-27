@@ -1,0 +1,53 @@
+{
+    "city": "三明市",
+    "district": [
+        {
+            "name": "梅列区",
+            "postCode": "365000"
+        },
+        {
+            "name": "三元区",
+            "postCode": "365001"
+        },
+        {
+            "name": "永安市",
+            "postCode": "366000"
+        },
+        {
+            "name": "明溪县",
+            "postCode": "365200"
+        },
+        {
+            "name": "清流县",
+            "postCode": "365300"
+        },
+        {
+            "name": "宁化县",
+            "postCode": "365400"
+        },
+        {
+            "name": "大田县",
+            "postCode": "366100"
+        },
+        {
+            "name": "尤溪县",
+            "postCode": "365100"
+        },
+        {
+            "name": "沙　县",
+            "postCode": "365500"
+        },
+        {
+            "name": "将乐县",
+            "postCode": "353300"
+        },
+        {
+            "name": "泰宁县",
+            "postCode": "354400"
+        },
+        {
+            "name": "建宁县",
+            "postCode": "354500"
+        }
+    ]
+}

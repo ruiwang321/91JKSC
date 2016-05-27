@@ -1,0 +1,49 @@
+{
+    "city": "安庆市",
+    "district": [
+        {
+            "name": "迎江区",
+            "postCode": "246003"
+        },
+        {
+            "name": "大观区",
+            "postCode": "246004"
+        },
+        {
+            "name": "郊　区",
+            "postCode": "246003"
+        },
+        {
+            "name": "桐城市",
+            "postCode": "231400"
+        },
+        {
+            "name": "怀宁县",
+            "postCode": "246100"
+        },
+        {
+            "name": "枞阳县",
+            "postCode": "246700"
+        },
+        {
+            "name": "潜山县",
+            "postCode": "246300"
+        },
+        {
+            "name": "太湖县",
+            "postCode": "246400"
+        },
+        {
+            "name": "宿松县",
+            "postCode": "246500"
+        },
+        {
+            "name": "望江县",
+            "postCode": "246200"
+        },
+        {
+            "name": "岳西县",
+            "postCode": "246600"
+        }
+    ]
+}

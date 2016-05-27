@@ -1,0 +1,53 @@
+{
+    "city": "万宁市",
+    "district": [
+        {
+            "name": "万城镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "龙滚镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "和乐镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "后安镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "大茂镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "东澳镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "礼纪镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "长丰镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "山根镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "北大镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "南桥镇",
+            "postCode": "571500"
+        },
+        {
+            "name": "三更罗镇",
+            "postCode": "571500"
+        }
+    ]
+}

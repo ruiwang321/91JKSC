@@ -1,0 +1,49 @@
+{
+    "city":"徐州市",
+    "district": [
+        {
+            "name": "云龙区",
+            "postCode": "220009"
+        },
+        {
+            "name": "鼓楼区",
+            "postCode": "220005"
+        },
+        {
+            "name": "九里区",
+            "postCode": "220040"
+        },
+        {
+            "name": "贾汪区",
+            "postCode": "220011"
+        },
+        {
+            "name": "泉山区",
+            "postCode": "220006"
+        },
+        {
+            "name": "邳州市",
+            "postCode": "221300"
+        },
+        {
+            "name": "新沂市",
+            "postCode": "221400"
+        },
+        {
+            "name": "铜山县",
+            "postCode": "221116"
+        },
+        {
+            "name": "睢宁县",
+            "postCode": "221200"
+        },
+        {
+            "name": "沛　县",
+            "postCode": "221600"
+        },
+        {
+            "name": "丰　县",
+            "postCode": "221700"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "city": "南宁市",
+    "district": [
+        {
+            "name": "青秀区",
+            "postCode": "530022"
+        },
+        {
+            "name": "兴宁区",
+            "postCode": "530012"
+        },
+        {
+            "name": "江南区",
+            "postCode": "530031"
+        },
+        {
+            "name": "西乡塘区",
+            "postCode": "530001"
+        },
+        {
+            "name": "良庆区",
+            "postCode": "530200"
+        },
+        {
+            "name": "邕宁区",
+            "postCode": "530200"
+        },
+        {
+            "name": "武鸣县",
+            "postCode": "530100"
+        },
+        {
+            "name": "横　县",
+            "postCode": "530300"
+        },
+        {
+            "name": "宾阳县",
+            "postCode": "530400"
+        },
+        {
+            "name": "上林县",
+            "postCode": "530500"
+        },
+        {
+            "name": "隆安县",
+            "postCode": "532700"
+        },
+        {
+            "name": "马山县",
+            "postCode": "530600"
+        }
+    ]
+}

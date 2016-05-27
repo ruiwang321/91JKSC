@@ -1,0 +1,41 @@
+{
+    "city":"商丘市",
+    "district": [
+        {
+            "name": "梁园区",
+            "postCode": "476000"
+        },
+        {
+            "name": "睢阳区",
+            "postCode": "476100"
+        },
+        {
+            "name": "永城市",
+            "postCode": "456550"
+        },
+        {
+            "name": "虞城县",
+            "postCode": "476100"
+        },
+        {
+            "name": "民权县",
+            "postCode": "476600"
+        },
+        {
+            "name": "宁陵县",
+            "postCode": "476700"
+        },
+        {
+            "name": "睢　县",
+            "postCode": "476900"
+        },
+        {
+            "name": "夏邑县",
+            "postCode": "476400"
+        },
+        {
+            "name": "柘城县",
+            "postCode": "476200"
+        }
+    ]
+}

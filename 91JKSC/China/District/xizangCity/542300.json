@@ -1,0 +1,77 @@
+{
+    "city": "日喀则地区",
+    "district": [
+        {
+            "name": "日喀则市",
+            "postCode": "857000"
+        },
+        {
+            "name": "南木林县",
+            "postCode": "857100"
+        },
+        {
+            "name": "江孜县",
+            "postCode": "857400"
+        },
+        {
+            "name": "定日县",
+            "postCode": "858200"
+        },
+        {
+            "name": "萨迦县",
+            "postCode": "857800"
+        },
+        {
+            "name": "拉孜县",
+            "postCode": "858100"
+        },
+        {
+            "name": "昂仁县",
+            "postCode": "858500"
+        },
+        {
+            "name": "谢通门县",
+            "postCode": "858900"
+        },
+        {
+            "name": "白朗县",
+            "postCode": "857300"
+        },
+        {
+            "name": "仁布县",
+            "postCode": "857200"
+        },
+        {
+            "name": "康马县",
+            "postCode": "857500"
+        },
+        {
+            "name": "定结县",
+            "postCode": "857900"
+        },
+        {
+            "name": "仲巴县",
+            "postCode": "858800"
+        },
+        {
+            "name": "亚东县",
+            "postCode": "857600"
+        },
+        {
+            "name": "吉隆县",
+            "postCode": "858700"
+        },
+        {
+            "name": "聂拉木县",
+            "postCode": "858300"
+        },
+        {
+            "name": "萨嘎县",
+            "postCode": "858600"
+        },
+        {
+            "name": "岗巴县",
+            "postCode": "857700"
+        }
+    ]
+}

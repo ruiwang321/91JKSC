@@ -1,0 +1,37 @@
+{
+    "city":"无锡市",
+    "district": [
+        {
+            "name": "崇安区",
+            "postCode": "214002"
+        },
+        {
+            "name": "南长区",
+            "postCode": "214021"
+        },
+        {
+            "name": "北塘区",
+            "postCode": "214044"
+        },
+        {
+            "name": "滨湖区",
+            "postCode": "214062"
+        },
+        {
+            "name": "惠山区",
+            "postCode": "214187"
+        },
+        {
+            "name": "锡山区",
+            "postCode": "214101"
+        },
+        {
+            "name": "江阴市",
+            "postCode": "214400"
+        },
+        {
+            "name": "宜兴市",
+            "postCode": "214200"
+        }
+    ]
+}

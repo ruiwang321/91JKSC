@@ -1,0 +1,41 @@
+{
+    "city":"菏泽市",
+    "district": [
+        {
+            "name": "牡丹区",
+            "postCode": "274009"
+        },
+        {
+            "name": "曹　县",
+            "postCode": "274400"
+        },
+        {
+            "name": "定陶县",
+            "postCode": "274100"
+        },
+        {
+            "name": "成武县",
+            "postCode": "274200"
+        },
+        {
+            "name": "单　县",
+            "postCode": "273700"
+        },
+        {
+            "name": "巨野县",
+            "postCode": "274900"
+        },
+        {
+            "name": "郓城县",
+            "postCode": "274700"
+        },
+        {
+            "name": "鄄城县",
+            "postCode": "274600"
+        },
+        {
+            "name": "东明县",
+            "postCode": "274500"
+        }
+    ]
+}

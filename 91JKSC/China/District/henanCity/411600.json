@@ -1,0 +1,45 @@
+{
+    "city":"周口市",
+    "district": [
+        {
+            "name": "川汇区",
+            "postCode": "466000"
+        },
+        {
+            "name": "项城市",
+            "postCode": "466200"
+        },
+        {
+            "name": "扶沟县",
+            "postCode": "461300"
+        },
+        {
+            "name": "西华县",
+            "postCode": "466600"
+        },
+        {
+            "name": "商水县",
+            "postCode": "466100"
+        },
+        {
+            "name": "太康县",
+            "postCode": "461400"
+        },
+        {
+            "name": "鹿邑县",
+            "postCode": "477200"
+        },
+        {
+            "name": "郸城县",
+            "postCode": "477150"
+        },
+        {
+            "name": "淮阳县",
+            "postCode": "466700"
+        },
+        {
+            "name": "沈丘县",
+            "postCode": "466300"
+        }
+    ]
+}

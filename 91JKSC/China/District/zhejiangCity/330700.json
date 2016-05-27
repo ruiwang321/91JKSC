@@ -1,0 +1,41 @@
+{
+    "city": "金华市",
+    "district": [
+        {
+            "name": "婺城区",
+            "postCode": "321000"
+        },
+        {
+            "name": "金东区",
+            "postCode": "321000"
+        },
+        {
+            "name": "兰溪市",
+            "postCode": "321100"
+        },
+        {
+            "name": "永康市",
+            "postCode": "321300"
+        },
+        {
+            "name": "义乌市",
+            "postCode": "322000"
+        },
+        {
+            "name": "东阳市",
+            "postCode": "322100"
+        },
+        {
+            "name": "武义县",
+            "postCode": "321200"
+        },
+        {
+            "name": "浦江县",
+            "postCode": "322200"
+        },
+        {
+            "name": "磐安县",
+            "postCode": "322300"
+        }
+    ]
+}

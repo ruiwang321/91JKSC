@@ -1,0 +1,33 @@
+{
+    "city": "龙岩市",
+    "district": [
+        {
+            "name": "新罗区",
+            "postCode": "364000"
+        },
+        {
+            "name": "漳平市",
+            "postCode": "364400"
+        },
+        {
+            "name": "长汀县",
+            "postCode": "366300"
+        },
+        {
+            "name": "永定县",
+            "postCode": "364100"
+        },
+        {
+            "name": "上杭县",
+            "postCode": "366300"
+        },
+        {
+            "name": "武平县",
+            "postCode": "364300"
+        },
+        {
+            "name": "连城县",
+            "postCode": "366200"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "city": "延边州",
+    "district": [
+        {
+            "name": "延吉市",
+            "postCode": "133000"
+        },
+        {
+            "name": "图们市",
+            "postCode": "133100"
+        },
+        {
+            "name": "敦化市",
+            "postCode": "133700"
+        },
+        {
+            "name": "珲春市",
+            "postCode": "133300"
+        },
+        {
+            "name": "龙井市",
+            "postCode": "133400"
+        },
+        {
+            "name": "和龙市",
+            "postCode": "133500"
+        },
+        {
+            "name": "汪清县",
+            "postCode": "133200"
+        },
+        {
+            "name": "安图县",
+            "postCode": "133600"
+        }
+    ]
+}

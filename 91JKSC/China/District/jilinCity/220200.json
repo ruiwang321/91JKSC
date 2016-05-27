@@ -1,0 +1,41 @@
+{
+    "city": "吉林市",
+    "district": [
+        {
+            "name": "船营区",
+            "postCode": "132011"
+        },
+        {
+            "name": "龙潭区",
+            "postCode": "132021"
+        },
+        {
+            "name": "昌邑区",
+            "postCode": "132002"
+        },
+        {
+            "name": "丰满区",
+            "postCode": "132113"
+        },
+        {
+            "name": "磐石市",
+            "postCode": "132300"
+        },
+        {
+            "name": "蛟河市",
+            "postCode": "132500"
+        },
+        {
+            "name": "桦甸市",
+            "postCode": "132400"
+        },
+        {
+            "name": "舒兰市",
+            "postCode": "132600"
+        },
+        {
+            "name": "永吉县",
+            "postCode": "132200"
+        }
+    ]
+}

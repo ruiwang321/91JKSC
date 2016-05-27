@@ -1,0 +1,77 @@
+{
+    "city": "甘孜州",
+    "district": [
+        {
+            "name": "康定县",
+            "postCode": "626000"
+        },
+        {
+            "name": "泸定县",
+            "postCode": "626100"
+        },
+        {
+            "name": "丹巴县",
+            "postCode": "626300"
+        },
+        {
+            "name": "九龙县",
+            "postCode": "616200"
+        },
+        {
+            "name": "雅江县",
+            "postCode": "627450"
+        },
+        {
+            "name": "道孚县",
+            "postCode": "626400"
+        },
+        {
+            "name": "炉霍县",
+            "postCode": "626500"
+        },
+        {
+            "name": "甘孜县",
+            "postCode": "626700"
+        },
+        {
+            "name": "新龙县",
+            "postCode": "626800"
+        },
+        {
+            "name": "德格县",
+            "postCode": "627250"
+        },
+        {
+            "name": "白玉县",
+            "postCode": "627150"
+        },
+        {
+            "name": "石渠县",
+            "postCode": "627350"
+        },
+        {
+            "name": "色达县",
+            "postCode": "626600"
+        },
+        {
+            "name": "理塘县",
+            "postCode": "624300"
+        },
+        {
+            "name": "巴塘县",
+            "postCode": "627650"
+        },
+        {
+            "name": "乡城县",
+            "postCode": "627850"
+        },
+        {
+            "name": "稻城县",
+            "postCode": "627750"
+        },
+        {
+            "name": "得荣县",
+            "postCode": "627950"
+        }
+    ]
+}

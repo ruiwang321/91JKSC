@@ -1,0 +1,49 @@
+{
+    "city": "昌都地区",
+    "district": [
+        {
+            "name": "昌都县",
+            "postCode": "854000"
+        },
+        {
+            "name": "江达县",
+            "postCode": "854100"
+        },
+        {
+            "name": "贡觉县",
+            "postCode": "854200"
+        },
+        {
+            "name": "类乌齐县",
+            "postCode": "855600"
+        },
+        {
+            "name": "丁青县",
+            "postCode": "855700"
+        },
+        {
+            "name": "察雅县",
+            "postCode": "854300"
+        },
+        {
+            "name": "八宿县",
+            "postCode": "854600"
+        },
+        {
+            "name": "左贡县",
+            "postCode": "854400"
+        },
+        {
+            "name": "芒康县",
+            "postCode": "854500"
+        },
+        {
+            "name": "洛隆县",
+            "postCode": "855400"
+        },
+        {
+            "name": "边坝县",
+            "postCode": "855500"
+        }
+    ]
+}

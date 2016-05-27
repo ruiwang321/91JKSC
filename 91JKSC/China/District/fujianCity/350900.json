@@ -1,0 +1,41 @@
+{
+    "city": "宁德市",
+    "district": [
+        {
+            "name": "蕉城区",
+            "postCode": "352100"
+        },
+        {
+            "name": "福安市",
+            "postCode": "355000"
+        },
+        {
+            "name": "福鼎市",
+            "postCode": "355200"
+        },
+        {
+            "name": "寿宁县",
+            "postCode": "355500"
+        },
+        {
+            "name": "霞浦县",
+            "postCode": "355100"
+        },
+        {
+            "name": "柘荣县",
+            "postCode": "355300"
+        },
+        {
+            "name": "屏南县",
+            "postCode": "352300"
+        },
+        {
+            "name": "古田县",
+            "postCode": "352200"
+        },
+        {
+            "name": "周宁县",
+            "postCode": "355400"
+        }
+    ]
+}

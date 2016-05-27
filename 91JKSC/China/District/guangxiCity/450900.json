@@ -1,0 +1,29 @@
+{
+    "city": "玉林市",
+    "district": [
+        {
+            "name": "玉州区",
+            "postCode": "537000"
+        },
+        {
+            "name": "北流市",
+            "postCode": "537400"
+        },
+        {
+            "name": "兴业县",
+            "postCode": "537800"
+        },
+        {
+            "name": "容　县",
+            "postCode": "537500"
+        },
+        {
+            "name": "陆川县",
+            "postCode": "537700"
+        },
+        {
+            "name": "博白县",
+            "postCode": "537600"
+        }
+    ]
+}

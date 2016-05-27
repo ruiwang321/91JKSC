@@ -1,0 +1,45 @@
+{
+    "city": "那曲地区",
+    "district": [
+        {
+            "name": "那曲县",
+            "postCode": "852000"
+        },
+        {
+            "name": "嘉黎县",
+            "postCode": "852400"
+        },
+        {
+            "name": "比如县",
+            "postCode": "852300"
+        },
+        {
+            "name": "聂荣县",
+            "postCode": "853500"
+        },
+        {
+            "name": "安多县",
+            "postCode": "853400"
+        },
+        {
+            "name": "申扎县",
+            "postCode": "853100"
+        },
+        {
+            "name": "索　县",
+            "postCode": "852200"
+        },
+        {
+            "name": "班戈县",
+            "postCode": "852500"
+        },
+        {
+            "name": "巴青县",
+            "postCode": "852100"
+        },
+        {
+            "name": "尼玛县",
+            "postCode": "853200"
+        }
+    ]
+}

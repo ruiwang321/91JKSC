@@ -1,0 +1,33 @@
+{
+    "city": "嘉兴市",
+    "district": [
+        {
+            "name": "南湖区",
+            "postCode": "314001"
+        },
+        {
+            "name": "秀洲区",
+            "postCode": "314001"
+        },
+        {
+            "name": "平湖市",
+            "postCode": "314200"
+        },
+        {
+            "name": "海宁市",
+            "postCode": "314400"
+        },
+        {
+            "name": "桐乡市",
+            "postCode": "314500"
+        },
+        {
+            "name": "嘉善县",
+            "postCode": "314100"
+        },
+        {
+            "name": "海盐县",
+            "postCode": "314300"
+        }
+    ]
+}

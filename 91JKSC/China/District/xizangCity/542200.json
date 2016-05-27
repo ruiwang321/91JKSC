@@ -1,0 +1,53 @@
+{
+    "city": "山南地区",
+    "district": [
+        {
+            "name": "乃东县",
+            "postCode": "856100"
+        },
+        {
+            "name": "扎囊县",
+            "postCode": "850800"
+        },
+        {
+            "name": "贡嘎县",
+            "postCode": "850700"
+        },
+        {
+            "name": "桑日县",
+            "postCode": "856200"
+        },
+        {
+            "name": "琼结县",
+            "postCode": "856800"
+        },
+        {
+            "name": "曲松县",
+            "postCode": "856300"
+        },
+        {
+            "name": "措美县",
+            "postCode": "856900"
+        },
+        {
+            "name": "洛扎县",
+            "postCode": "851200"
+        },
+        {
+            "name": "加查县",
+            "postCode": "856400"
+        },
+        {
+            "name": "隆子县",
+            "postCode": "856600"
+        },
+        {
+            "name": "错那县",
+            "postCode": "856700"
+        },
+        {
+            "name": "浪卡子县",
+            "postCode": "851100"
+        }
+    ]
+}

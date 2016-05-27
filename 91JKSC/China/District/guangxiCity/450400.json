@@ -1,0 +1,33 @@
+{
+    "city": "梧州市",
+    "district": [
+        {
+            "name": "万秀区",
+            "postCode": "543000"
+        },
+        {
+            "name": "蝶山区",
+            "postCode": "543002"
+        },
+        {
+            "name": "长洲区",
+            "postCode": "543002"
+        },
+        {
+            "name": "岑溪市",
+            "postCode": "543200"
+        },
+        {
+            "name": "苍梧县",
+            "postCode": "543100"
+        },
+        {
+            "name": "藤　县",
+            "postCode": "543300"
+        },
+        {
+            "name": "蒙山县",
+            "postCode": "546700"
+        }
+    ]
+}

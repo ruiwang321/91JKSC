@@ -1,0 +1,41 @@
+{
+    "city": "陇南市",
+    "district": [
+        {
+            "name": "武都区",
+            "postCode": "746000"
+        },
+        {
+            "name": "成　县",
+            "postCode": "742500"
+        },
+        {
+            "name": "宕昌县",
+            "postCode": "748500"
+        },
+        {
+            "name": "康　县",
+            "postCode": "746500"
+        },
+        {
+            "name": "文　县",
+            "postCode": "746400"
+        },
+        {
+            "name": "西和县",
+            "postCode": "742100"
+        },
+        {
+            "name": "礼　县",
+            "postCode": "742200"
+        },
+        {
+            "name": "两当县",
+            "postCode": "742400"
+        },
+        {
+            "name": "徽　县",
+            "postCode": "742300"
+        }
+    ]
+}

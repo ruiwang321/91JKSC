@@ -1,0 +1,33 @@
+{
+    "city": "六安市",
+    "district": [
+        {
+            "name": "金安区",
+            "postCode": "237005"
+        },
+        {
+            "name": "裕安区",
+            "postCode": "237010"
+        },
+        {
+            "name": "寿　县",
+            "postCode": "232200"
+        },
+        {
+            "name": "霍邱县",
+            "postCode": "237400"
+        },
+        {
+            "name": "舒城县",
+            "postCode": "231300"
+        },
+        {
+            "name": "金寨县",
+            "postCode": "237300"
+        },
+        {
+            "name": "霍山县",
+            "postCode": "237200"
+        }
+    ]
+}

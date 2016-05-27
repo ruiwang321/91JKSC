@@ -1,0 +1,88 @@
+{
+    "city": [
+        {
+            "name": "东莞市",
+            "spellName": "441900"
+        },
+        {
+            "name": "广州市",
+            "spellName": "440100"
+        },
+        {
+            "name": "中山市",
+            "spellName": "442000"
+        },
+        {
+            "name": "深圳市",
+            "spellName": "440300"
+        },
+        {
+            "name": "惠州市",
+            "spellName": "441300"
+        },
+        {
+            "name": "江门市",
+            "spellName": "440700"
+        },
+        {
+            "name": "珠海市",
+            "spellName": "440400"
+        },
+        {
+            "name": "汕头市",
+            "spellName": "440500"
+        },
+        {
+            "name": "佛山市",
+            "spellName": "440600"
+        },
+        {
+            "name": "湛江市",
+            "spellName": "440800"
+        },
+        {
+            "name": "河源市",
+            "spellName": "441600"
+        },
+        {
+            "name": "肇庆市",
+            "spellName": "441200"
+        },
+        {
+            "name": "清远市",
+            "spellName": "441800"
+        },
+        {
+            "name": "潮州市",
+            "spellName": "445100"
+        },
+        {
+            "name": "韶关市",
+            "spellName": "440200"
+        },
+        {
+            "name": "揭阳市",
+            "spellName": "445200"
+        },
+        {
+            "name": "阳江市",
+            "spellName": "441700"
+        },
+        {
+            "name": "梅州市",
+            "spellName": "441400"
+        },
+        {
+            "name": "云浮市",
+            "spellName": "445300"
+        },
+        {
+            "name": "茂名市",
+            "spellName": "440900"
+        },
+        {
+            "name": "汕尾市",
+            "spellName": "441500"
+        }
+    ]
+}

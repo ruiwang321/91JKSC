@@ -1,0 +1,77 @@
+{
+    "city": "赣州市",
+    "district": [
+        {
+            "name": "章贡区",
+            "postCode": "341000"
+        },
+        {
+            "name": "瑞金市",
+            "postCode": "342500"
+        },
+        {
+            "name": "南康市",
+            "postCode": "341400"
+        },
+        {
+            "name": "赣　县",
+            "postCode": "341100"
+        },
+        {
+            "name": "信丰县",
+            "postCode": "341600"
+        },
+        {
+            "name": "大余县",
+            "postCode": "341500"
+        },
+        {
+            "name": "上犹县",
+            "postCode": "341200"
+        },
+        {
+            "name": "崇义县",
+            "postCode": "341300"
+        },
+        {
+            "name": "安远县",
+            "postCode": "342100"
+        },
+        {
+            "name": "龙南县",
+            "postCode": "341700"
+        },
+        {
+            "name": "定南县",
+            "postCode": "341900"
+        },
+        {
+            "name": "全南县",
+            "postCode": "341800"
+        },
+        {
+            "name": "宁都县",
+            "postCode": "342800"
+        },
+        {
+            "name": "于都县",
+            "postCode": "342300"
+        },
+        {
+            "name": "兴国县",
+            "postCode": "342400"
+        },
+        {
+            "name": "会昌县",
+            "postCode": "342600"
+        },
+        {
+            "name": "寻乌县",
+            "postCode": "342210"
+        },
+        {
+            "name": "石城县",
+            "postCode": "342700"
+        }
+    ]
+}

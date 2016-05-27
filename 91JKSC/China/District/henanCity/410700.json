@@ -1,0 +1,53 @@
+{
+    "city":"新乡市",
+    "district": [
+        {
+            "name": "卫滨区",
+            "postCode": "453000"
+        },
+        {
+            "name": "红旗区",
+            "postCode": "453000"
+        },
+        {
+            "name": "凤泉区",
+            "postCode": "453011"
+        },
+        {
+            "name": "牧野区",
+            "postCode": "453002"
+        },
+        {
+            "name": "卫辉市",
+            "postCode": "453100"
+        },
+        {
+            "name": "辉县市",
+            "postCode": "453600"
+        },
+        {
+            "name": "新乡县",
+            "postCode": "453700"
+        },
+        {
+            "name": "获嘉县",
+            "postCode": "453800"
+        },
+        {
+            "name": "原阳县",
+            "postCode": "453500"
+        },
+        {
+            "name": "延津县",
+            "postCode": "453200"
+        },
+        {
+            "name": "封丘县",
+            "postCode": "453300"
+        },
+        {
+            "name": "长垣县",
+            "postCode": "453400"
+        }
+    ]
+}

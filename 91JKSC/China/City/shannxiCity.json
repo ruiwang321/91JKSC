@@ -1,0 +1,44 @@
+{
+    "city": [
+        {
+            "name": "西安市",
+            "spellName": "610100"
+        },
+        {
+            "name": "咸阳市",
+            "spellName": "610400"
+        },
+        {
+            "name": "宝鸡市",
+            "spellName": "610300"
+        },
+        {
+            "name": "汉中市",
+            "spellName": "610700"
+        },
+        {
+            "name": "渭南市",
+            "spellName": "610500"
+        },
+        {
+            "name": "安康市",
+            "spellName": "610900"
+        },
+        {
+            "name": "榆林市",
+            "spellName": "610800"
+        },
+        {
+            "name": "商洛市",
+            "spellName": "611000"
+        },
+        {
+            "name": "延安市",
+            "spellName": "610600"
+        },
+        {
+            "name": "铜川市",
+            "spellName": "610200"
+        }
+    ]
+}

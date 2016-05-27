@@ -1,0 +1,37 @@
+{
+    "city": "庆阳市",
+    "district": [
+        {
+            "name": "西峰区",
+            "postCode": "745000"
+        },
+        {
+            "name": "庆城县",
+            "postCode": "745100"
+        },
+        {
+            "name": "环　县",
+            "postCode": "745700"
+        },
+        {
+            "name": "华池县",
+            "postCode": "745600"
+        },
+        {
+            "name": "合水县",
+            "postCode": "745400"
+        },
+        {
+            "name": "正宁县",
+            "postCode": "745300"
+        },
+        {
+            "name": "宁　县",
+            "postCode": "745200"
+        },
+        {
+            "name": "镇原县",
+            "postCode": "744500"
+        }
+    ]
+}

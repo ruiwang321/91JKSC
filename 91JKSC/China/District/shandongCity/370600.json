@@ -1,0 +1,53 @@
+{
+    "city":"烟台市",
+    "district": [
+        {
+            "name": "莱山区",
+            "postCode": "264600"
+        },
+        {
+            "name": "芝罘区",
+            "postCode": "264001"
+        },
+        {
+            "name": "福山区",
+            "postCode": "265500"
+        },
+        {
+            "name": "牟平区",
+            "postCode": "264100"
+        },
+        {
+            "name": "栖霞市",
+            "postCode": "265300"
+        },
+        {
+            "name": "海阳市",
+            "postCode": "265100"
+        },
+        {
+            "name": "龙口市",
+            "postCode": "265700"
+        },
+        {
+            "name": "莱阳市",
+            "postCode": "265200"
+        },
+        {
+            "name": "莱州市",
+            "postCode": "261400"
+        },
+        {
+            "name": "蓬莱市",
+            "postCode": "265600"
+        },
+        {
+            "name": "招远市",
+            "postCode": "265400"
+        },
+        {
+            "name": "长岛县",
+            "postCode": "265800"
+        }
+    ]
+}

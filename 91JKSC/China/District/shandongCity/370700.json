@@ -1,0 +1,53 @@
+{
+    "city":"潍坊市",
+    "district": [
+        {
+            "name": "潍城区",
+            "postCode": "261021"
+        },
+        {
+            "name": "寒亭区",
+            "postCode": "261100"
+        },
+        {
+            "name": "坊子区",
+            "postCode": "261200"
+        },
+        {
+            "name": "奎文区",
+            "postCode": "261041"
+        },
+        {
+            "name": "安丘市",
+            "postCode": "262100"
+        },
+        {
+            "name": "昌邑市",
+            "postCode": "261300"
+        },
+        {
+            "name": "高密市",
+            "postCode": "261500"
+        },
+        {
+            "name": "青州市",
+            "postCode": "262500"
+        },
+        {
+            "name": "诸城市",
+            "postCode": "262200"
+        },
+        {
+            "name": "寿光市",
+            "postCode": "262700"
+        },
+        {
+            "name": "临朐县",
+            "postCode": "262600"
+        },
+        {
+            "name": "昌乐县",
+            "postCode": "262400"
+        }
+    ]
+}

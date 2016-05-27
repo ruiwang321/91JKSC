@@ -1,0 +1,57 @@
+{
+    "city": "武汉市",
+    "district": [
+        {
+            "name": "江岸区",
+            "postCode": "430014"
+        },
+        {
+            "name": "江汉区",
+            "postCode": "430015"
+        },
+        {
+            "name": "硚口区",
+            "postCode": "430033"
+        },
+        {
+            "name": "汉阳区",
+            "postCode": "430050"
+        },
+        {
+            "name": "武昌区",
+            "postCode": "430061"
+        },
+        {
+            "name": "青山区",
+            "postCode": "430080"
+        },
+        {
+            "name": "洪山区",
+            "postCode": "430070"
+        },
+        {
+            "name": "东西湖区",
+            "postCode": "430040"
+        },
+        {
+            "name": "汉南区",
+            "postCode": "430090"
+        },
+        {
+            "name": "蔡甸区",
+            "postCode": "430100"
+        },
+        {
+            "name": "江夏区",
+            "postCode": "430200"
+        },
+        {
+            "name": "黄陂区",
+            "postCode": "432200"
+        },
+        {
+            "name": "新洲区",
+            "postCode": "431400"
+        }
+    ]
+}

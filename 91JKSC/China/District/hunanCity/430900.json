@@ -1,0 +1,29 @@
+{
+    "city": "益阳市",
+    "district": [
+        {
+            "name": "赫山区",
+            "postCode": "413002"
+        },
+        {
+            "name": "资阳区",
+            "postCode": "413000"
+        },
+        {
+            "name": "沅江市",
+            "postCode": "413100"
+        },
+        {
+            "name": "南　县",
+            "postCode": "413200"
+        },
+        {
+            "name": "桃江县",
+            "postCode": "413400"
+        },
+        {
+            "name": "安化县",
+            "postCode": "413500"
+        }
+    ]
+}

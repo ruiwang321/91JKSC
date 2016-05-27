@@ -1,0 +1,49 @@
+{
+    "city": "温州市",
+    "district": [
+        {
+            "name": "鹿城区",
+            "postCode": "325000"
+        },
+        {
+            "name": "龙湾区",
+            "postCode": "325024"
+        },
+        {
+            "name": "瓯海区",
+            "postCode": "325005"
+        },
+        {
+            "name": "瑞安市",
+            "postCode": "325200"
+        },
+        {
+            "name": "乐清市",
+            "postCode": "325600"
+        },
+        {
+            "name": "洞头县",
+            "postCode": "325700"
+        },
+        {
+            "name": "永嘉县",
+            "postCode": "325100"
+        },
+        {
+            "name": "平阳县",
+            "postCode": "325400"
+        },
+        {
+            "name": "苍南县",
+            "postCode": "325800"
+        },
+        {
+            "name": "文成县",
+            "postCode": "325300"
+        },
+        {
+            "name": "泰顺县",
+            "postCode": "325500"
+        }
+    ]
+}

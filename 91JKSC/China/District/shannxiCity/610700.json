@@ -1,0 +1,49 @@
+{
+    "city": "汉中市",
+    "district": [
+        {
+            "name": "汉台区",
+            "postCode": "723000"
+        },
+        {
+            "name": "南郑县",
+            "postCode": "723100"
+        },
+        {
+            "name": "城固县",
+            "postCode": "723200"
+        },
+        {
+            "name": "洋　县",
+            "postCode": "723300"
+        },
+        {
+            "name": "西乡县",
+            "postCode": "723500"
+        },
+        {
+            "name": "勉　县",
+            "postCode": "724200"
+        },
+        {
+            "name": "宁强县",
+            "postCode": "724400"
+        },
+        {
+            "name": "略阳县",
+            "postCode": "724300"
+        },
+        {
+            "name": "镇巴县",
+            "postCode": "723600"
+        },
+        {
+            "name": "留坝县",
+            "postCode": "724100"
+        },
+        {
+            "name": "佛坪县",
+            "postCode": "723400"
+        }
+    ]
+}

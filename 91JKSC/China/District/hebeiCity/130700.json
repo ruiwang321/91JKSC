@@ -1,0 +1,73 @@
+{
+    "city":"张家口市",
+    "district": [
+        {
+            "name": "桥西区",
+            "postCode": "075061"
+        },
+        {
+            "name": "桥东区",
+            "postCode": "075000"
+        },
+        {
+            "name": "宣化区",
+            "postCode": "075100"
+        },
+        {
+            "name": "下花园区",
+            "postCode": "075300"
+        },
+        {
+            "name": "宣化县",
+            "postCode": "075100"
+        },
+        {
+            "name": "张北县",
+            "postCode": "076450"
+        },
+        {
+            "name": "康保县",
+            "postCode": "076650"
+        },
+        {
+            "name": "沽源县",
+            "postCode": "076550"
+        },
+        {
+            "name": "尚义县",
+            "postCode": "076750"
+        },
+        {
+            "name": "蔚　县",
+            "postCode": "075700"
+        },
+        {
+            "name": "阳原县",
+            "postCode": "075800"
+        },
+        {
+            "name": "怀安县",
+            "postCode": "076150"
+        },
+        {
+            "name": "万全县",
+            "postCode": "076250"
+        },
+        {
+            "name": "怀来县",
+            "postCode": "075400"
+        },
+        {
+            "name": "涿鹿县",
+            "postCode": "075600"
+        },
+        {
+            "name": "赤城县",
+            "postCode": "075500"
+        },
+        {
+            "name": "崇礼县",
+            "postCode": "076350"
+        }
+    ]
+}

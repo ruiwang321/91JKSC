@@ -1,0 +1,45 @@
+{
+    "city": "定安县",
+    "district": [
+        {
+            "name": "定城镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "新竹镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "龙湖镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "黄竹镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "雷鸣镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "龙门镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "龙河镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "岭口镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "翰林镇",
+            "postCode": "571200"
+        },
+        {
+            "name": "富文镇",
+            "postCode": "571200"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "city": "儋州市",
+    "district": [
+        {
+            "name": "那大镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "和庆镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "南丰镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "大成镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "雅星镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "兰洋镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "光村镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "木棠镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "海头镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "峨蔓镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "三都镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "王五镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "白马井镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "中和镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "排浦镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "东成镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "新州镇",
+            "postCode": "571700"
+        },
+        {
+            "name": "洋浦经济开发区",
+            "postCode": "571700"
+        }
+    ]
+}

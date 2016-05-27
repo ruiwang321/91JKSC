@@ -1,0 +1,41 @@
+{
+    "city": "南充市",
+    "district": [
+        {
+            "name": "顺庆区",
+            "postCode": "637000"
+        },
+        {
+            "name": "高坪区",
+            "postCode": "637100"
+        },
+        {
+            "name": "嘉陵区",
+            "postCode": "637500"
+        },
+        {
+            "name": "阆中市",
+            "postCode": "637400"
+        },
+        {
+            "name": "南部县",
+            "postCode": "637300"
+        },
+        {
+            "name": "营山县",
+            "postCode": "637700"
+        },
+        {
+            "name": "蓬安县",
+            "postCode": "637800"
+        },
+        {
+            "name": "仪陇县",
+            "postCode": "637600"
+        },
+        {
+            "name": "西充县",
+            "postCode": "637200"
+        }
+    ]
+}

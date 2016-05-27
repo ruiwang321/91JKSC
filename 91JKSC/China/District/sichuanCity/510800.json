@@ -1,0 +1,33 @@
+{
+    "city": "广元市",
+    "district": [
+        {
+            "name": "市中区",
+            "postCode": "628017"
+        },
+        {
+            "name": "元坝区",
+            "postCode": "628021"
+        },
+        {
+            "name": "朝天区",
+            "postCode": "628012"
+        },
+        {
+            "name": "旺苍县",
+            "postCode": "628200"
+        },
+        {
+            "name": "青川县",
+            "postCode": "628100"
+        },
+        {
+            "name": "剑阁县",
+            "postCode": "628300"
+        },
+        {
+            "name": "苍溪县",
+            "postCode": "628400"
+        }
+    ]
+}

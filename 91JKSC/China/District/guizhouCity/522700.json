@@ -1,0 +1,53 @@
+{
+    "city": "黔南州",
+    "district": [
+        {
+            "name": "都匀市",
+            "postCode": "558000"
+        },
+        {
+            "name": "福泉市",
+            "postCode": "550500"
+        },
+        {
+            "name": "荔波县",
+            "postCode": "558400"
+        },
+        {
+            "name": "贵定县",
+            "postCode": "551300"
+        },
+        {
+            "name": "瓮安县",
+            "postCode": "550400"
+        },
+        {
+            "name": "独山县",
+            "postCode": "558200"
+        },
+        {
+            "name": "平塘县",
+            "postCode": "558300"
+        },
+        {
+            "name": "罗甸县",
+            "postCode": "550100"
+        },
+        {
+            "name": "长顺县",
+            "postCode": "550700"
+        },
+        {
+            "name": "龙里县",
+            "postCode": "551200"
+        },
+        {
+            "name": "惠水县",
+            "postCode": "550600"
+        },
+        {
+            "name": "三都水族自治县",
+            "postCode": "558100"
+        }
+    ]
+}

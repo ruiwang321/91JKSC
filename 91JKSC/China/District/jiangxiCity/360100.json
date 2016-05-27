@@ -1,0 +1,41 @@
+{
+    "city": "南昌市",
+    "district": [
+        {
+            "name": "东湖区",
+            "postCode": "330006"
+        },
+        {
+            "name": "西湖区",
+            "postCode": "330009"
+        },
+        {
+            "name": "青云谱区",
+            "postCode": "330001"
+        },
+        {
+            "name": "湾里区",
+            "postCode": "330004"
+        },
+        {
+            "name": "青山湖区",
+            "postCode": "330006"
+        },
+        {
+            "name": "南昌县",
+            "postCode": "330200"
+        },
+        {
+            "name": "新建县",
+            "postCode": "330100"
+        },
+        {
+            "name": "安义县",
+            "postCode": "330500"
+        },
+        {
+            "name": "进贤县",
+            "postCode": "331700"
+        }
+    ]
+}

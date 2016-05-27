@@ -1,0 +1,57 @@
+{
+    "city": "长治市",
+    "district": [
+        {
+            "name": "城　区",
+            "postCode": "046011"
+        },
+        {
+            "name": "郊　区",
+            "postCode": "046011"
+        },
+        {
+            "name": "潞城市",
+            "postCode": "047500"
+        },
+        {
+            "name": "长治县",
+            "postCode": "047100"
+        },
+        {
+            "name": "襄垣县",
+            "postCode": "046200"
+        },
+        {
+            "name": "屯留县",
+            "postCode": "046100"
+        },
+        {
+            "name": "平顺县",
+            "postCode": "047400"
+        },
+        {
+            "name": "黎城县",
+            "postCode": "047600"
+        },
+        {
+            "name": "壶关县",
+            "postCode": "047300"
+        },
+        {
+            "name": "长子县",
+            "postCode": "046600"
+        },
+        {
+            "name": "武乡县",
+            "postCode": "046300"
+        },
+        {
+            "name": "沁　县",
+            "postCode": "046400"
+        },
+        {
+            "name": "沁源县",
+            "postCode": "046500"
+        }
+    ]
+}

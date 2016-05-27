@@ -1,0 +1,56 @@
+{
+    "city": [
+        {
+            "name": "齐齐哈尔市",
+            "spellName": "230200"
+        },
+        {
+            "name": "哈尔滨市",
+            "spellName": "230100"
+        },
+        {
+            "name": "大庆市",
+            "spellName": "230600"
+        },
+        {
+            "name": "佳木斯市",
+            "spellName": "230800"
+        },
+        {
+            "name": "双鸭山市",
+            "spellName": "230500"
+        },
+        {
+            "name": "牡丹江市",
+            "spellName": "231000"
+        },
+        {
+            "name": "鸡西市",
+            "spellName": "230300"
+        },
+        {
+            "name": "黑河市",
+            "spellName": "231100"
+        },
+        {
+            "name": "绥化市",
+            "spellName": "231200"
+        },
+        {
+            "name": "鹤岗市",
+            "spellName": "230400"
+        },
+        {
+            "name": "伊春市",
+            "spellName": "230700"
+        },
+        {
+            "name": "大兴安岭地区",
+            "spellName": "232700"
+        },
+        {
+            "name": "七台河市",
+            "spellName": "230900"
+        }
+    ]
+}

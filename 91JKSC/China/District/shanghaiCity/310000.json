@@ -1,0 +1,81 @@
+{
+    "city":"上海市",
+    "district": [
+        {
+            "name": "松江区",
+            "postCode": "201600"
+        },
+        {
+            "name": "宝山区",
+            "postCode": "201900"
+        },
+        {
+            "name": "金山区",
+            "postCode": "201540"
+        },
+        {
+            "name": "嘉定区",
+            "postCode": "201800"
+        },
+        {
+            "name": "南汇区",
+            "postCode": "201300"
+        },
+        {
+            "name": "青浦区",
+            "postCode": "201700"
+        },
+        {
+            "name": "浦东新区",
+            "postCode": "200135"
+        },
+        {
+            "name": "奉贤区",
+            "postCode": "201400"
+        },
+        {
+            "name": "徐汇区",
+            "postCode": "200030"
+        },
+        {
+            "name": "静安区",
+            "postCode": "200040"
+        },
+        {
+            "name": "闵行区",
+            "postCode": "201100"
+        },
+        {
+            "name": "黄浦区",
+            "postCode": "200001"
+        },
+        {
+            "name": "杨浦区",
+            "postCode": "200082"
+        },
+        {
+            "name": "虹口区",
+            "postCode": "200080"
+        },
+        {
+            "name": "普陀区",
+            "postCode": "200333"
+        },
+        {
+            "name": "闸北区",
+            "postCode": "200070"
+        },
+        {
+            "name": "长宁区",
+            "postCode": "200050"
+        },
+        {
+            "name": "崇明县",
+            "postCode": "202150"
+        },
+        {
+            "name": "卢湾区",
+            "postCode": "200020"
+        }
+    ]
+}

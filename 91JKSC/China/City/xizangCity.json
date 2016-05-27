@@ -1,0 +1,32 @@
+{
+    "city": [
+        {
+            "name": "拉萨市",
+            "spellName": "540100"
+        },
+        {
+            "name": "山南地区",
+            "spellName": "542200"
+        },
+        {
+            "name": "林芝地区",
+            "spellName": "542600"
+        },
+        {
+            "name": "日喀则地区",
+            "spellName": "542300"
+        },
+        {
+            "name": "阿里地区",
+            "spellName": "542500"
+        },
+        {
+            "name": "昌都地区",
+            "spellName": "542100"
+        },
+        {
+            "name": "那曲地区",
+            "spellName": "542400"
+        }
+    ]
+}

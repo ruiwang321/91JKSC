@@ -1,0 +1,37 @@
+{
+    "city": "雅安市",
+    "district": [
+        {
+            "name": "雨城区",
+            "postCode": "625000"
+        },
+        {
+            "name": "名山县",
+            "postCode": "625100"
+        },
+        {
+            "name": "荥经县",
+            "postCode": "625200"
+        },
+        {
+            "name": "汉源县",
+            "postCode": "625300"
+        },
+        {
+            "name": "石棉县",
+            "postCode": "625400"
+        },
+        {
+            "name": "天全县",
+            "postCode": "625500"
+        },
+        {
+            "name": "芦山县",
+            "postCode": "625600"
+        },
+        {
+            "name": "宝兴县",
+            "postCode": "625700"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "city": "潜江市",
+    "district": [
+        {
+            "name": "园林街道",
+            "postCode": "433100"
+        },
+        {
+            "name": "泽口街道",
+            "postCode": "433100"
+        },
+        {
+            "name": "广华街道",
+            "postCode": "433100"
+        },
+        {
+            "name": "周矶街道",
+            "postCode": "433100"
+        },
+        {
+            "name": "杨市街道",
+            "postCode": "433100"
+        },
+        {
+            "name": "竹根滩镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "渔洋镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "老新镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "龙湾镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "张金镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "浩口镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "熊口镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "积玉口镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "王场镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "高石碑镇",
+            "postCode": "433100"
+        },
+        {
+            "name": "其他",
+            "postCode": "433100"
+        }
+    ]
+}

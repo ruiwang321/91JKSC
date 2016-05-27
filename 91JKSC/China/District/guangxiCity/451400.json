@@ -1,0 +1,33 @@
+{
+    "city": "崇左市",
+    "district": [
+        {
+            "name": "江州区",
+            "postCode": "532200"
+        },
+        {
+            "name": "凭祥市",
+            "postCode": "532600"
+        },
+        {
+            "name": "扶绥县",
+            "postCode": "532100"
+        },
+        {
+            "name": "大新县",
+            "postCode": "532300"
+        },
+        {
+            "name": "天等县",
+            "postCode": "532800"
+        },
+        {
+            "name": "宁明县",
+            "postCode": "532500"
+        },
+        {
+            "name": "龙州县",
+            "postCode": "532400"
+        }
+    ]
+}

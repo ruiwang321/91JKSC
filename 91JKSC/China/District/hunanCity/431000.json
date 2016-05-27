@@ -1,0 +1,49 @@
+{
+    "city": "郴州市",
+    "district": [
+        {
+            "name": "北湖区",
+            "postCode": "423000"
+        },
+        {
+            "name": "苏仙区",
+            "postCode": "423000"
+        },
+        {
+            "name": "资兴市",
+            "postCode": "423400"
+        },
+        {
+            "name": "桂阳县",
+            "postCode": "424400"
+        },
+        {
+            "name": "永兴县",
+            "postCode": "423300"
+        },
+        {
+            "name": "宜章县",
+            "postCode": "424200"
+        },
+        {
+            "name": "嘉禾县",
+            "postCode": "424500"
+        },
+        {
+            "name": "临武县",
+            "postCode": "424300"
+        },
+        {
+            "name": "汝城县",
+            "postCode": "424100"
+        },
+        {
+            "name": "桂东县",
+            "postCode": "423500"
+        },
+        {
+            "name": "安仁县",
+            "postCode": "423600"
+        }
+    ]
+}

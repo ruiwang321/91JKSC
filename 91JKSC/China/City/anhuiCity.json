@@ -1,0 +1,72 @@
+{
+    "city": [
+        {
+            "name": "芜湖市",
+            "spellName": "340200"
+        },
+        {
+            "name": "合肥市",
+            "spellName": "340100"
+        },
+        {
+            "name": "六安市",
+            "spellName": "341500"
+        },
+        {
+            "name": "宿州市",
+            "spellName": "341300"
+        },
+        {
+            "name": "阜阳市",
+            "spellName": "341200"
+        },
+        {
+            "name": "安庆市",
+            "spellName": "340800"
+        },
+        {
+            "name": "马鞍山市",
+            "spellName": "340500"
+        },
+        {
+            "name": "蚌埠市",
+            "spellName": "340300"
+        },
+        {
+            "name": "淮北市",
+            "spellName": "340600"
+        },
+        {
+            "name": "淮南市",
+            "spellName": "340400"
+        },
+        {
+            "name": "宣城市",
+            "spellName": "341800"
+        },
+        {
+            "name": "黄山市",
+            "spellName": "341000"
+        },
+        {
+            "name": "铜陵市",
+            "spellName": "340700"
+        },
+        {
+            "name": "亳州市",
+            "spellName": "341600"
+        },
+        {
+            "name": "池州市",
+            "spellName": "341700"
+        },
+        {
+            "name": "巢湖市",
+            "spellName": "341400"
+        },
+        {
+            "name": "滁州市",
+            "spellName": "341100"
+        }
+    ]
+}

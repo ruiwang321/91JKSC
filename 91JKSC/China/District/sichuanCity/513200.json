@@ -1,0 +1,57 @@
+{
+    "city": "阿坝州",
+    "district": [
+        {
+            "name": "马尔康县",
+            "postCode": "624000"
+        },
+        {
+            "name": "汶川县",
+            "postCode": "623000"
+        },
+        {
+            "name": "理　县",
+            "postCode": "623100"
+        },
+        {
+            "name": "茂　县",
+            "postCode": "623200"
+        },
+        {
+            "name": "松潘县",
+            "postCode": "623300"
+        },
+        {
+            "name": "九寨沟县",
+            "postCode": "623400"
+        },
+        {
+            "name": "金川县",
+            "postCode": "624100"
+        },
+        {
+            "name": "小金县",
+            "postCode": "624200"
+        },
+        {
+            "name": "黑水县",
+            "postCode": "623500"
+        },
+        {
+            "name": "壤塘县",
+            "postCode": "624300"
+        },
+        {
+            "name": "阿坝县",
+            "postCode": "624600"
+        },
+        {
+            "name": "若尔盖县",
+            "postCode": "624500"
+        },
+        {
+            "name": "红原县",
+            "postCode": "624400"
+        }
+    ]
+}

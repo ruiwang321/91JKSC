@@ -1,0 +1,33 @@
+{
+    "city": "芜湖市",
+    "district": [
+        {
+            "name": "镜湖区",
+            "postCode": "241000"
+        },
+        {
+            "name": "马塘区",
+            "postCode": "241002"
+        },
+        {
+            "name": "新芜区",
+            "postCode": "241000"
+        },
+        {
+            "name": "鸠江区",
+            "postCode": "241000"
+        },
+        {
+            "name": "芜湖县",
+            "postCode": "241100"
+        },
+        {
+            "name": "繁昌县",
+            "postCode": "241200"
+        },
+        {
+            "name": "南陵县",
+            "postCode": "241300"
+        }
+    ]
+}

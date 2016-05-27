@@ -1,0 +1,29 @@
+{
+    "city": "晋城市",
+    "district": [
+        {
+            "name": "城　区",
+            "postCode": "048000"
+        },
+        {
+            "name": "高平市",
+            "postCode": "048400"
+        },
+        {
+            "name": "泽州县",
+            "postCode": "048012"
+        },
+        {
+            "name": "沁水县",
+            "postCode": "048200"
+        },
+        {
+            "name": "阳城县",
+            "postCode": "048100"
+        },
+        {
+            "name": "陵川县",
+            "postCode": "048300"
+        }
+    ]
+}

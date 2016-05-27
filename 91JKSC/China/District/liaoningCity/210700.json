@@ -1,0 +1,33 @@
+{
+    "city": "锦州市",
+    "district": [
+        {
+            "name": "太和区",
+            "postCode": "121011"
+        },
+        {
+            "name": "古塔区",
+            "postCode": "121001"
+        },
+        {
+            "name": "凌河区",
+            "postCode": "121000"
+        },
+        {
+            "name": "凌海市",
+            "postCode": "121200"
+        },
+        {
+            "name": "北镇市",
+            "postCode": "121300"
+        },
+        {
+            "name": "黑山县",
+            "postCode": "121400"
+        },
+        {
+            "name": "义　县",
+            "postCode": "121100"
+        }
+    ]
+}

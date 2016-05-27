@@ -1,0 +1,33 @@
+{
+    "city": "商洛市",
+    "district": [
+        {
+            "name": "商州区",
+            "postCode": "726000"
+        },
+        {
+            "name": "洛南县",
+            "postCode": "726100"
+        },
+        {
+            "name": "丹凤县",
+            "postCode": "726200"
+        },
+        {
+            "name": "商南县",
+            "postCode": "726300"
+        },
+        {
+            "name": "山阳县",
+            "postCode": "726400"
+        },
+        {
+            "name": "镇安县",
+            "postCode": "711500"
+        },
+        {
+            "name": "柞水县",
+            "postCode": "711400"
+        }
+    ]
+}

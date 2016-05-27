@@ -1,0 +1,45 @@
+{
+    "city":"平顶山市",
+    "district": [
+        {
+            "name": "新华区",
+            "postCode": "467002"
+        },
+        {
+            "name": "卫东区",
+            "postCode": "467021"
+        },
+        {
+            "name": "湛河区",
+            "postCode": "467000"
+        },
+        {
+            "name": "石龙区",
+            "postCode": "467045"
+        },
+        {
+            "name": "舞钢市",
+            "postCode": "462500"
+        },
+        {
+            "name": "汝州市",
+            "postCode": "467500"
+        },
+        {
+            "name": "宝丰县",
+            "postCode": "467400"
+        },
+        {
+            "name": "叶　县",
+            "postCode": "467200"
+        },
+        {
+            "name": "鲁山县",
+            "postCode": "467300"
+        },
+        {
+            "name": "郏　县",
+            "postCode": "467100"
+        }
+    ]
+}

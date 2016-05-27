@@ -1,0 +1,60 @@
+{
+    "city": [
+        {
+            "name": "贵港市",
+            "spellName": "450800"
+        },
+        {
+            "name": "玉林市",
+            "spellName": "450900"
+        },
+        {
+            "name": "北海市",
+            "spellName": "450500"
+        },
+        {
+            "name": "南宁市",
+            "spellName": "450100"
+        },
+        {
+            "name": "柳州市",
+            "spellName": "450200"
+        },
+        {
+            "name": "桂林市",
+            "spellName": "450300"
+        },
+        {
+            "name": "梧州市",
+            "spellName": "450400"
+        },
+        {
+            "name": "钦州市",
+            "spellName": "450700"
+        },
+        {
+            "name": "来宾市",
+            "spellName": "451300"
+        },
+        {
+            "name": "河池市",
+            "spellName": "451200"
+        },
+        {
+            "name": "百色市",
+            "spellName": "451000"
+        },
+        {
+            "name": "贺州市",
+            "spellName": "451100"
+        },
+        {
+            "name": "崇左市",
+            "spellName": "451400"
+        },
+        {
+            "name": "防城港市",
+            "spellName": "450600"
+        }
+    ]
+}

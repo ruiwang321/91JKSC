@@ -1,0 +1,18 @@
+{
+  "assets" : [
+    {
+      "idiom" : "watch",
+      "filename" : "Modular.imageset",
+      "role" : "modular"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "Utilitarian.imageset",
+      "role" : "utilitarian"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,69 @@
+{
+    "city":"沧州市",
+    "district": [
+        {
+            "name": "运河区",
+            "postCode": "061000"
+        },
+        {
+            "name": "新华区",
+            "postCode": "061000"
+        },
+        {
+            "name": "泊头市",
+            "postCode": "062150"
+        },
+        {
+            "name": "任丘市",
+            "postCode": "062550"
+        },
+        {
+            "name": "黄骅市",
+            "postCode": "061100"
+        },
+        {
+            "name": "河间市",
+            "postCode": "062450"
+        },
+        {
+            "name": "沧　县",
+            "postCode": "061000"
+        },
+        {
+            "name": "青　县",
+            "postCode": "062650"
+        },
+        {
+            "name": "东光县",
+            "postCode": "061600"
+        },
+        {
+            "name": "海兴县",
+            "postCode": "061200"
+        },
+        {
+            "name": "盐山县",
+            "postCode": "061300"
+        },
+        {
+            "name": "肃宁县",
+            "postCode": "062350"
+        },
+        {
+            "name": "南皮县",
+            "postCode": "061500"
+        },
+        {
+            "name": "吴桥县",
+            "postCode": "061800"
+        },
+        {
+            "name": "献　县",
+            "postCode": "062250"
+        },
+        {
+            "name": "孟村回族自治县",
+            "postCode": "061400"
+        }
+    ]
+}

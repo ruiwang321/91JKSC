@@ -1,0 +1,49 @@
+{
+    "city": "",
+    "district": [
+        {
+            "name": "盐埕区",
+            "postCode": "000800"
+        },
+        {
+            "name": "鼓山区",
+            "postCode": "000800"
+        },
+        {
+            "name": "左营区",
+            "postCode": "000800"
+        },
+        {
+            "name": "楠梓区",
+            "postCode": "000800"
+        },
+        {
+            "name": "三民区",
+            "postCode": "000800"
+        },
+        {
+            "name": "新兴区",
+            "postCode": "000800"
+        },
+        {
+            "name": "前金区",
+            "postCode": "000800"
+        },
+        {
+            "name": "苓雅区",
+            "postCode": "000800"
+        },
+        {
+            "name": "前镇区",
+            "postCode": "000800"
+        },
+        {
+            "name": "旗津区",
+            "postCode": "000800"
+        },
+        {
+            "name": "小港区",
+            "postCode": "000800"
+        }
+    ]
+}

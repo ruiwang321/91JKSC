@@ -1,0 +1,45 @@
+{
+    "city": "南平市",
+    "district": [
+        {
+            "name": "延平区",
+            "postCode": "353000"
+        },
+        {
+            "name": "邵武市",
+            "postCode": "354000"
+        },
+        {
+            "name": "武夷山市",
+            "postCode": "354300"
+        },
+        {
+            "name": "建瓯市",
+            "postCode": "353100"
+        },
+        {
+            "name": "建阳市",
+            "postCode": "354200"
+        },
+        {
+            "name": "顺昌县",
+            "postCode": "353200"
+        },
+        {
+            "name": "浦城县",
+            "postCode": "353400"
+        },
+        {
+            "name": "光泽县",
+            "postCode": "354100"
+        },
+        {
+            "name": "松溪县",
+            "postCode": "353500"
+        },
+        {
+            "name": "政和县",
+            "postCode": "353600"
+        }
+    ]
+}

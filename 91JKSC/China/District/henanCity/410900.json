@@ -1,0 +1,29 @@
+{
+    "city":"濮阳市",
+    "district": [
+        {
+            "name": "华龙区",
+            "postCode": "457001"
+        },
+        {
+            "name": "清丰县",
+            "postCode": "457300"
+        },
+        {
+            "name": "南乐县",
+            "postCode": "457400"
+        },
+        {
+            "name": "范　县",
+            "postCode": "457500"
+        },
+        {
+            "name": "台前县",
+            "postCode": "457600"
+        },
+        {
+            "name": "濮阳县",
+            "postCode": "457100"
+        }
+    ]
+}

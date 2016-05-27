@@ -1,0 +1,45 @@
+{
+    "city": "澄迈县",
+    "district": [
+        {
+            "name": "金江镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "老城镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "瑞溪镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "永发镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "加乐镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "文儒镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "中兴镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "仁兴镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "福山镇",
+            "postCode": "571900"
+        },
+        {
+            "name": "桥头镇",
+            "postCode": "571900"
+        }
+    ]
+}

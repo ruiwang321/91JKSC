@@ -1,0 +1,37 @@
+{
+    "city":"淮安市",
+    "district": [
+        {
+            "name": "清河区",
+            "postCode": "223001"
+        },
+        {
+            "name": "清浦区",
+            "postCode": "223002"
+        },
+        {
+            "name": "楚州区",
+            "postCode": "223200"
+        },
+        {
+            "name": "淮阴区",
+            "postCode": "223300"
+        },
+        {
+            "name": "金湖县",
+            "postCode": "211600"
+        },
+        {
+            "name": "盱眙县",
+            "postCode": "211700"
+        },
+        {
+            "name": "洪泽县",
+            "postCode": "223100"
+        },
+        {
+            "name": "涟水县",
+            "postCode": "223400"
+        }
+    ]
+}

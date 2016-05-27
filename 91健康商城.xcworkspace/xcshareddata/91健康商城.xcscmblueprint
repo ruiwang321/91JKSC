@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a906a30f-a563-4a6c-80ed-d459eb3ea25d++8806",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++8806" : {
+
+    },
+    "3c7d0f63-1a69-469b-bdae-aa01dfba4427++6884" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++8806" : 0,
+    "3c7d0f63-1a69-469b-bdae-aa01dfba4427++6884" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8353497-0E73-45A5-BB34-446983E4BB11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++8806" : "91%E5%81%A5%E5%BA%B7\/",
+    "3c7d0f63-1a69-469b-bdae-aa01dfba4427++6884" : "91%E5%81%A5%E5%BA%B7\/91JKSC\/alipay\/openssl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "91健康商城",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "91健康商城.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/geek-zoo.com\/customer\/suxin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3c7d0f63-1a69-469b-bdae-aa01dfba4427++6884"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.188.175",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a906a30f-a563-4a6c-80ed-d459eb3ea25d++8806"
+    }
+  ]
+}

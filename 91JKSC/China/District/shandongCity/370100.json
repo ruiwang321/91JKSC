@@ -1,0 +1,45 @@
+{
+    "city":"济南市",
+    "district": [
+        {
+            "name": "市中区",
+            "postCode": "250002"
+        },
+        {
+            "name": "历下区",
+            "postCode": "250013"
+        },
+        {
+            "name": "槐荫区",
+            "postCode": "250021"
+        },
+        {
+            "name": "天桥区",
+            "postCode": "250031"
+        },
+        {
+            "name": "历城区",
+            "postCode": "250100"
+        },
+        {
+            "name": "长清区",
+            "postCode": "250300"
+        },
+        {
+            "name": "章丘市",
+            "postCode": "250200"
+        },
+        {
+            "name": "平阴县",
+            "postCode": "250400"
+        },
+        {
+            "name": "济阳县",
+            "postCode": "251400"
+        },
+        {
+            "name": "商河县",
+            "postCode": "251600"
+        }
+    ]
+}

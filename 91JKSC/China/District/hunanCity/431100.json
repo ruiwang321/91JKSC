@@ -1,0 +1,45 @@
+{
+    "city": "永州市",
+    "district": [
+        {
+            "name": "冷水滩区",
+            "postCode": "425000"
+        },
+        {
+            "name": "零陵区",
+            "postCode": "425007"
+        },
+        {
+            "name": "东安县",
+            "postCode": "425900"
+        },
+        {
+            "name": "道　县",
+            "postCode": "425300"
+        },
+        {
+            "name": "宁远县",
+            "postCode": "425600"
+        },
+        {
+            "name": "江永县",
+            "postCode": "425400"
+        },
+        {
+            "name": "蓝山县",
+            "postCode": "425800"
+        },
+        {
+            "name": "新田县",
+            "postCode": "425700"
+        },
+        {
+            "name": "双牌县",
+            "postCode": "425200"
+        },
+        {
+            "name": "祁阳县",
+            "postCode": "426100"
+        }
+    ]
+}

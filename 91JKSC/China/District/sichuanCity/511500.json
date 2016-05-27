@@ -1,0 +1,45 @@
+{
+    "city": "宜宾市",
+    "district": [
+        {
+            "name": "翠屏区",
+            "postCode": "644000"
+        },
+        {
+            "name": "宜宾县",
+            "postCode": "644600"
+        },
+        {
+            "name": "南溪县",
+            "postCode": "644100"
+        },
+        {
+            "name": "江安县",
+            "postCode": "644200"
+        },
+        {
+            "name": "长宁县",
+            "postCode": "644300"
+        },
+        {
+            "name": "高　县",
+            "postCode": "645154"
+        },
+        {
+            "name": "筠连县",
+            "postCode": "645250"
+        },
+        {
+            "name": "珙　县",
+            "postCode": "644501"
+        },
+        {
+            "name": "兴文县",
+            "postCode": "644400"
+        },
+        {
+            "name": "屏山县",
+            "postCode": "645350"
+        }
+    ]
+}

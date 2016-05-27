@@ -1,0 +1,45 @@
+{
+    "city": "安康市",
+    "district": [
+        {
+            "name": "汉滨区",
+            "postCode": "725000"
+        },
+        {
+            "name": "汉阴县",
+            "postCode": "725100"
+        },
+        {
+            "name": "石泉县",
+            "postCode": "725200"
+        },
+        {
+            "name": "宁陕县",
+            "postCode": "711600"
+        },
+        {
+            "name": "紫阳县",
+            "postCode": "725300"
+        },
+        {
+            "name": "岚皋县",
+            "postCode": "725400"
+        },
+        {
+            "name": "平利县",
+            "postCode": "725500"
+        },
+        {
+            "name": "镇坪县",
+            "postCode": "725600"
+        },
+        {
+            "name": "旬阳县",
+            "postCode": "725700"
+        },
+        {
+            "name": "白河县",
+            "postCode": "725800"
+        }
+    ]
+}

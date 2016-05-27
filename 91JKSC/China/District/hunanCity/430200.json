@@ -1,0 +1,41 @@
+{
+    "city": "株洲市",
+    "district": [
+        {
+            "name": "天元区",
+            "postCode": "412000"
+        },
+        {
+            "name": "荷塘区",
+            "postCode": "412000"
+        },
+        {
+            "name": "芦淞区",
+            "postCode": "412000"
+        },
+        {
+            "name": "石峰区",
+            "postCode": "412005"
+        },
+        {
+            "name": "醴陵市",
+            "postCode": "412200"
+        },
+        {
+            "name": "株洲县",
+            "postCode": "412100"
+        },
+        {
+            "name": "攸　县",
+            "postCode": "412300"
+        },
+        {
+            "name": "茶陵县",
+            "postCode": "412400"
+        },
+        {
+            "name": "炎陵县",
+            "postCode": "412500"
+        }
+    ]
+}

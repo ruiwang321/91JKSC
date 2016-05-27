@@ -1,0 +1,40 @@
+{
+    "city": [
+        {
+            "name": "贵阳市",
+            "spellName": "520100"
+        },
+        {
+            "name": "黔东南州",
+            "spellName": "522600"
+        },
+        {
+            "name": "黔南州",
+            "spellName": "522700"
+        },
+        {
+            "name": "遵义市",
+            "spellName": "520300"
+        },
+        {
+            "name": "黔西南州",
+            "spellName": "522300"
+        },
+        {
+            "name": "毕节地区",
+            "spellName": "522400"
+        },
+        {
+            "name": "铜仁地区",
+            "spellName": "522200"
+        },
+        {
+            "name": "安顺市",
+            "spellName": "520400"
+        },
+        {
+            "name": "六盘水市",
+            "spellName": "520200"
+        }
+    ]
+}

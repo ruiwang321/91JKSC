@@ -1,0 +1,57 @@
+{
+    "city":"南京市",
+    "district": [
+        {
+            "name": "玄武区",
+            "postCode": "210018"
+        },
+        {
+            "name": "白下区",
+            "postCode": "210002"
+        },
+        {
+            "name": "秦淮区",
+            "postCode": "210001"
+        },
+        {
+            "name": "建邺区",
+            "postCode": "210004"
+        },
+        {
+            "name": "鼓楼区",
+            "postCode": "210009"
+        },
+        {
+            "name": "下关区",
+            "postCode": "210011"
+        },
+        {
+            "name": "浦口区",
+            "postCode": "211800"
+        },
+        {
+            "name": "六合区",
+            "postCode": "211500"
+        },
+        {
+            "name": "栖霞区",
+            "postCode": "210046"
+        },
+        {
+            "name": "雨花台区",
+            "postCode": "210012"
+        },
+        {
+            "name": "江宁区",
+            "postCode": "211100"
+        },
+        {
+            "name": "溧水县",
+            "postCode": "211200"
+        },
+        {
+            "name": "高淳县",
+            "postCode": "211300"
+        }
+    ]
+}

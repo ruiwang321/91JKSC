@@ -1,0 +1,45 @@
+{
+    "city": "牡丹江市",
+    "district": [
+        {
+            "name": "爱民区",
+            "postCode": "157009"
+        },
+        {
+            "name": "东安区",
+            "postCode": "157000"
+        },
+        {
+            "name": "阳明区",
+            "postCode": "157013"
+        },
+        {
+            "name": "西安区",
+            "postCode": "157000"
+        },
+        {
+            "name": "穆棱市",
+            "postCode": "157500"
+        },
+        {
+            "name": "绥芬河市",
+            "postCode": "157300"
+        },
+        {
+            "name": "海林市",
+            "postCode": "157100"
+        },
+        {
+            "name": "宁安市",
+            "postCode": "157400"
+        },
+        {
+            "name": "东宁县",
+            "postCode": "157200"
+        },
+        {
+            "name": "林口县",
+            "postCode": "157600"
+        }
+    ]
+}

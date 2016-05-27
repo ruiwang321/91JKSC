@@ -1,0 +1,97 @@
+{
+    "city":"石家庄市",
+    "district": [
+        {
+            "name": "长安区",
+            "postCode": "050011"
+        },
+        {
+            "name": "桥东区",
+            "postCode": "050011"
+        },
+        {
+            "name": "桥西区",
+            "postCode": "050051"
+        },
+        {
+            "name": "新华区",
+            "postCode": "050051"
+        },
+        {
+            "name": "裕华区",
+            "postCode": "050081"
+        },
+        {
+            "name": "井陉矿区",
+            "postCode": "050100"
+        },
+        {
+            "name": "辛集市",
+            "postCode": "052360"
+        },
+        {
+            "name": "藁城市",
+            "postCode": "052160"
+        },
+        {
+            "name": "晋州市",
+            "postCode": "052260"
+        },
+        {
+            "name": "新乐市",
+            "postCode": "050700"
+        },
+        {
+            "name": "鹿泉市",
+            "postCode": "050200"
+        },
+        {
+            "name": "井陉县",
+            "postCode": "050300"
+        },
+        {
+            "name": "正定县",
+            "postCode": "050800"
+        },
+        {
+            "name": "栾城县",
+            "postCode": "051430"
+        },
+        {
+            "name": "行唐县",
+            "postCode": "050600"
+        },
+        {
+            "name": "灵寿县",
+            "postCode": "050500"
+        },
+        {
+            "name": "高邑县",
+            "postCode": "051330"
+        },
+        {
+            "name": "深泽县",
+            "postCode": "052560"
+        },
+        {
+            "name": "赞皇县",
+            "postCode": "051230"
+        },
+        {
+            "name": "无极县",
+            "postCode": "052460"
+        },
+        {
+            "name": "平山县",
+            "postCode": "050400"
+        },
+        {
+            "name": "元氏县",
+            "postCode": "051130"
+        },
+        {
+            "name": "赵　县",
+            "postCode": "051530"
+        }
+    ]
+}

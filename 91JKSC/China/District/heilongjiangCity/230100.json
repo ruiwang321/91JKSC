@@ -1,0 +1,81 @@
+{
+    "city": "哈尔滨市",
+    "district": [
+        {
+            "name": "松北区",
+            "postCode": "150028"
+        },
+        {
+            "name": "道里区",
+            "postCode": "150010"
+        },
+        {
+            "name": "南岗区",
+            "postCode": "150006"
+        },
+        {
+            "name": "道外区",
+            "postCode": "150026"
+        },
+        {
+            "name": "香坊区",
+            "postCode": "150036"
+        },
+        {
+            "name": "动力区",
+            "postCode": "150040"
+        },
+        {
+            "name": "平房区",
+            "postCode": "150060"
+        },
+        {
+            "name": "呼兰区",
+            "postCode": "150500"
+        },
+        {
+            "name": "双城市",
+            "postCode": "150100"
+        },
+        {
+            "name": "尚志市",
+            "postCode": "150600"
+        },
+        {
+            "name": "五常市",
+            "postCode": "150200"
+        },
+        {
+            "name": "阿城市",
+            "postCode": "150300"
+        },
+        {
+            "name": "依兰县",
+            "postCode": "154800"
+        },
+        {
+            "name": "方正县",
+            "postCode": "150800"
+        },
+        {
+            "name": "宾　县",
+            "postCode": "150400"
+        },
+        {
+            "name": "巴彦县",
+            "postCode": "151800"
+        },
+        {
+            "name": "木兰县",
+            "postCode": "151900"
+        },
+        {
+            "name": "通河县",
+            "postCode": "150900"
+        },
+        {
+            "name": "延寿县",
+            "postCode": "150700"
+        }
+    ]
+}

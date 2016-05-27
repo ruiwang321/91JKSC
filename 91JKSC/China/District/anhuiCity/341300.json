@@ -1,0 +1,25 @@
+{
+    "city": "宿州市",
+    "district": [
+        {
+            "name": "埇桥区",
+            "postCode": "234000"
+        },
+        {
+            "name": "砀山县",
+            "postCode": "235300"
+        },
+        {
+            "name": "萧　县",
+            "postCode": "235200"
+        },
+        {
+            "name": "灵璧县",
+            "postCode": "234200"
+        },
+        {
+            "name": "泗　县",
+            "postCode": "234300"
+        }
+    ]
+}

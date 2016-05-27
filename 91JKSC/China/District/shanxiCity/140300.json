@@ -1,0 +1,25 @@
+{
+    "city": "阳泉市",
+    "district": [
+        {
+            "name": "城　区",
+            "postCode": "045000"
+        },
+        {
+            "name": "矿　区",
+            "postCode": "045000"
+        },
+        {
+            "name": "郊　区",
+            "postCode": "045011"
+        },
+        {
+            "name": "平定县",
+            "postCode": "045200"
+        },
+        {
+            "name": "盂　县",
+            "postCode": "045100"
+        }
+    ]
+}

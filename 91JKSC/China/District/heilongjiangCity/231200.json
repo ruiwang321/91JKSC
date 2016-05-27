@@ -1,0 +1,45 @@
+{
+    "city": "绥化市",
+    "district": [
+        {
+            "name": "北林区",
+            "postCode": "152000"
+        },
+        {
+            "name": "安达市",
+            "postCode": "151400"
+        },
+        {
+            "name": "肇东市",
+            "postCode": "151100"
+        },
+        {
+            "name": "海伦市",
+            "postCode": "152300"
+        },
+        {
+            "name": "望奎县",
+            "postCode": "152101"
+        },
+        {
+            "name": "兰西县",
+            "postCode": "151500"
+        },
+        {
+            "name": "青冈县",
+            "postCode": "151600"
+        },
+        {
+            "name": "庆安县",
+            "postCode": "152400"
+        },
+        {
+            "name": "明水县",
+            "postCode": "151700"
+        },
+        {
+            "name": "绥棱县",
+            "postCode": "152200"
+        }
+    ]
+}

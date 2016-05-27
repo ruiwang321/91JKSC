@@ -1,0 +1,49 @@
+{
+    "city":"德州市",
+    "district": [
+        {
+            "name": "德城区",
+            "postCode": "253011"
+        },
+        {
+            "name": "乐陵市",
+            "postCode": "253600"
+        },
+        {
+            "name": "禹城市",
+            "postCode": "251200"
+        },
+        {
+            "name": "陵　县",
+            "postCode": "253500"
+        },
+        {
+            "name": "平原县",
+            "postCode": "253100"
+        },
+        {
+            "name": "夏津县",
+            "postCode": "253200"
+        },
+        {
+            "name": "武城县",
+            "postCode": "253300"
+        },
+        {
+            "name": "齐河县",
+            "postCode": "251100"
+        },
+        {
+            "name": "临邑县",
+            "postCode": "251500"
+        },
+        {
+            "name": "宁津县",
+            "postCode": "253400"
+        },
+        {
+            "name": "庆云县",
+            "postCode": "253700"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "city": "杭州市",
+    "district": [
+        {
+            "name": "上城区",
+            "postCode": "311500"
+        },
+        {
+            "name": "下城区",
+            "postCode": "310006"
+        },
+        {
+            "name": "江干区",
+            "postCode": "310002"
+        },
+        {
+            "name": "拱墅区",
+            "postCode": "310011"
+        },
+        {
+            "name": "西湖区",
+            "postCode": "310013"
+        },
+        {
+            "name": "滨江区",
+            "postCode": "310051"
+        },
+        {
+            "name": "萧山区",
+            "postCode": "311200"
+        },
+        {
+            "name": "余杭区",
+            "postCode": "311000"
+        },
+        {
+            "name": "建德市",
+            "postCode": "311600"
+        },
+        {
+            "name": "富阳市",
+            "postCode": "311400"
+        },
+        {
+            "name": "临安市",
+            "postCode": "311300"
+        },
+        {
+            "name": "桐庐县",
+            "postCode": "311500"
+        },
+        {
+            "name": "淳安县",
+            "postCode": "311700"
+        }
+    ]
+}

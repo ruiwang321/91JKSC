@@ -1,0 +1,49 @@
+{
+    "city": "大同市",
+    "district": [
+        {
+            "name": "城　区",
+            "postCode": "037008"
+        },
+        {
+            "name": "矿　区",
+            "postCode": "037001"
+        },
+        {
+            "name": "南郊区",
+            "postCode": "037001"
+        },
+        {
+            "name": "新荣区",
+            "postCode": "037002"
+        },
+        {
+            "name": "阳高县",
+            "postCode": "038100"
+        },
+        {
+            "name": "天镇县",
+            "postCode": "038200"
+        },
+        {
+            "name": "广灵县",
+            "postCode": "037500"
+        },
+        {
+            "name": "灵丘县",
+            "postCode": "034400"
+        },
+        {
+            "name": "浑源县",
+            "postCode": "037400"
+        },
+        {
+            "name": "左云县",
+            "postCode": "037100"
+        },
+        {
+            "name": "大同县",
+            "postCode": "037300"
+        }
+    ]
+}

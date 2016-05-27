@@ -1,0 +1,77 @@
+{
+    "city": "香港特别行政区",
+    "district": [
+        {
+            "name": "中西区",
+            "postCode": "999077"
+        },
+        {
+            "name": "东区",
+            "postCode": "999077"
+        },
+        {
+            "name": "九龙城区",
+            "postCode": "999077"
+        },
+        {
+            "name": "观塘区",
+            "postCode": "999077"
+        },
+        {
+            "name": "南区",
+            "postCode": "999077"
+        },
+        {
+            "name": "深水埗区",
+            "postCode": "999077"
+        },
+        {
+            "name": "黄大仙区",
+            "postCode": "999077"
+        },
+        {
+            "name": "湾仔区",
+            "postCode": "999077"
+        },
+        {
+            "name": "油尖旺区",
+            "postCode": "999077"
+        },
+        {
+            "name": "离岛区",
+            "postCode": "999077"
+        },
+        {
+            "name": "葵青区",
+            "postCode": "999077"
+        },
+        {
+            "name": "北区",
+            "postCode": "999077"
+        },
+        {
+            "name": "西贡区",
+            "postCode": "999077"
+        },
+        {
+            "name": "沙田区",
+            "postCode": "999077"
+        },
+        {
+            "name": "屯门区",
+            "postCode": "999077"
+        },
+        {
+            "name": "大埔区",
+            "postCode": "999077"
+        },
+        {
+            "name": "荃湾区",
+            "postCode": "999077"
+        },
+        {
+            "name": "元朗区",
+            "postCode": "999077"
+        }
+    ]
+}

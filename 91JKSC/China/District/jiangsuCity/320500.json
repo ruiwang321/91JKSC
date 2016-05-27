@@ -1,0 +1,49 @@
+{
+    "city":"苏州市",
+    "district": [
+        {
+            "name": "金阊区",
+            "postCode": "215008"
+        },
+        {
+            "name": "沧浪区",
+            "postCode": "215006"
+        },
+        {
+            "name": "平江区",
+            "postCode": "215005"
+        },
+        {
+            "name": "虎丘区",
+            "postCode": "215004"
+        },
+        {
+            "name": "吴中区",
+            "postCode": "215128"
+        },
+        {
+            "name": "相城区",
+            "postCode": "215131"
+        },
+        {
+            "name": "吴江市",
+            "postCode": "215200"
+        },
+        {
+            "name": "昆山市",
+            "postCode": "215300"
+        },
+        {
+            "name": "太仓市",
+            "postCode": "215400"
+        },
+        {
+            "name": "常熟市",
+            "postCode": "215500"
+        },
+        {
+            "name": "张家港市",
+            "postCode": "215600"
+        }
+    ]
+}

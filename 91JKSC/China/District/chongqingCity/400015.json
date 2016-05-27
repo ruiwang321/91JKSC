@@ -1,0 +1,165 @@
+{
+    "city": "重庆市",
+    "district": [
+        {
+            "name": "渝中区",
+            "postCode": "400010"
+        },
+        {
+            "name": "大渡口区",
+            "postCode": "400080"
+        },
+        {
+            "name": "江北区",
+            "postCode": "400020"
+        },
+        {
+            "name": "沙坪坝区",
+            "postCode": "400030"
+        },
+        {
+            "name": "九龙坡区",
+            "postCode": "400050"
+        },
+        {
+            "name": "南岸区",
+            "postCode": "400064"
+        },
+        {
+            "name": "北碚区",
+            "postCode": "400700"
+        },
+        {
+            "name": "万盛区",
+            "postCode": "400800"
+        },
+        {
+            "name": "双桥区",
+            "postCode": "400900"
+        },
+        {
+            "name": "渝北区",
+            "postCode": "401120"
+        },
+        {
+            "name": "巴南区",
+            "postCode": "401320"
+        },
+        {
+            "name": "万州区",
+            "postCode": "404000"
+        },
+        {
+            "name": "涪陵区",
+            "postCode": "408000"
+        },
+        {
+            "name": "黔江区",
+            "postCode": "409700"
+        },
+        {
+            "name": "长寿区",
+            "postCode": "401220"
+        },
+        {
+            "name": "合川市",
+            "postCode": "401520"
+        },
+        {
+            "name": "永川市",
+            "postCode": "402160"
+        },
+        {
+            "name": "江津市",
+            "postCode": "402260"
+        },
+        {
+            "name": "南川市",
+            "postCode": "408400"
+        },
+        {
+            "name": "綦江县",
+            "postCode": "401420"
+        },
+        {
+            "name": "潼南县",
+            "postCode": "402660"
+        },
+        {
+            "name": "铜梁县",
+            "postCode": "402560"
+        },
+        {
+            "name": "大足县",
+            "postCode": "402360"
+        },
+        {
+            "name": "荣昌县",
+            "postCode": "402460"
+        },
+        {
+            "name": "璧山县",
+            "postCode": "402760"
+        },
+        {
+            "name": "垫江县",
+            "postCode": "408300"
+        },
+        {
+            "name": "武隆县",
+            "postCode": "408500"
+        },
+        {
+            "name": "丰都县",
+            "postCode": "408200"
+        },
+        {
+            "name": "城口县",
+            "postCode": "405900"
+        },
+        {
+            "name": "梁平县",
+            "postCode": "405200"
+        },
+        {
+            "name": "开　县",
+            "postCode": "405400"
+        },
+        {
+            "name": "巫溪县",
+            "postCode": "405800"
+        },
+        {
+            "name": "巫山县",
+            "postCode": "404700"
+        },
+        {
+            "name": "奉节县",
+            "postCode": "404600"
+        },
+        {
+            "name": "云阳县",
+            "postCode": "404500"
+        },
+        {
+            "name": "忠　县",
+            "postCode": "404300"
+        },
+        {
+            "name": "石柱土家族自治县　　",
+            "postCode": "409100"
+        },
+        {
+            "name": "彭水苗族土家族自治县",
+            "postCode": "409600"
+        },
+        {
+            "name": "酉阳土家族苗族自治县",
+            "postCode": "409800"
+        },
+        {
+            "name": "秀山土家族苗族自治县",
+            "postCode": "409900"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "city": [
+        {
+            "name": "昆明市",
+            "spellName": "530100"
+        },
+        {
+            "name": "红河州",
+            "spellName": "532500"
+        },
+        {
+            "name": "大理州",
+            "spellName": "532900"
+        },
+        {
+            "name": "文山州",
+            "spellName": "532600"
+        },
+        {
+            "name": "德宏州",
+            "spellName": "533100"
+        },
+        {
+            "name": "曲靖市",
+            "spellName": "530300"
+        },
+        {
+            "name": "昭通市",
+            "spellName": "530600"
+        },
+        {
+            "name": "楚雄州",
+            "spellName": "532300"
+        },
+        {
+            "name": "保山市",
+            "spellName": "678000"
+        },
+        {
+            "name": "玉溪市",
+            "spellName": "530400"
+        },
+        {
+            "name": "丽江地区",
+            "spellName": "530700"
+        },
+        {
+            "name": "临沧地区",
+            "spellName": "530900"
+        },
+        {
+            "name": "思茅地区",
+            "spellName": "532700"
+        },
+        {
+            "name": "西双版纳州",
+            "spellName": "532800"
+        },
+        {
+            "name": "怒江州",
+            "spellName": "533300"
+        },
+        {
+            "name": "迪庆州",
+            "spellName": "533400"
+        }
+    ]
+}

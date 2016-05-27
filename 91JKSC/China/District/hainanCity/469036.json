@@ -1,0 +1,45 @@
+{
+    "city": "琼中县",
+    "district": [
+        {
+            "name": "营根镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "湾岭镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "黎母山镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "和平镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "长征镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "红毛镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "中平镇",
+            "postCode": "572900"
+        },
+        {
+            "name": "吊罗山乡",
+            "postCode": "572900"
+        },
+        {
+            "name": "上安乡",
+            "postCode": "572900"
+        },
+        {
+            "name": "什运乡",
+            "postCode": "572900"
+        }
+    ]
+}

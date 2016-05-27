@@ -1,0 +1,73 @@
+{
+    "city": "凉山州",
+    "district": [
+        {
+            "name": "西昌市",
+            "postCode": "615000"
+        },
+        {
+            "name": "盐源县",
+            "postCode": "615700"
+        },
+        {
+            "name": "德昌县",
+            "postCode": "615500"
+        },
+        {
+            "name": "会理县",
+            "postCode": "615100"
+        },
+        {
+            "name": "会东县",
+            "postCode": "615200"
+        },
+        {
+            "name": "宁南县",
+            "postCode": "615400"
+        },
+        {
+            "name": "普格县",
+            "postCode": "615300"
+        },
+        {
+            "name": "布拖县",
+            "postCode": "615350"
+        },
+        {
+            "name": "金阳县",
+            "postCode": "616250"
+        },
+        {
+            "name": "昭觉县",
+            "postCode": "616150"
+        },
+        {
+            "name": "喜德县",
+            "postCode": "616750"
+        },
+        {
+            "name": "冕宁县",
+            "postCode": "615600"
+        },
+        {
+            "name": "越西县",
+            "postCode": "616650"
+        },
+        {
+            "name": "甘洛县",
+            "postCode": "616850"
+        },
+        {
+            "name": "美姑县",
+            "postCode": "616450"
+        },
+        {
+            "name": "雷波县",
+            "postCode": "616550"
+        },
+        {
+            "name": "木里藏族自治县",
+            "postCode": "615800"
+        }
+    ]
+}

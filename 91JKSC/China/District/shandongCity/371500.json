@@ -1,0 +1,37 @@
+{
+    "city":"聊城市",
+    "district": [
+        {
+            "name": "东昌府区",
+            "postCode": "252000"
+        },
+        {
+            "name": "临清市",
+            "postCode": "252600"
+        },
+        {
+            "name": "阳谷县",
+            "postCode": "252300"
+        },
+        {
+            "name": "莘　县",
+            "postCode": "252400"
+        },
+        {
+            "name": "茌平县",
+            "postCode": "252100"
+        },
+        {
+            "name": "东阿县",
+            "postCode": "252200"
+        },
+        {
+            "name": "冠　县",
+            "postCode": "252500"
+        },
+        {
+            "name": "高唐县",
+            "postCode": "252800"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "city": "长沙市",
+    "district": [
+        {
+            "name": "岳麓区",
+            "postCode": "410006"
+        },
+        {
+            "name": "芙蓉区",
+            "postCode": "410011"
+        },
+        {
+            "name": "天心区",
+            "postCode": "410002"
+        },
+        {
+            "name": "开福区",
+            "postCode": "410005"
+        },
+        {
+            "name": "雨花区",
+            "postCode": "410007"
+        },
+        {
+            "name": "浏阳市",
+            "postCode": "410300"
+        },
+        {
+            "name": "长沙县",
+            "postCode": "410100"
+        },
+        {
+            "name": "望城县",
+            "postCode": "410200"
+        },
+        {
+            "name": "宁乡县",
+            "postCode": "410600"
+        }
+    ]
+}

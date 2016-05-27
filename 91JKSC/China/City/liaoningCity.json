@@ -1,0 +1,60 @@
+{
+    "city": [
+        {
+            "name": "大连市",
+            "spellName": "210200"
+        },
+        {
+            "name": "沈阳市",
+            "spellName": "210100"
+        },
+        {
+            "name": "丹东市",
+            "spellName": "210600"
+        },
+        {
+            "name": "辽阳市",
+            "spellName": "211000"
+        },
+        {
+            "name": "葫芦岛市",
+            "spellName": "211400"
+        },
+        {
+            "name": "锦州市",
+            "spellName": "210700"
+        },
+        {
+            "name": "朝阳市",
+            "spellName": "211300"
+        },
+        {
+            "name": "营口市",
+            "spellName": "115003"
+        },
+        {
+            "name": "鞍山市",
+            "spellName": "114001"
+        },
+        {
+            "name": "抚顺市",
+            "spellName": "210400"
+        },
+        {
+            "name": "阜新市",
+            "spellName": "210900"
+        },
+        {
+            "name": "盘锦市",
+            "spellName": "211100"
+        },
+        {
+            "name": "本溪市",
+            "spellName": "210500"
+        },
+        {
+            "name": "铁岭市",
+            "spellName": "211200"
+        }
+    ]
+}

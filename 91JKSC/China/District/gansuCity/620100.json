@@ -1,0 +1,37 @@
+{
+    "city": "兰州市",
+    "district": [
+        {
+            "name": "城关区",
+            "postCode": "730030"
+        },
+        {
+            "name": "七里河区",
+            "postCode": "730050"
+        },
+        {
+            "name": "西固区",
+            "postCode": "730060"
+        },
+        {
+            "name": "安宁区",
+            "postCode": "730070"
+        },
+        {
+            "name": "红古区",
+            "postCode": "730080"
+        },
+        {
+            "name": "永登县",
+            "postCode": "730300"
+        },
+        {
+            "name": "皋兰县",
+            "postCode": "730200"
+        },
+        {
+            "name": "榆中县",
+            "postCode": "730100"
+        }
+    ]
+}

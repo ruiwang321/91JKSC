@@ -1,0 +1,33 @@
+{
+    "city":"江门市",
+    "district": [
+        {
+            "name": "江海区",
+            "postCode": "529000"
+        },
+        {
+            "name": "蓬江区",
+            "postCode": "529051"
+        },
+        {
+            "name": "新会区",
+            "postCode": "529100"
+        },
+        {
+            "name": "恩平市",
+            "postCode": "529411"
+        },
+        {
+            "name": "台山市",
+            "postCode": "529200"
+        },
+        {
+            "name": "开平市",
+            "postCode": "529312"
+        },
+        {
+            "name": "鹤山市",
+            "postCode": "529711"
+        }
+    ]
+}

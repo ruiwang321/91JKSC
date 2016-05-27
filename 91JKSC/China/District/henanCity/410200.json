@@ -1,0 +1,45 @@
+{
+    "city":"开封市",
+    "district": [
+        {
+            "name": "鼓楼区",
+            "postCode": "475000"
+        },
+        {
+            "name": "龙亭区",
+            "postCode": "475100"
+        },
+        {
+            "name": "顺河回族区",
+            "postCode": "475000"
+        },
+        {
+            "name": "南关区",
+            "postCode": "475003"
+        },
+        {
+            "name": "郊　区",
+            "postCode": "475002"
+        },
+        {
+            "name": "杞　县",
+            "postCode": "475200"
+        },
+        {
+            "name": "通许县",
+            "postCode": "475400"
+        },
+        {
+            "name": "尉氏县",
+            "postCode": "475500"
+        },
+        {
+            "name": "开封县",
+            "postCode": "475100"
+        },
+        {
+            "name": "兰考县",
+            "postCode": "475300"
+        }
+    ]
+}

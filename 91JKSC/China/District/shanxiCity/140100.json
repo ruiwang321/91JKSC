@@ -1,0 +1,45 @@
+{
+    "city": "太原市",
+    "district": [
+        {
+            "name": "杏花岭区",
+            "postCode": "030001"
+        },
+        {
+            "name": "小店区",
+            "postCode": "030032"
+        },
+        {
+            "name": "迎泽区",
+            "postCode": "030024"
+        },
+        {
+            "name": "尖草坪区",
+            "postCode": "030003"
+        },
+        {
+            "name": "万柏林区",
+            "postCode": "030027"
+        },
+        {
+            "name": "晋源区",
+            "postCode": "030025"
+        },
+        {
+            "name": "古交市",
+            "postCode": "030200"
+        },
+        {
+            "name": "清徐县",
+            "postCode": "030400"
+        },
+        {
+            "name": "阳曲县",
+            "postCode": "030100"
+        },
+        {
+            "name": "娄烦县",
+            "postCode": "030300"
+        }
+    ]
+}

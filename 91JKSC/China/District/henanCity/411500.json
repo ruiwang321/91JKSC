@@ -1,0 +1,45 @@
+{
+    "city":"信阳市",
+    "district": [
+        {
+            "name": "浉河区",
+            "postCode": "464000"
+        },
+        {
+            "name": "平桥区",
+            "postCode": "464100"
+        },
+        {
+            "name": "息　县",
+            "postCode": "464300"
+        },
+        {
+            "name": "淮滨县",
+            "postCode": "464400"
+        },
+        {
+            "name": "潢川县",
+            "postCode": "465150"
+        },
+        {
+            "name": "光山县",
+            "postCode": "465450"
+        },
+        {
+            "name": "固始县",
+            "postCode": "465250"
+        },
+        {
+            "name": "商城县",
+            "postCode": "465350"
+        },
+        {
+            "name": "罗山县",
+            "postCode": "464200"
+        },
+        {
+            "name": "新　县",
+            "postCode": "465550"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "city":"临沂市",
+    "district": [
+        {
+            "name": "兰山区",
+            "postCode": "276002"
+        },
+        {
+            "name": "罗庄区",
+            "postCode": "276022"
+        },
+        {
+            "name": "河东区",
+            "postCode": "276034"
+        },
+        {
+            "name": "郯城县",
+            "postCode": "276100"
+        },
+        {
+            "name": "苍山县",
+            "postCode": "277700"
+        },
+        {
+            "name": "莒南县",
+            "postCode": "276600"
+        },
+        {
+            "name": "沂水县",
+            "postCode": "276400"
+        },
+        {
+            "name": "蒙阴县",
+            "postCode": "276200"
+        },
+        {
+            "name": "平邑县",
+            "postCode": "273300"
+        },
+        {
+            "name": "费　县",
+            "postCode": "273400"
+        },
+        {
+            "name": "沂南县",
+            "postCode": "276300"
+        },
+        {
+            "name": "临沭县",
+            "postCode": "276700"
+        }
+    ]
+}

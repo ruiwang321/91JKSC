@@ -1,0 +1,41 @@
+{
+    "city":"盐城市",
+    "district": [
+        {
+            "name": "亭湖区",
+            "postCode": "224005"
+        },
+        {
+            "name": "盐都区",
+            "postCode": "224055"
+        },
+        {
+            "name": "东台市",
+            "postCode": "224200"
+        },
+        {
+            "name": "大丰市",
+            "postCode": "224100"
+        },
+        {
+            "name": "射阳县",
+            "postCode": "224300"
+        },
+        {
+            "name": "阜宁县",
+            "postCode": "224400"
+        },
+        {
+            "name": "滨海县",
+            "postCode": "224500"
+        },
+        {
+            "name": "响水县",
+            "postCode": "224600"
+        },
+        {
+            "name": "建湖县",
+            "postCode": "224700"
+        }
+    ]
+}

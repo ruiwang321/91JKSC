@@ -1,0 +1,76 @@
+{
+    "city": [
+        {
+            "name": "三亚市",
+            "spellName": "460200"
+        },
+        {
+            "name": "海口市",
+            "spellName": "460100"
+        },
+        {
+            "name": "琼海市",
+            "spellName": "469002"
+        },
+        {
+            "name": "文昌市",
+            "spellName": "469005"
+        },
+        {
+            "name": "东方市",
+            "spellName": "469007"
+        },
+        {
+            "name": "昌江县",
+            "spellName": "469031"
+        },
+        {
+            "name": "陵水县",
+            "spellName": "469034"
+        },
+        {
+            "name": "乐东县",
+            "spellName": "469033"
+        },
+        {
+            "name": "保亭县",
+            "spellName": "469035"
+        },
+        {
+            "name": "五指山市",
+            "spellName": "469001"
+        },
+        {
+            "name": "澄迈县",
+            "spellName": "469027"
+        },
+        {
+            "name": "万宁市",
+            "spellName": "469006"
+        },
+        {
+            "name": "儋州市",
+            "spellName": "469003"
+        },
+        {
+            "name": "临高县",
+            "spellName": "469028"
+        },
+        {
+            "name": "白沙县",
+            "spellName": "469030"
+        },
+        {
+            "name": "定安县",
+            "spellName": "469025"
+        },
+        {
+            "name": "琼中县",
+            "spellName": "469036"
+        },
+        {
+            "name": "屯昌县",
+            "spellName": "469026"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "city": "襄樊市",
+    "district": [
+        {
+            "name": "襄城区",
+            "postCode": "441021"
+        },
+        {
+            "name": "樊城区",
+            "postCode": "441001"
+        },
+        {
+            "name": "襄阳区",
+            "postCode": "441100"
+        },
+        {
+            "name": "老河口市",
+            "postCode": "441800"
+        },
+        {
+            "name": "枣阳市",
+            "postCode": "441200"
+        },
+        {
+            "name": "宜城市",
+            "postCode": "441400"
+        },
+        {
+            "name": "南漳县",
+            "postCode": "441500"
+        },
+        {
+            "name": "谷城县",
+            "postCode": "441700"
+        },
+        {
+            "name": "保康县",
+            "postCode": "441600"
+        }
+    ]
+}

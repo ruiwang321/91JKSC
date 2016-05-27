@@ -1,0 +1,57 @@
+{
+    "city": "运城市",
+    "district": [
+        {
+            "name": "盐湖区",
+            "postCode": "044300"
+        },
+        {
+            "name": "永济市",
+            "postCode": "044500"
+        },
+        {
+            "name": "河津市",
+            "postCode": "043300"
+        },
+        {
+            "name": "芮城县",
+            "postCode": "044600"
+        },
+        {
+            "name": "临猗县",
+            "postCode": "044100"
+        },
+        {
+            "name": "万荣县",
+            "postCode": "044200"
+        },
+        {
+            "name": "新绛县",
+            "postCode": "043100"
+        },
+        {
+            "name": "稷山县",
+            "postCode": "043200"
+        },
+        {
+            "name": "闻喜县",
+            "postCode": "043800"
+        },
+        {
+            "name": "夏　县",
+            "postCode": "044400"
+        },
+        {
+            "name": "绛　县",
+            "postCode": "043600"
+        },
+        {
+            "name": "平陆县",
+            "postCode": "044300"
+        },
+        {
+            "name": "垣曲县",
+            "postCode": "043700"
+        }
+    ]
+}

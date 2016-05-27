@@ -1,0 +1,73 @@
+{
+    "city": "桂林市",
+    "district": [
+        {
+            "name": "象山区",
+            "postCode": "541002"
+        },
+        {
+            "name": "叠彩区",
+            "postCode": "541001"
+        },
+        {
+            "name": "秀峰区",
+            "postCode": "541001"
+        },
+        {
+            "name": "七星区",
+            "postCode": "541004"
+        },
+        {
+            "name": "雁山区",
+            "postCode": "541006"
+        },
+        {
+            "name": "阳朔县",
+            "postCode": "541900"
+        },
+        {
+            "name": "临桂县",
+            "postCode": "541100"
+        },
+        {
+            "name": "灵川县",
+            "postCode": "541200"
+        },
+        {
+            "name": "全州县",
+            "postCode": "541500"
+        },
+        {
+            "name": "兴安县",
+            "postCode": "541300"
+        },
+        {
+            "name": "永福县",
+            "postCode": "541800"
+        },
+        {
+            "name": "灌阳县",
+            "postCode": "541600"
+        },
+        {
+            "name": "资源县",
+            "postCode": "541400"
+        },
+        {
+            "name": "平乐县",
+            "postCode": "542400"
+        },
+        {
+            "name": "荔浦县",
+            "postCode": "546600"
+        },
+        {
+            "name": "龙胜各族自治县",
+            "postCode": "541700"
+        },
+        {
+            "name": "恭城瑶族自治县",
+            "postCode": "542500"
+        }
+    ]
+}

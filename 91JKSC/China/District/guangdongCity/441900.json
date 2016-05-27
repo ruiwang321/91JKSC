@@ -1,0 +1,133 @@
+{
+    "city":"东莞市",
+    "district": [
+        {
+            "name": "莞城",
+            "postCode": "523000"
+        },
+        {
+            "name": "南城",
+            "postCode": "523070"
+        },
+        {
+            "name": "万江",
+            "postCode": "523050"
+        },
+        {
+            "name": "东城",
+            "postCode": "523110"
+        },
+        {
+            "name": "石碣",
+            "postCode": "523290"
+        },
+        {
+            "name": "石龙",
+            "postCode": "523320"
+        },
+        {
+            "name": "茶山",
+            "postCode": "523380"
+        },
+        {
+            "name": "石排",
+            "postCode": "523330"
+        },
+        {
+            "name": "企石",
+            "postCode": "523500"
+        },
+        {
+            "name": "横沥",
+            "postCode": "523460"
+        },
+        {
+            "name": "桥头",
+            "postCode": "523520"
+        },
+        {
+            "name": "谢岗",
+            "postCode": "523590"
+        },
+        {
+            "name": "东坑",
+            "postCode": "523450"
+        },
+        {
+            "name": "常平",
+            "postCode": "523560"
+        },
+        {
+            "name": "寮步",
+            "postCode": "523400"
+        },
+        {
+            "name": "大朗",
+            "postCode": "523770"
+        },
+        {
+            "name": "黄江",
+            "postCode": "523750"
+        },
+        {
+            "name": "清溪",
+            "postCode": "523660"
+        },
+        {
+            "name": "塘厦",
+            "postCode": "523710"
+        },
+        {
+            "name": "凤岗",
+            "postCode": "523690"
+        },
+        {
+            "name": "长安",
+            "postCode": "523850"
+        },
+        {
+            "name": "虎门",
+            "postCode": "523900"
+        },
+        {
+            "name": "厚街",
+            "postCode": "523960"
+        },
+        {
+            "name": "沙田",
+            "postCode": "523980"
+        },
+        {
+            "name": "道窖",
+            "postCode": "523170"
+        },
+        {
+            "name": "洪梅",
+            "postCode": "523160"
+        },
+        {
+            "name": "麻涌",
+            "postCode": "523130"
+        },
+        {
+            "name": "中堂",
+            "postCode": "523220"
+        },
+        {
+            "name": "高埗",
+            "postCode": "523270"
+        },
+        {
+            "name": "樟木头",
+            "postCode": "523620"
+        },
+        {
+            "name": "大岭山",
+            "postCode": "523820"
+        },
+        {
+            "name": "望牛墩",
+            "postCode": "523200"
+        }
+    ]
+}

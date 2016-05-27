@@ -1,0 +1,37 @@
+{
+    "city": "文山州",
+    "district": [
+        {
+            "name": "文山县",
+            "postCode": "663000"
+        },
+        {
+            "name": "砚山县",
+            "postCode": "663100"
+        },
+        {
+            "name": "西畴县",
+            "postCode": "663500"
+        },
+        {
+            "name": "麻栗坡县",
+            "postCode": "663600"
+        },
+        {
+            "name": "马关县",
+            "postCode": "663700"
+        },
+        {
+            "name": "丘北县",
+            "postCode": "663200"
+        },
+        {
+            "name": "广南县",
+            "postCode": "663300"
+        },
+        {
+            "name": "富宁县",
+            "postCode": "663400"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "city": [
+        {
+            "name": "长沙市",
+            "spellName": "430100"
+        },
+        {
+            "name": "邵阳市",
+            "spellName": "430500"
+        },
+        {
+            "name": "常德市",
+            "spellName": "430700"
+        },
+        {
+            "name": "衡阳市",
+            "spellName": "430400"
+        },
+        {
+            "name": "株洲市",
+            "spellName": "430200"
+        },
+        {
+            "name": "湘潭市",
+            "spellName": "430300"
+        },
+        {
+            "name": "永州市",
+            "spellName": "431100"
+        },
+        {
+            "name": "岳阳市",
+            "spellName": "430600"
+        },
+        {
+            "name": "怀化市",
+            "spellName": "431200"
+        },
+        {
+            "name": "郴州市",
+            "spellName": "431000"
+        },
+        {
+            "name": "娄底市",
+            "spellName": "431300"
+        },
+        {
+            "name": "益阳市",
+            "spellName": "430900"
+        },
+        {
+            "name": "张家界市",
+            "spellName": "430800"
+        },
+        {
+            "name": "湘西州",
+            "spellName": "433100"
+        }
+    ]
+}

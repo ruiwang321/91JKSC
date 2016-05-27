@@ -1,0 +1,57 @@
+{
+    "city": "西安市",
+    "district": [
+        {
+            "name": "未央区",
+            "postCode": "710016"
+        },
+        {
+            "name": "莲湖区",
+            "postCode": "710003"
+        },
+        {
+            "name": "新城区",
+            "postCode": "710005"
+        },
+        {
+            "name": "碑林区",
+            "postCode": "710001"
+        },
+        {
+            "name": "灞桥区",
+            "postCode": "710038"
+        },
+        {
+            "name": "雁塔区",
+            "postCode": "710061"
+        },
+        {
+            "name": "阎良区",
+            "postCode": "710089"
+        },
+        {
+            "name": "临潼区",
+            "postCode": "710600"
+        },
+        {
+            "name": "长安区",
+            "postCode": "710100"
+        },
+        {
+            "name": "蓝田县",
+            "postCode": "710500"
+        },
+        {
+            "name": "周至县",
+            "postCode": "710400"
+        },
+        {
+            "name": "户　县",
+            "postCode": "710300"
+        },
+        {
+            "name": "高陵县",
+            "postCode": "710200"
+        }
+    ]
+}

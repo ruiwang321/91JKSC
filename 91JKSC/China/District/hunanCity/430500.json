@@ -1,0 +1,49 @@
+{
+    "city": "邵阳市",
+    "district": [
+        {
+            "name": "双清区",
+            "postCode": "422001"
+        },
+        {
+            "name": "大祥区",
+            "postCode": "422000"
+        },
+        {
+            "name": "北塔区",
+            "postCode": "422001"
+        },
+        {
+            "name": "武冈市",
+            "postCode": "422400"
+        },
+        {
+            "name": "邵东县",
+            "postCode": "422800"
+        },
+        {
+            "name": "邵阳县",
+            "postCode": "422100"
+        },
+        {
+            "name": "新邵县",
+            "postCode": "422900"
+        },
+        {
+            "name": "隆回县",
+            "postCode": "422200"
+        },
+        {
+            "name": "洞口县",
+            "postCode": "422300"
+        },
+        {
+            "name": "绥宁县",
+            "postCode": "422600"
+        },
+        {
+            "name": "新宁县",
+            "postCode": "422700"
+        }
+    ]
+}

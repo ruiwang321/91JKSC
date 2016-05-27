@@ -1,0 +1,53 @@
+{
+    "city": "九江市",
+    "district": [
+        {
+            "name": "浔阳区",
+            "postCode": "332000"
+        },
+        {
+            "name": "庐山区",
+            "postCode": "332005"
+        },
+        {
+            "name": "瑞昌市",
+            "postCode": "332200"
+        },
+        {
+            "name": "九江县",
+            "postCode": "332100"
+        },
+        {
+            "name": "武宁县",
+            "postCode": "332300"
+        },
+        {
+            "name": "修水县",
+            "postCode": "332400"
+        },
+        {
+            "name": "永修县",
+            "postCode": "330300"
+        },
+        {
+            "name": "德安县",
+            "postCode": "330400"
+        },
+        {
+            "name": "星子县",
+            "postCode": "332800"
+        },
+        {
+            "name": "都昌县",
+            "postCode": "332600"
+        },
+        {
+            "name": "湖口县",
+            "postCode": "332500"
+        },
+        {
+            "name": "彭泽县",
+            "postCode": "332700"
+        }
+    ]
+}

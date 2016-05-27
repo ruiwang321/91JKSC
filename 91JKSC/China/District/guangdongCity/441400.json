@@ -1,0 +1,37 @@
+{
+    "city":"梅州市",
+    "district": [
+        {
+            "name": "梅江区",
+            "postCode": "514000"
+        },
+        {
+            "name": "兴宁市",
+            "postCode": "514500"
+        },
+        {
+            "name": "梅　县",
+            "postCode": "514733"
+        },
+        {
+            "name": "大埔县",
+            "postCode": "514200"
+        },
+        {
+            "name": "丰顺县",
+            "postCode": "514300"
+        },
+        {
+            "name": "五华县",
+            "postCode": "514400"
+        },
+        {
+            "name": "平远县",
+            "postCode": "514600"
+        },
+        {
+            "name": "蕉岭县",
+            "postCode": "514100"
+        }
+    ]
+}

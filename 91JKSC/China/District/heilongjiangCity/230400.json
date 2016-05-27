@@ -1,0 +1,37 @@
+{
+    "city": "鹤岗市",
+    "district": [
+        {
+            "name": "兴山区",
+            "postCode": "154105"
+        },
+        {
+            "name": "向阳区",
+            "postCode": "154100"
+        },
+        {
+            "name": "工农区",
+            "postCode": "154101"
+        },
+        {
+            "name": "南山区",
+            "postCode": "154104"
+        },
+        {
+            "name": "兴安区",
+            "postCode": "154102"
+        },
+        {
+            "name": "东山区",
+            "postCode": "154106"
+        },
+        {
+            "name": "萝北县",
+            "postCode": "154200"
+        },
+        {
+            "name": "绥滨县",
+            "postCode": "156200"
+        }
+    ]
+}

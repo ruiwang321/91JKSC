@@ -1,0 +1,41 @@
+{
+    "city": "常德市",
+    "district": [
+        {
+            "name": "武陵区",
+            "postCode": "415000"
+        },
+        {
+            "name": "鼎城区",
+            "postCode": "415100"
+        },
+        {
+            "name": "津市市",
+            "postCode": "415400"
+        },
+        {
+            "name": "安乡县",
+            "postCode": "415600"
+        },
+        {
+            "name": "汉寿县",
+            "postCode": "415900"
+        },
+        {
+            "name": "澧　县",
+            "postCode": "415500"
+        },
+        {
+            "name": "临澧县",
+            "postCode": "415200"
+        },
+        {
+            "name": "桃源县",
+            "postCode": "415700"
+        },
+        {
+            "name": "石门县",
+            "postCode": "415300"
+        }
+    ]
+}

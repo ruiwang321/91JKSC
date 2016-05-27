@@ -1,0 +1,57 @@
+{
+    "city": "吕梁市",
+    "district": [
+        {
+            "name": "离石区",
+            "postCode": "033000"
+        },
+        {
+            "name": "孝义市",
+            "postCode": "032300"
+        },
+        {
+            "name": "汾阳市",
+            "postCode": "032200"
+        },
+        {
+            "name": "文水县",
+            "postCode": "032100"
+        },
+        {
+            "name": "中阳县",
+            "postCode": "033400"
+        },
+        {
+            "name": "兴　县",
+            "postCode": "033600"
+        },
+        {
+            "name": "临　县",
+            "postCode": "033200"
+        },
+        {
+            "name": "方山县",
+            "postCode": "033100"
+        },
+        {
+            "name": "柳林县",
+            "postCode": "033300"
+        },
+        {
+            "name": "岚　县",
+            "postCode": "033500"
+        },
+        {
+            "name": "交口县",
+            "postCode": "032400"
+        },
+        {
+            "name": "交城县",
+            "postCode": "030500"
+        },
+        {
+            "name": "石楼县",
+            "postCode": "032500"
+        }
+    ]
+}

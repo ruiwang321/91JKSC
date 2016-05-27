@@ -1,0 +1,29 @@
+{
+    "city": "朔州市",
+    "district": [
+        {
+            "name": "朔城区",
+            "postCode": "038500"
+        },
+        {
+            "name": "平鲁区",
+            "postCode": "038600"
+        },
+        {
+            "name": "山阴县",
+            "postCode": "036900"
+        },
+        {
+            "name": "应　县",
+            "postCode": "037600"
+        },
+        {
+            "name": "右玉县",
+            "postCode": "037200"
+        },
+        {
+            "name": "怀仁县",
+            "postCode": "038300"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "city": "临汾市",
+    "district": [
+        {
+            "name": "尧都区",
+            "postCode": "041000"
+        },
+        {
+            "name": "侯马市",
+            "postCode": "043000"
+        },
+        {
+            "name": "霍州市",
+            "postCode": "031400"
+        },
+        {
+            "name": "曲沃县",
+            "postCode": "043400"
+        },
+        {
+            "name": "翼城县",
+            "postCode": "043500"
+        },
+        {
+            "name": "襄汾县",
+            "postCode": "041500"
+        },
+        {
+            "name": "洪洞县",
+            "postCode": "031600"
+        },
+        {
+            "name": "古　县",
+            "postCode": "042400"
+        },
+        {
+            "name": "安泽县",
+            "postCode": "042500"
+        },
+        {
+            "name": "浮山县",
+            "postCode": "042600"
+        },
+        {
+            "name": "吉　县",
+            "postCode": "042200"
+        },
+        {
+            "name": "乡宁县",
+            "postCode": "042100"
+        },
+        {
+            "name": "蒲　县",
+            "postCode": "041200"
+        },
+        {
+            "name": "大宁县",
+            "postCode": "042300"
+        },
+        {
+            "name": "永和县",
+            "postCode": "041400"
+        },
+        {
+            "name": "隰　县",
+            "postCode": "041300"
+        },
+        {
+            "name": "汾西县",
+            "postCode": "031500"
+        }
+    ]
+}

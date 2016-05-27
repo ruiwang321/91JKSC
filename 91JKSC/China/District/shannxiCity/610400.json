@@ -1,0 +1,61 @@
+{
+    "city": "咸阳市",
+    "district": [
+        {
+            "name": "秦都区",
+            "postCode": "712000"
+        },
+        {
+            "name": "杨凌区",
+            "postCode": "712100"
+        },
+        {
+            "name": "渭城区",
+            "postCode": "712000"
+        },
+        {
+            "name": "兴平市",
+            "postCode": "713100"
+        },
+        {
+            "name": "三原县",
+            "postCode": "713800"
+        },
+        {
+            "name": "泾阳县",
+            "postCode": "713700"
+        },
+        {
+            "name": "乾　县",
+            "postCode": "713300"
+        },
+        {
+            "name": "礼泉县",
+            "postCode": "713200"
+        },
+        {
+            "name": "永寿县",
+            "postCode": "713400"
+        },
+        {
+            "name": "彬　县",
+            "postCode": "713500"
+        },
+        {
+            "name": "长武县",
+            "postCode": "713600"
+        },
+        {
+            "name": "旬邑县",
+            "postCode": "711300"
+        },
+        {
+            "name": "淳化县",
+            "postCode": "711200"
+        },
+        {
+            "name": "武功县",
+            "postCode": "712200"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "city": "合肥市",
+    "district": [
+        {
+            "name": "庐阳区",
+            "postCode": "230001"
+        },
+        {
+            "name": "瑶海区",
+            "postCode": "230011"
+        },
+        {
+            "name": "蜀山区",
+            "postCode": "230061"
+        },
+        {
+            "name": "包河区",
+            "postCode": "230041"
+        },
+        {
+            "name": "长丰县",
+            "postCode": "231100"
+        },
+        {
+            "name": "肥东县",
+            "postCode": "231600"
+        },
+        {
+            "name": "肥西县",
+            "postCode": "231200"
+        }
+    ]
+}

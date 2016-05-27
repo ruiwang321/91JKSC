@@ -1,0 +1,25 @@
+{
+    "city":"鹤壁市",
+    "district": [
+        {
+            "name": "淇滨区",
+            "postCode": "458030"
+        },
+        {
+            "name": "山城区",
+            "postCode": "458000"
+        },
+        {
+            "name": "鹤山区",
+            "postCode": "458010"
+        },
+        {
+            "name": "浚　县",
+            "postCode": "456250"
+        },
+        {
+            "name": "淇　县",
+            "postCode": "456750"
+        }
+    ]
+}

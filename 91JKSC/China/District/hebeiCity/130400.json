@@ -1,0 +1,81 @@
+{
+    "city":"邯郸市",
+    "district": [
+        {
+            "name": "丛台区",
+            "postCode": "056004"
+        },
+        {
+            "name": "邯山区",
+            "postCode": "056001"
+        },
+        {
+            "name": "复兴区",
+            "postCode": "056003"
+        },
+        {
+            "name": "峰峰矿区",
+            "postCode": "056200"
+        },
+        {
+            "name": "武安市",
+            "postCode": "056300"
+        },
+        {
+            "name": "邯郸县",
+            "postCode": "056100"
+        },
+        {
+            "name": "临漳县",
+            "postCode": "056600"
+        },
+        {
+            "name": "成安县",
+            "postCode": "056700"
+        },
+        {
+            "name": "大名县",
+            "postCode": "056900"
+        },
+        {
+            "name": "涉　县",
+            "postCode": "056500"
+        },
+        {
+            "name": "磁　县",
+            "postCode": "056600"
+        },
+        {
+            "name": "肥乡县",
+            "postCode": "057550"
+        },
+        {
+            "name": "永年县",
+            "postCode": "057150"
+        },
+        {
+            "name": "邱　县",
+            "postCode": "057450"
+        },
+        {
+            "name": "鸡泽县",
+            "postCode": "057350"
+        },
+        {
+            "name": "广平县",
+            "postCode": "057650"
+        },
+        {
+            "name": "馆陶县",
+            "postCode": "057750"
+        },
+        {
+            "name": "魏　县",
+            "postCode": "056800"
+        },
+        {
+            "name": "曲周县",
+            "postCode": "057250"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "city":"郑州市",
+    "district": [
+        {
+            "name": "中原区",
+            "postCode": "450007"
+        },
+        {
+            "name": "二七区",
+            "postCode": "450000"
+        },
+        {
+            "name": "管城回族区",
+            "postCode": "450000"
+        },
+        {
+            "name": "金水区",
+            "postCode": "450003"
+        },
+        {
+            "name": "上街区",
+            "postCode": "450041"
+        },
+        {
+            "name": "惠济区",
+            "postCode": "450053"
+        },
+        {
+            "name": "新郑市",
+            "postCode": "451100"
+        },
+        {
+            "name": "登封市",
+            "postCode": "452470"
+        },
+        {
+            "name": "新密市",
+            "postCode": "452370"
+        },
+        {
+            "name": "巩义市",
+            "postCode": "451250"
+        },
+        {
+            "name": "荥阳市",
+            "postCode": "450100"
+        },
+        {
+            "name": "中牟县",
+            "postCode": "451450"
+        }
+    ]
+}

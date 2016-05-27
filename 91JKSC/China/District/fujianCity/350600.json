@@ -1,0 +1,49 @@
+{
+    "city": "漳州市",
+    "district": [
+        {
+            "name": "芗城区",
+            "postCode": "363000"
+        },
+        {
+            "name": "龙文区",
+            "postCode": "363005"
+        },
+        {
+            "name": "龙海市",
+            "postCode": "363100"
+        },
+        {
+            "name": "云霄县",
+            "postCode": "363300"
+        },
+        {
+            "name": "漳浦县",
+            "postCode": "363200"
+        },
+        {
+            "name": "诏安县",
+            "postCode": "363500"
+        },
+        {
+            "name": "长泰县",
+            "postCode": "363900"
+        },
+        {
+            "name": "东山县",
+            "postCode": "363400"
+        },
+        {
+            "name": "南靖县",
+            "postCode": "363600"
+        },
+        {
+            "name": "平和县",
+            "postCode": "363700"
+        },
+        {
+            "name": "华安县",
+            "postCode": "363800"
+        }
+    ]
+}

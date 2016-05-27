@@ -1,0 +1,33 @@
+{
+    "city":"汕头市",
+    "district": [
+        {
+            "name": "金平区",
+            "postCode": "515041"
+        },
+        {
+            "name": "濠江区",
+            "postCode": "515071"
+        },
+        {
+            "name": "龙湖区",
+            "postCode": "515041"
+        },
+        {
+            "name": "潮阳区",
+            "postCode": "515100"
+        },
+        {
+            "name": "潮南区",
+            "postCode": "515144"
+        },
+        {
+            "name": "澄海区",
+            "postCode": "515800"
+        },
+        {
+            "name": "南澳县",
+            "postCode": "515900"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "city": "衡阳市",
+    "district": [
+        {
+            "name": "雁峰区",
+            "postCode": "421001"
+        },
+        {
+            "name": "珠晖区",
+            "postCode": "421002"
+        },
+        {
+            "name": "石鼓区",
+            "postCode": "421001"
+        },
+        {
+            "name": "蒸湘区",
+            "postCode": "421001"
+        },
+        {
+            "name": "南岳区",
+            "postCode": "421000"
+        },
+        {
+            "name": "常宁市",
+            "postCode": "421500"
+        },
+        {
+            "name": "耒阳市",
+            "postCode": "421800"
+        },
+        {
+            "name": "衡阳县",
+            "postCode": "421200"
+        },
+        {
+            "name": "衡南县",
+            "postCode": "421001"
+        },
+        {
+            "name": "衡山县",
+            "postCode": "421300"
+        },
+        {
+            "name": "衡东县",
+            "postCode": "421400"
+        },
+        {
+            "name": "祁东县",
+            "postCode": "421600"
+        }
+    ]
+}

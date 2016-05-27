@@ -1,0 +1,109 @@
+{
+    "city": "天门市",
+    "district": [
+        {
+            "name": "竟陵街道",
+            "postCode": "431700"
+        },
+        {
+            "name": "岳口街道",
+            "postCode": "431700"
+        },
+        {
+            "name": "候口街道",
+            "postCode": "431700"
+        },
+        {
+            "name": "杨林街道",
+            "postCode": "431700"
+        },
+        {
+            "name": "多宝镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "拖市镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "张港镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "蒋场镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "汪场镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "渔薪镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "黄潭镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "横林镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "彭市镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "麻洋镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "多祥镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "干驿镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "马湾镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "卢市镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "小板镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "九真镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "皂市镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "胡市镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "石河镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "佛子山镇",
+            "postCode": "431700"
+        },
+        {
+            "name": "净潭乡",
+            "postCode": "431700"
+        },
+        {
+            "name": "其他",
+            "postCode": "431700"
+        }
+    ]
+}

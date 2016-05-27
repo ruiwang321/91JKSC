@@ -1,0 +1,57 @@
+{
+    "city": "福州市",
+    "district": [
+        {
+            "name": "鼓楼区",
+            "postCode": "350001"
+        },
+        {
+            "name": "台江区",
+            "postCode": "350004"
+        },
+        {
+            "name": "仓山区",
+            "postCode": "350007"
+        },
+        {
+            "name": "马尾区",
+            "postCode": "350015"
+        },
+        {
+            "name": "晋安区",
+            "postCode": "350011"
+        },
+        {
+            "name": "福清市",
+            "postCode": "350300"
+        },
+        {
+            "name": "长乐市",
+            "postCode": "350200"
+        },
+        {
+            "name": "闽侯县",
+            "postCode": "350100"
+        },
+        {
+            "name": "连江县",
+            "postCode": "350500"
+        },
+        {
+            "name": "罗源县",
+            "postCode": "350600"
+        },
+        {
+            "name": "闽清县",
+            "postCode": "350800"
+        },
+        {
+            "name": "永泰县",
+            "postCode": "350700"
+        },
+        {
+            "name": "平潭县",
+            "postCode": "350400"
+        }
+    ]
+}

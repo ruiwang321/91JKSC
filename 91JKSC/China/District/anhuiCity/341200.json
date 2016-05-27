@@ -1,0 +1,37 @@
+{
+    "city": "阜阳市",
+    "district": [
+        {
+            "name": "颍州区",
+            "postCode": "236001"
+        },
+        {
+            "name": "颍东区",
+            "postCode": "236058"
+        },
+        {
+            "name": "颍泉区",
+            "postCode": "236045"
+        },
+        {
+            "name": "界首市",
+            "postCode": "236500"
+        },
+        {
+            "name": "临泉县",
+            "postCode": "236400"
+        },
+        {
+            "name": "太和县",
+            "postCode": "236600"
+        },
+        {
+            "name": "阜南县",
+            "postCode": "236200"
+        },
+        {
+            "name": "颍上县",
+            "postCode": "236200"
+        }
+    ]
+}

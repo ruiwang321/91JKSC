@@ -1,0 +1,57 @@
+{
+    "city":"南阳市",
+    "district": [
+        {
+            "name": "卧龙区",
+            "postCode": "473003"
+        },
+        {
+            "name": "宛城区",
+            "postCode": "473001"
+        },
+        {
+            "name": "邓州市",
+            "postCode": "474150"
+        },
+        {
+            "name": "南召县",
+            "postCode": "474650"
+        },
+        {
+            "name": "方城县",
+            "postCode": "473200"
+        },
+        {
+            "name": "西峡县",
+            "postCode": "474550"
+        },
+        {
+            "name": "镇平县",
+            "postCode": "474250"
+        },
+        {
+            "name": "内乡县",
+            "postCode": "474350"
+        },
+        {
+            "name": "淅川县",
+            "postCode": "474450"
+        },
+        {
+            "name": "社旗县",
+            "postCode": "473300"
+        },
+        {
+            "name": "唐河县",
+            "postCode": "473400"
+        },
+        {
+            "name": "新野县",
+            "postCode": "473500"
+        },
+        {
+            "name": "桐柏县",
+            "postCode": "474750"
+        }
+    ]
+}

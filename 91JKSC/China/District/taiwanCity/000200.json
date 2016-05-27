@@ -1,0 +1,33 @@
+{
+    "city": "基隆市",
+    "district": [
+        {
+            "name": "中正区",
+            "postCode": "000200"
+        },
+        {
+            "name": "七堵区",
+            "postCode": "000200"
+        },
+        {
+            "name": "暖暖区",
+            "postCode": "000200"
+        },
+        {
+            "name": "仁爱区",
+            "postCode": "000200"
+        },
+        {
+            "name": "中山区",
+            "postCode": "000200"
+        },
+        {
+            "name": "安乐区",
+            "postCode": "000200"
+        },
+        {
+            "name": "信义区",
+            "postCode": "000200"
+        }
+    ]
+}

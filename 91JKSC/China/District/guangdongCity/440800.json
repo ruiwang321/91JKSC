@@ -1,0 +1,41 @@
+{
+    "city":"湛江市",
+    "district": [
+        {
+            "name": "赤坎区",
+            "postCode": "524033"
+        },
+        {
+            "name": "霞山区",
+            "postCode": "524002"
+        },
+        {
+            "name": "坡头区",
+            "postCode": "524057"
+        },
+        {
+            "name": "麻章区",
+            "postCode": "524003"
+        },
+        {
+            "name": "吴川市",
+            "postCode": "524500"
+        },
+        {
+            "name": "廉江市",
+            "postCode": "524400"
+        },
+        {
+            "name": "雷州市",
+            "postCode": "524200"
+        },
+        {
+            "name": "遂溪县",
+            "postCode": "524300"
+        },
+        {
+            "name": "徐闻县",
+            "postCode": "524100"
+        }
+    ]
+}

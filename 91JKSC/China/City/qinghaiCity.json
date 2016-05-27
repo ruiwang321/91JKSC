@@ -1,0 +1,32 @@
+{
+    "city": [
+        {
+            "name": "西宁市",
+            "spellName": "630100"
+        },
+        {
+            "name": "海西州",
+            "spellName": "632800"
+        },
+        {
+            "name": "海东地区",
+            "spellName": "632100"
+        },
+        {
+            "name": "海北州",
+            "spellName": "632200"
+        },
+        {
+            "name": "果洛州",
+            "spellName": "632600"
+        },
+        {
+            "name": "玉树州",
+            "spellName": "632700"
+        },
+        {
+            "name": "黄南藏族自治州",
+            "spellName": "632300"
+        }
+    ]
+}

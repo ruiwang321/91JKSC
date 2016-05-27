@@ -1,0 +1,33 @@
+{
+    "city": "定西市",
+    "district": [
+        {
+            "name": "安定区",
+            "postCode": "743000"
+        },
+        {
+            "name": "通渭县",
+            "postCode": "743300"
+        },
+        {
+            "name": "临洮县",
+            "postCode": "730500"
+        },
+        {
+            "name": "漳　县",
+            "postCode": "748300"
+        },
+        {
+            "name": "岷　县",
+            "postCode": "748400"
+        },
+        {
+            "name": "渭源县",
+            "postCode": "748200"
+        },
+        {
+            "name": "陇西县",
+            "postCode": "748100"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "city":"济宁市",
+    "district": [
+        {
+            "name": "市中区",
+            "postCode": "272133"
+        },
+        {
+            "name": "任城区",
+            "postCode": "272113"
+        },
+        {
+            "name": "曲阜市",
+            "postCode": "273100"
+        },
+        {
+            "name": "兖州市",
+            "postCode": "272000"
+        },
+        {
+            "name": "邹城市",
+            "postCode": "273500"
+        },
+        {
+            "name": "微山县",
+            "postCode": "277600"
+        },
+        {
+            "name": "鱼台县",
+            "postCode": "272300"
+        },
+        {
+            "name": "金乡县",
+            "postCode": "272200"
+        },
+        {
+            "name": "嘉祥县",
+            "postCode": "272400"
+        },
+        {
+            "name": "汶上县",
+            "postCode": "272501"
+        },
+        {
+            "name": "泗水县",
+            "postCode": "273200"
+        },
+        {
+            "name": "梁山县",
+            "postCode": "272600"
+        }
+    ]
+}

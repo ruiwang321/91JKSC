@@ -1,0 +1,53 @@
+{
+    "city":"广州市",
+    "district": [
+        {
+            "name": "越秀区",
+            "postCode": "510030"
+        },
+        {
+            "name": "东山区",
+            "postCode": "510080"
+        },
+        {
+            "name": "荔湾区",
+            "postCode": "510145"
+        },
+        {
+            "name": "海珠区",
+            "postCode": "510220"
+        },
+        {
+            "name": "天河区",
+            "postCode": "510630"
+        },
+        {
+            "name": "芳村区",
+            "postCode": "510360"
+        },
+        {
+            "name": "白云区",
+            "postCode": "510080"
+        },
+        {
+            "name": "黄埔区",
+            "postCode": "510700"
+        },
+        {
+            "name": "番禺区",
+            "postCode": "511400"
+        },
+        {
+            "name": "花都区",
+            "postCode": "510800"
+        },
+        {
+            "name": "增城市",
+            "postCode": "511300"
+        },
+        {
+            "name": "从化市",
+            "postCode": "510900"
+        }
+    ]
+}

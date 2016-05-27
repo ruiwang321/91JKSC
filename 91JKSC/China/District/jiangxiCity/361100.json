@@ -1,0 +1,53 @@
+{
+    "city": "上饶市",
+    "district": [
+        {
+            "name": "信州区",
+            "postCode": "334000"
+        },
+        {
+            "name": "德兴市",
+            "postCode": "334200"
+        },
+        {
+            "name": "上饶县",
+            "postCode": "334100"
+        },
+        {
+            "name": "广丰县",
+            "postCode": "334600"
+        },
+        {
+            "name": "玉山县",
+            "postCode": "334700"
+        },
+        {
+            "name": "铅山县",
+            "postCode": "334500"
+        },
+        {
+            "name": "横峰县",
+            "postCode": "334300"
+        },
+        {
+            "name": "弋阳县",
+            "postCode": "334400"
+        },
+        {
+            "name": "余干县",
+            "postCode": "335100"
+        },
+        {
+            "name": "鄱阳县",
+            "postCode": "333100"
+        },
+        {
+            "name": "万年县",
+            "postCode": "335500"
+        },
+        {
+            "name": "婺源县",
+            "postCode": "333200"
+        }
+    ]
+}

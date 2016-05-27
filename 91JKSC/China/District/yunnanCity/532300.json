@@ -1,0 +1,45 @@
+{
+    "city": "楚雄州",
+    "district": [
+        {
+            "name": "楚雄市",
+            "postCode": "675000"
+        },
+        {
+            "name": "双柏县",
+            "postCode": "675100"
+        },
+        {
+            "name": "牟定县",
+            "postCode": "675500"
+        },
+        {
+            "name": "南华县",
+            "postCode": "675200"
+        },
+        {
+            "name": "姚安县",
+            "postCode": "675300"
+        },
+        {
+            "name": "大姚县",
+            "postCode": "675400"
+        },
+        {
+            "name": "永仁县",
+            "postCode": "651400"
+        },
+        {
+            "name": "元谋县",
+            "postCode": "651300"
+        },
+        {
+            "name": "武定县",
+            "postCode": "651600"
+        },
+        {
+            "name": "禄丰县",
+            "postCode": "651200"
+        }
+    ]
+}

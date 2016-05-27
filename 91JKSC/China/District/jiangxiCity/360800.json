@@ -1,0 +1,57 @@
+{
+    "city": "吉安市",
+    "district": [
+        {
+            "name": "吉州区",
+            "postCode": "343000"
+        },
+        {
+            "name": "青原区",
+            "postCode": "343009"
+        },
+        {
+            "name": "井冈山市",
+            "postCode": "343600"
+        },
+        {
+            "name": "吉安县",
+            "postCode": "343100"
+        },
+        {
+            "name": "吉水县",
+            "postCode": "331600"
+        },
+        {
+            "name": "峡江县",
+            "postCode": "331409"
+        },
+        {
+            "name": "新干县",
+            "postCode": "331300"
+        },
+        {
+            "name": "永丰县",
+            "postCode": "331500"
+        },
+        {
+            "name": "泰和县",
+            "postCode": "343700"
+        },
+        {
+            "name": "遂川县",
+            "postCode": "343900"
+        },
+        {
+            "name": "万安县",
+            "postCode": "343800"
+        },
+        {
+            "name": "安福县",
+            "postCode": "343200"
+        },
+        {
+            "name": "永新县",
+            "postCode": "343400"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "city":"扬州市",
+    "district": [
+        {
+            "name": "维扬区",
+            "postCode": "225002"
+        },
+        {
+            "name": "广陵区",
+            "postCode": "225002"
+        },
+        {
+            "name": "邗江区",
+            "postCode": "225002"
+        },
+        {
+            "name": "仪征市",
+            "postCode": "211400"
+        },
+        {
+            "name": "江都市",
+            "postCode": "225200"
+        },
+        {
+            "name": "高邮市",
+            "postCode": "225600"
+        },
+        {
+            "name": "宝应县",
+            "postCode": "225800"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "city": "宁波市",
+    "district": [
+        {
+            "name": "海曙区",
+            "postCode": "315000"
+        },
+        {
+            "name": "江东区",
+            "postCode": "315040"
+        },
+        {
+            "name": "江北区",
+            "postCode": "315020"
+        },
+        {
+            "name": "北仑区",
+            "postCode": "315800"
+        },
+        {
+            "name": "镇海区",
+            "postCode": "315200"
+        },
+        {
+            "name": "鄞州区",
+            "postCode": "315040"
+        },
+        {
+            "name": "余姚市",
+            "postCode": "315400"
+        },
+        {
+            "name": "慈溪市",
+            "postCode": "315300"
+        },
+        {
+            "name": "奉化市",
+            "postCode": "315500"
+        },
+        {
+            "name": "象山县",
+            "postCode": "315700"
+        },
+        {
+            "name": "宁海县",
+            "postCode": "315600"
+        }
+    ]
+}

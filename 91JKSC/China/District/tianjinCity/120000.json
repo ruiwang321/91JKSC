@@ -1,0 +1,77 @@
+{
+    "city": "天津市",
+    "district": [
+        {
+            "name": "和平区",
+            "postCode": "300041"
+        },
+        {
+            "name": "北辰区",
+            "postCode": "300400"
+        },
+        {
+            "name": "河北区",
+            "postCode": "300143"
+        },
+        {
+            "name": "河西区",
+            "postCode": "300202"
+        },
+        {
+            "name": "西青区",
+            "postCode": "300380"
+        },
+        {
+            "name": "津南区",
+            "postCode": "300350"
+        },
+        {
+            "name": "东丽区",
+            "postCode": "300300"
+        },
+        {
+            "name": "武清区",
+            "postCode": "301700"
+        },
+        {
+            "name": "宝坻区",
+            "postCode": "301800"
+        },
+        {
+            "name": "红桥区",
+            "postCode": "300131"
+        },
+        {
+            "name": "大港区",
+            "postCode": "300270"
+        },
+        {
+            "name": "汉沽区",
+            "postCode": "300480"
+        },
+        {
+            "name": "静海县",
+            "postCode": "301600"
+        },
+        {
+            "name": "塘沽区",
+            "postCode": "300450"
+        },
+        {
+            "name": "宁河县",
+            "postCode": "301500"
+        },
+        {
+            "name": "蓟县",
+            "postCode": "301900"
+        },
+        {
+            "name": "南开区",
+            "postCode": "300100"
+        },
+        {
+            "name": "河东区",
+            "postCode": "300171"
+        }
+    ]
+}

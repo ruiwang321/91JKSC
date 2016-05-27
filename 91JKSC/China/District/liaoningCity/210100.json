@@ -1,0 +1,61 @@
+{
+    "city": "沈阳市",
+    "district": [
+        {
+            "name": "沈河区",
+            "postCode": "110011"
+        },
+        {
+            "name": "和平区",
+            "postCode": "110001"
+        },
+        {
+            "name": "大东区",
+            "postCode": "110041"
+        },
+        {
+            "name": "皇姑区",
+            "postCode": "110031"
+        },
+        {
+            "name": "铁西区",
+            "postCode": "110021"
+        },
+        {
+            "name": "苏家屯区",
+            "postCode": "110101"
+        },
+        {
+            "name": "东陵区",
+            "postCode": "110015"
+        },
+        {
+            "name": "浑南新区",
+            "postCode": "110179"
+        },
+        {
+            "name": "沈北新区",
+            "postCode": "110121"
+        },
+        {
+            "name": "于洪区",
+            "postCode": "110024"
+        },
+        {
+            "name": "新民市",
+            "postCode": "110300"
+        },
+        {
+            "name": "辽中县",
+            "postCode": "110200"
+        },
+        {
+            "name": "康平县",
+            "postCode": "110500"
+        },
+        {
+            "name": "法库县",
+            "postCode": "110400"
+        }
+    ]
+}

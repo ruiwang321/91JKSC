@@ -1,0 +1,45 @@
+{
+    "city":"驻马店市",
+    "district": [
+        {
+            "name": "驿城区",
+            "postCode": "463000"
+        },
+        {
+            "name": "确山县",
+            "postCode": "463200"
+        },
+        {
+            "name": "泌阳县",
+            "postCode": "463700"
+        },
+        {
+            "name": "遂平县",
+            "postCode": "463100"
+        },
+        {
+            "name": "西平县",
+            "postCode": "463900"
+        },
+        {
+            "name": "上蔡县",
+            "postCode": "463800"
+        },
+        {
+            "name": "汝南县",
+            "postCode": "463300"
+        },
+        {
+            "name": "平舆县",
+            "postCode": "463400"
+        },
+        {
+            "name": "新蔡县",
+            "postCode": "463500"
+        },
+        {
+            "name": "正阳县",
+            "postCode": "463600"
+        }
+    ]
+}

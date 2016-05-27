@@ -1,0 +1,37 @@
+{
+    "city": "十堰市",
+    "district": [
+        {
+            "name": "张湾区",
+            "postCode": "442001"
+        },
+        {
+            "name": "茅箭区",
+            "postCode": "442012"
+        },
+        {
+            "name": "丹江口市",
+            "postCode": "442700"
+        },
+        {
+            "name": "郧　县",
+            "postCode": "442500"
+        },
+        {
+            "name": "竹山县",
+            "postCode": "442200"
+        },
+        {
+            "name": "房　县",
+            "postCode": "442100"
+        },
+        {
+            "name": "郧西县",
+            "postCode": "442600"
+        },
+        {
+            "name": "竹溪县",
+            "postCode": "442300"
+        }
+    ]
+}

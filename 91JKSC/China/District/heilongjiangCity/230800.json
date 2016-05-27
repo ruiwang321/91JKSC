@@ -1,0 +1,49 @@
+{
+    "city": "佳木斯市",
+    "district": [
+        {
+            "name": "前进区",
+            "postCode": "154002"
+        },
+        {
+            "name": "永红区",
+            "postCode": "154003"
+        },
+        {
+            "name": "向阳区",
+            "postCode": "154002"
+        },
+        {
+            "name": "东风区",
+            "postCode": "154005"
+        },
+        {
+            "name": "郊　区",
+            "postCode": "154004"
+        },
+        {
+            "name": "同江市",
+            "postCode": "156400"
+        },
+        {
+            "name": "富锦市",
+            "postCode": "156100"
+        },
+        {
+            "name": "桦南县",
+            "postCode": "154400"
+        },
+        {
+            "name": "桦川县",
+            "postCode": "154300"
+        },
+        {
+            "name": "汤原县",
+            "postCode": "154700"
+        },
+        {
+            "name": "抚远县",
+            "postCode": "156500"
+        }
+    ]
+}

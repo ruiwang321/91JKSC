@@ -1,0 +1,88 @@
+{
+    "city": [
+        {
+            "name": "成都市",
+            "spellName": "510100"
+        },
+        {
+            "name": "绵阳市",
+            "spellName": "510700"
+        },
+        {
+            "name": "广元市",
+            "spellName": "510800"
+        },
+        {
+            "name": "达州市",
+            "spellName": "511700"
+        },
+        {
+            "name": "南充市",
+            "spellName": "511300"
+        },
+        {
+            "name": "德阳市",
+            "spellName": "510600"
+        },
+        {
+            "name": "广安市",
+            "spellName": "511600"
+        },
+        {
+            "name": "阿坝州",
+            "spellName": "513200"
+        },
+        {
+            "name": "巴中市",
+            "spellName": "511900"
+        },
+        {
+            "name": "遂宁市",
+            "spellName": "510900"
+        },
+        {
+            "name": "内江市",
+            "spellName": "511000"
+        },
+        {
+            "name": "凉山州",
+            "spellName": "513400"
+        },
+        {
+            "name": "攀枝花市",
+            "spellName": "510400"
+        },
+        {
+            "name": "乐山市",
+            "spellName": "511100"
+        },
+        {
+            "name": "自贡市",
+            "spellName": "510300"
+        },
+        {
+            "name": "泸州市",
+            "spellName": "510500"
+        },
+        {
+            "name": "雅安市",
+            "spellName": "511800"
+        },
+        {
+            "name": "宜宾市",
+            "spellName": "511500"
+        },
+        {
+            "name": "资阳市",
+            "spellName": "512000"
+        },
+        {
+            "name": "眉山市",
+            "spellName": "511400"
+        },
+        {
+            "name": "甘孜州",
+            "spellName": "513300"
+        }
+    ]
+}

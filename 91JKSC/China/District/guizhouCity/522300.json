@@ -1,0 +1,37 @@
+{
+    "city": "黔西南州",
+    "district": [
+        {
+            "name": "兴义市",
+            "postCode": "562400"
+        },
+        {
+            "name": "兴仁县",
+            "postCode": "562300"
+        },
+        {
+            "name": "普安县",
+            "postCode": "561500"
+        },
+        {
+            "name": "晴隆县",
+            "postCode": "561400"
+        },
+        {
+            "name": "贞丰县",
+            "postCode": "562200"
+        },
+        {
+            "name": "望谟县",
+            "postCode": "552300"
+        },
+        {
+            "name": "册亨县",
+            "postCode": "552200"
+        },
+        {
+            "name": "安龙县",
+            "postCode": "552400"
+        }
+    ]
+}

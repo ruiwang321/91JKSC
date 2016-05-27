@@ -1,0 +1,33 @@
+{
+    "city": "泸州市",
+    "district": [
+        {
+            "name": "江阳区",
+            "postCode": "646000"
+        },
+        {
+            "name": "纳溪区",
+            "postCode": "646300"
+        },
+        {
+            "name": "龙马潭区",
+            "postCode": "646000"
+        },
+        {
+            "name": "泸　县",
+            "postCode": "646106"
+        },
+        {
+            "name": "合江县",
+            "postCode": "646200"
+        },
+        {
+            "name": "叙永县",
+            "postCode": "646400"
+        },
+        {
+            "name": "古蔺县",
+            "postCode": "646500"
+        }
+    ]
+}

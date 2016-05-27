@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a906a30f-a563-4a6c-80ed-d459eb3ea25d++2027",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++2027" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++2027" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F2A8D30-52CB-4025-9976-B3560F2AAB27",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a906a30f-a563-4a6c-80ed-d459eb3ea25d++2027" : "svn\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "91健康商城",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "91健康商城\/91健康商城.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.188.175",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a906a30f-a563-4a6c-80ed-d459eb3ea25d++2027"
+    }
+  ]
+}

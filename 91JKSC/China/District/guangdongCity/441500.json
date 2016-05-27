@@ -1,0 +1,21 @@
+{
+    "city":"汕尾市",
+    "district": [
+        {
+            "name": "城　区",
+            "poastCode": "516601"
+        },
+        {
+            "name": "陆丰市",
+            "poastCode": "516500"
+        },
+        {
+            "name": "海丰县",
+            "poastCode": "516400"
+        },
+        {
+            "name": "陆河县",
+            "poastCode": "516700"
+        }
+    ]
+}

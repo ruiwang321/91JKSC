@@ -1,0 +1,33 @@
+{
+    "city": "黄山市",
+    "district": [
+        {
+            "name": "屯溪区",
+            "postCode": "245000"
+        },
+        {
+            "name": "黄山区",
+            "postCode": "242700"
+        },
+        {
+            "name": "徽州区",
+            "postCode": "245061"
+        },
+        {
+            "name": "歙　县",
+            "postCode": "245200"
+        },
+        {
+            "name": "休宁县",
+            "postCode": "245400"
+        },
+        {
+            "name": "黟　县",
+            "postCode": "245500"
+        },
+        {
+            "name": "祁门县",
+            "postCode": "245600"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "city": "平凉市",
+    "district": [
+        {
+            "name": "崆峒区",
+            "postCode": "744000"
+        },
+        {
+            "name": "泾川县",
+            "postCode": "744300"
+        },
+        {
+            "name": "灵台县",
+            "postCode": "744400"
+        },
+        {
+            "name": "崇信县",
+            "postCode": "744200"
+        },
+        {
+            "name": "华亭县",
+            "postCode": "744100"
+        },
+        {
+            "name": "庄浪县",
+            "postCode": "744600"
+        },
+        {
+            "name": "静宁县",
+            "postCode": "743400"
+        }
+    ]
+}

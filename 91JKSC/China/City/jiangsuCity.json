@@ -1,0 +1,56 @@
+{
+    "city": [
+        {
+            "name": "苏州市",
+            "spellName": "320500"
+        },
+        {
+            "name": "徐州市",
+            "spellName": "320300"
+        },
+        {
+            "name": "盐城市",
+            "spellName": "320900"
+        },
+        {
+            "name": "无锡市",
+            "spellName": "320200"
+        },
+        {
+            "name": "南京市",
+            "spellName": "320100"
+        },
+        {
+            "name": "南通市",
+            "spellName": "320600"
+        },
+        {
+            "name": "连云港市",
+            "spellName": "320700"
+        },
+        {
+            "name": "常州市",
+            "spellName": "320400"
+        },
+        {
+            "name": "镇江市",
+            "spellName": "321100"
+        },
+        {
+            "name": "扬州市",
+            "spellName": "321000"
+        },
+        {
+            "name": "淮安市",
+            "spellName": "320800"
+        },
+        {
+            "name": "泰州市",
+            "spellName": "321200"
+        },
+        {
+            "name": "宿迁市",
+            "spellName": "321300"
+        }
+    ]
+}

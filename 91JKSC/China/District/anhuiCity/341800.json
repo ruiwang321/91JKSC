@@ -1,0 +1,33 @@
+{
+    "city": "宣城市",
+    "district": [
+        {
+            "name": "宣州区",
+            "postCode": "242000"
+        },
+        {
+            "name": "宁国市",
+            "postCode": "242300"
+        },
+        {
+            "name": "郎溪县",
+            "postCode": "242100"
+        },
+        {
+            "name": "广德县",
+            "postCode": "242200"
+        },
+        {
+            "name": "泾　县",
+            "postCode": "242500"
+        },
+        {
+            "name": "旌德县",
+            "postCode": "242600"
+        },
+        {
+            "name": "绩溪县",
+            "postCode": "245300"
+        }
+    ]
+}

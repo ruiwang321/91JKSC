@@ -1,0 +1,53 @@
+{
+    "city": "台北市",
+    "district": [
+        {
+            "name": "松山区",
+            "postCode": "000222"
+        },
+        {
+            "name": "信义区",
+            "postCode": "000222"
+        },
+        {
+            "name": "大安区",
+            "postCode": "000222"
+        },
+        {
+            "name": "中山区",
+            "postCode": "000222"
+        },
+        {
+            "name": "中正区",
+            "postCode": "000222"
+        },
+        {
+            "name": "大同区",
+            "postCode": "000222"
+        },
+        {
+            "name": "万华区",
+            "postCode": "000222"
+        },
+        {
+            "name": "文山区",
+            "postCode": "000222"
+        },
+        {
+            "name": "南港区",
+            "postCode": "000222"
+        },
+        {
+            "name": "內湖区",
+            "postCode": "000222"
+        },
+        {
+            "name": "士林区",
+            "postCode": "000222"
+        },
+        {
+            "name": "北投区",
+            "postCode": "000222"
+        }
+    ]
+}

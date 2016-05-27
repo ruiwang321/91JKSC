@@ -1,0 +1,53 @@
+{
+    "city": "宝鸡市",
+    "district": [
+        {
+            "name": "渭滨区",
+            "postCode": "721000"
+        },
+        {
+            "name": "金台区",
+            "postCode": "721001"
+        },
+        {
+            "name": "陈仓区",
+            "postCode": "721300"
+        },
+        {
+            "name": "凤翔县",
+            "postCode": "721400"
+        },
+        {
+            "name": "岐山县",
+            "postCode": "722400"
+        },
+        {
+            "name": "扶风县",
+            "postCode": "722200"
+        },
+        {
+            "name": "眉　县",
+            "postCode": "722300"
+        },
+        {
+            "name": "陇　县",
+            "postCode": "721200"
+        },
+        {
+            "name": "千阳县",
+            "postCode": "721100"
+        },
+        {
+            "name": "麟游县",
+            "postCode": "721500"
+        },
+        {
+            "name": "凤　县",
+            "postCode": "721700"
+        },
+        {
+            "name": "太白县",
+            "postCode": "721600"
+        }
+    ]
+}

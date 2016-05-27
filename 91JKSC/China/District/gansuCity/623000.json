@@ -1,0 +1,37 @@
+{
+    "city": "甘南州",
+    "district": [
+        {
+            "name": "合作市",
+            "postCode": "747000"
+        },
+        {
+            "name": "临潭县",
+            "postCode": "747500"
+        },
+        {
+            "name": "卓尼县",
+            "postCode": "747600"
+        },
+        {
+            "name": "舟曲县",
+            "postCode": "746300"
+        },
+        {
+            "name": "迭部县",
+            "postCode": "747400"
+        },
+        {
+            "name": "玛曲县",
+            "postCode": "747300"
+        },
+        {
+            "name": "碌曲县",
+            "postCode": "747200"
+        },
+        {
+            "name": "夏河县",
+            "postCode": "747100"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "city": [
+        {
+            "name": "兰州市",
+            "spellName": "620100"
+        },
+        {
+            "name": "天水市",
+            "spellName": "620500"
+        },
+        {
+            "name": "庆阳市",
+            "spellName": "621000"
+        },
+        {
+            "name": "武威市",
+            "spellName": "620600"
+        },
+        {
+            "name": "酒泉市",
+            "spellName": "620900"
+        },
+        {
+            "name": "张掖市",
+            "spellName": "620700"
+        },
+        {
+            "name": "陇南地区",
+            "spellName": "621200"
+        },
+        {
+            "name": "白银市",
+            "spellName": "620400"
+        },
+        {
+            "name": "定西地区",
+            "spellName": "621100"
+        },
+        {
+            "name": "平凉市",
+            "spellName": "620800"
+        },
+        {
+            "name": "嘉峪关市",
+            "spellName": "620200"
+        },
+        {
+            "name": "临夏回族自治州",
+            "spellName": "622900"
+        },
+        {
+            "name": "金昌市",
+            "spellName": "737100"
+        },
+        {
+            "name": "甘南州",
+            "spellName": "623000"
+        }
+    ]
+}

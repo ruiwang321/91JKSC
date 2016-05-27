@@ -1,0 +1,45 @@
+{
+    "city": "贵阳市",
+    "district": [
+        {
+            "name": "乌当区",
+            "postCode": "550018"
+        },
+        {
+            "name": "南明区",
+            "postCode": "550002"
+        },
+        {
+            "name": "云岩区",
+            "postCode": "550001"
+        },
+        {
+            "name": "花溪区",
+            "postCode": "550025"
+        },
+        {
+            "name": "白云区",
+            "postCode": "550014"
+        },
+        {
+            "name": "小河区",
+            "postCode": "550009"
+        },
+        {
+            "name": "清镇市",
+            "postCode": "551400"
+        },
+        {
+            "name": "开阳县",
+            "postCode": "550300"
+        },
+        {
+            "name": "修文县",
+            "postCode": "550200"
+        },
+        {
+            "name": "息烽县",
+            "postCode": "551100"
+        }
+    ]
+}

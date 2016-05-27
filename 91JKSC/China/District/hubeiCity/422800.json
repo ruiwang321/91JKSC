@@ -1,0 +1,37 @@
+{
+    "city": "恩施州",
+    "district": [
+        {
+            "name": "恩施市",
+            "postCode": "445000"
+        },
+        {
+            "name": "利川市",
+            "postCode": "445400"
+        },
+        {
+            "name": "建始县",
+            "postCode": "445300"
+        },
+        {
+            "name": "巴东县",
+            "postCode": "444300"
+        },
+        {
+            "name": "宣恩县",
+            "postCode": "445500"
+        },
+        {
+            "name": "咸丰县",
+            "postCode": "445600"
+        },
+        {
+            "name": "来凤县",
+            "postCode": "445700"
+        },
+        {
+            "name": "鹤峰县",
+            "postCode": "445800"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "city": "曲靖市",
+    "district": [
+        {
+            "name": "麒麟区",
+            "postCode": "655000"
+        },
+        {
+            "name": "宣威市",
+            "postCode": "655400"
+        },
+        {
+            "name": "马龙县",
+            "postCode": "655100"
+        },
+        {
+            "name": "沾益县",
+            "postCode": "655331"
+        },
+        {
+            "name": "富源县",
+            "postCode": "655500"
+        },
+        {
+            "name": "罗平县",
+            "postCode": "655800"
+        },
+        {
+            "name": "师宗县",
+            "postCode": "655700"
+        },
+        {
+            "name": "陆良县",
+            "postCode": "655600"
+        },
+        {
+            "name": "会泽县",
+            "postCode": "654200"
+        }
+    ]
+}

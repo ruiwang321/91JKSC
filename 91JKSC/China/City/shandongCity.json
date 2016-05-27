@@ -1,0 +1,72 @@
+{
+    "city": [
+        {
+            "name": "济南市",
+            "spellName": "370100"
+        },
+        {
+            "name": "青岛市",
+            "spellName": "370200"
+        },
+        {
+            "name": "临沂市",
+            "spellName": "371300"
+        },
+        {
+            "name": "济宁市",
+            "spellName": "370800"
+        },
+        {
+            "name": "菏泽市",
+            "spellName": "371700"
+        },
+        {
+            "name": "烟台市",
+            "spellName": "370600"
+        },
+        {
+            "name": "淄博市",
+            "spellName": "370300"
+        },
+        {
+            "name": "泰安市",
+            "spellName": "370900"
+        },
+        {
+            "name": "潍坊市",
+            "spellName": "370700"
+        },
+        {
+            "name": "日照市",
+            "spellName": "371100"
+        },
+        {
+            "name": "威海市",
+            "spellName": "371000"
+        },
+        {
+            "name": "滨州市",
+            "spellName": "371600"
+        },
+        {
+            "name": "东营市",
+            "spellName": "370500"
+        },
+        {
+            "name": "聊城市",
+            "spellName": "371500"
+        },
+        {
+            "name": "德州市",
+            "spellName": "371400"
+        },
+        {
+            "name": "莱芜市",
+            "spellName": "371200"
+        },
+        {
+            "name": "枣庄市",
+            "spellName": "370400"
+        }
+    ]
+}

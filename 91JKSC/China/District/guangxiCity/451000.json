@@ -1,0 +1,53 @@
+{
+    "city": "百色市",
+    "district": [
+        {
+            "name": "右江区",
+            "postCode": "533000"
+        },
+        {
+            "name": "田阳县",
+            "postCode": "533600"
+        },
+        {
+            "name": "田东县",
+            "postCode": "531500"
+        },
+        {
+            "name": "平果县",
+            "postCode": "531400"
+        },
+        {
+            "name": "德保县",
+            "postCode": "533700"
+        },
+        {
+            "name": "靖西县",
+            "postCode": "533800"
+        },
+        {
+            "name": "那坡县",
+            "postCode": "533900"
+        },
+        {
+            "name": "凌云县",
+            "postCode": "533100"
+        },
+        {
+            "name": "乐业县",
+            "postCode": "533200"
+        },
+        {
+            "name": "西林县",
+            "postCode": "533500"
+        },
+        {
+            "name": "田林县",
+            "postCode": "533300"
+        },
+        {
+            "name": "隆林各族自治县",
+            "postCode": "533500"
+        }
+    ]
+}

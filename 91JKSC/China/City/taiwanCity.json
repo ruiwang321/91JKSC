@@ -1,0 +1,32 @@
+{
+    "city": [
+        {
+            "name": "台北市",
+            "spellName": "000222"
+        },
+        {
+            "name": "高雄市",
+            "spellName": "000800"
+        },
+        {
+            "name": "台中市",
+            "spellName": "000400"
+        },
+        {
+            "name": "新竹市",
+            "spellName": "000300"
+        },
+        {
+            "name": "基隆市",
+            "spellName": "000200"
+        },
+        {
+            "name": "台南市",
+            "spellName": "000700"
+        },
+        {
+            "name": "嘉义市",
+            "spellName": "000600"
+        }
+    ]
+}

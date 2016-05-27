@@ -1,0 +1,69 @@
+{
+    "city": "文昌市",
+    "district": [
+        {
+            "name": "文城镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "重兴镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "蓬莱镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "会文镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "东路镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "潭牛镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "东阁镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "文教镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "东郊镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "龙楼镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "昌洒镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "翁田镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "抱罗镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "冯坡镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "锦山镇",
+            "postCode": "571300"
+        },
+        {
+            "name": "铺前镇",
+            "postCode": "571300"
+        }
+    ]
+}

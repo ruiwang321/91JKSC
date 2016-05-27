@@ -1,0 +1,49 @@
+{
+    "city": "抚州市",
+    "district": [
+        {
+            "name": "临川区",
+            "postCode": "344000"
+        },
+        {
+            "name": "南城县",
+            "postCode": "344700"
+        },
+        {
+            "name": "黎川县",
+            "postCode": "344600"
+        },
+        {
+            "name": "南丰县",
+            "postCode": "344500"
+        },
+        {
+            "name": "崇仁县",
+            "postCode": "344200"
+        },
+        {
+            "name": "乐安县",
+            "postCode": "344300"
+        },
+        {
+            "name": "宜黄县",
+            "postCode": "344400"
+        },
+        {
+            "name": "金溪县",
+            "postCode": "344800"
+        },
+        {
+            "name": "资溪县",
+            "postCode": "335300"
+        },
+        {
+            "name": "东乡县",
+            "postCode": "331800"
+        },
+        {
+            "name": "广昌县",
+            "postCode": "344900"
+        }
+    ]
+}

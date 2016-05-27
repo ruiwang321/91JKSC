@@ -1,0 +1,41 @@
+{
+    "city": "鸡西市",
+    "district": [
+        {
+            "name": "鸡冠区",
+            "postCode": "158100"
+        },
+        {
+            "name": "恒山区",
+            "postCode": "158130"
+        },
+        {
+            "name": "滴道区",
+            "postCode": "158150"
+        },
+        {
+            "name": "梨树区",
+            "postCode": "158160"
+        },
+        {
+            "name": "城子河区",
+            "postCode": "158170"
+        },
+        {
+            "name": "麻山区",
+            "postCode": "158180"
+        },
+        {
+            "name": "虎林市",
+            "postCode": "158400"
+        },
+        {
+            "name": "密山市",
+            "postCode": "158300"
+        },
+        {
+            "name": "鸡东县",
+            "postCode": "158200"
+        }
+    ]
+}

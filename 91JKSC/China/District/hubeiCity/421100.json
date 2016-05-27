@@ -1,0 +1,45 @@
+{
+    "city": "黄冈市",
+    "district": [
+        {
+            "name": "黄州区",
+            "postCode": "438000"
+        },
+        {
+            "name": "麻城市",
+            "postCode": "438300"
+        },
+        {
+            "name": "武穴市",
+            "postCode": "435400"
+        },
+        {
+            "name": "红安县",
+            "postCode": "438401"
+        },
+        {
+            "name": "罗田县",
+            "postCode": "438600"
+        },
+        {
+            "name": "英山县",
+            "postCode": "438700"
+        },
+        {
+            "name": "浠水县",
+            "postCode": "438200"
+        },
+        {
+            "name": "蕲春县",
+            "postCode": "435300"
+        },
+        {
+            "name": "黄梅县",
+            "postCode": "435500"
+        },
+        {
+            "name": "团风县",
+            "postCode": "438000"
+        }
+    ]
+}

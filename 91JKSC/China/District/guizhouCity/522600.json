@@ -1,0 +1,69 @@
+{
+    "city": "黔东南州",
+    "district": [
+        {
+            "name": "凯里市",
+            "postCode": "556000"
+        },
+        {
+            "name": "黄平县",
+            "postCode": "556100"
+        },
+        {
+            "name": "施秉县",
+            "postCode": "556200"
+        },
+        {
+            "name": "三穗县",
+            "postCode": "556500"
+        },
+        {
+            "name": "镇远县",
+            "postCode": "557700"
+        },
+        {
+            "name": "岑巩县",
+            "postCode": "557800"
+        },
+        {
+            "name": "天柱县",
+            "postCode": "556600"
+        },
+        {
+            "name": "锦屏县",
+            "postCode": "556700"
+        },
+        {
+            "name": "剑河县",
+            "postCode": "556400"
+        },
+        {
+            "name": "台江县",
+            "postCode": "556300"
+        },
+        {
+            "name": "黎平县",
+            "postCode": "557300"
+        },
+        {
+            "name": "榕江县",
+            "postCode": "557200"
+        },
+        {
+            "name": "从江县",
+            "postCode": "557400"
+        },
+        {
+            "name": "雷山县",
+            "postCode": "557100"
+        },
+        {
+            "name": "麻江县",
+            "postCode": "557600"
+        },
+        {
+            "name": "丹寨县",
+            "postCode": "557500"
+        }
+    ]
+}

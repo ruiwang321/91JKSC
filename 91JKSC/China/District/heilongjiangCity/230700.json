@@ -1,0 +1,73 @@
+{
+    "city": "伊春市",
+    "district": [
+        {
+            "name": "伊春区",
+            "postCode": "153000"
+        },
+        {
+            "name": "南岔区",
+            "postCode": "153100"
+        },
+        {
+            "name": "友好区",
+            "postCode": "153031"
+        },
+        {
+            "name": "西林区",
+            "postCode": "153025"
+        },
+        {
+            "name": "翠峦区",
+            "postCode": "153013"
+        },
+        {
+            "name": "新青区",
+            "postCode": "153036"
+        },
+        {
+            "name": "美溪区",
+            "postCode": "153021"
+        },
+        {
+            "name": "金山屯区",
+            "postCode": "152026"
+        },
+        {
+            "name": "五营区",
+            "postCode": "153033"
+        },
+        {
+            "name": "乌马河区",
+            "postCode": "153011"
+        },
+        {
+            "name": "汤旺河区",
+            "postCode": "153037"
+        },
+        {
+            "name": "带岭区",
+            "postCode": "153106"
+        },
+        {
+            "name": "乌伊岭区",
+            "postCode": "153038"
+        },
+        {
+            "name": "红星区",
+            "postCode": "153035"
+        },
+        {
+            "name": "上甘岭区",
+            "postCode": "153032"
+        },
+        {
+            "name": "铁力市",
+            "postCode": "152500"
+        },
+        {
+            "name": "嘉荫县",
+            "postCode": "153200"
+        }
+    ]
+}

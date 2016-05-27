@@ -1,0 +1,45 @@
+{
+    "city":"焦作市",
+    "district": [
+        {
+            "name": "山阳区",
+            "postCode": "454002"
+        },
+        {
+            "name": "解放区",
+            "postCode": "454000"
+        },
+        {
+            "name": "中站区",
+            "postCode": "454191"
+        },
+        {
+            "name": "马村区",
+            "postCode": "454171"
+        },
+        {
+            "name": "孟州市",
+            "postCode": "454750"
+        },
+        {
+            "name": "沁阳市",
+            "postCode": "454550"
+        },
+        {
+            "name": "修武县",
+            "postCode": "454350"
+        },
+        {
+            "name": "博爱县",
+            "postCode": "454450"
+        },
+        {
+            "name": "武陟县",
+            "postCode": "454950"
+        },
+        {
+            "name": "温　县",
+            "postCode": "454850"
+        }
+    ]
+}

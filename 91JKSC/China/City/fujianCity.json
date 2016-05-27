@@ -1,0 +1,40 @@
+{
+    "city": [
+        {
+            "name": "漳州市",
+            "spellName": "350600"
+        },
+        {
+            "name": "厦门市",
+            "spellName": "350200"
+        },
+        {
+            "name": "泉州市",
+            "spellName": "362000"
+        },
+        {
+            "name": "福州市",
+            "spellName": "350100"
+        },
+        {
+            "name": "莆田市",
+            "spellName": "350300"
+        },
+        {
+            "name": "宁德市",
+            "spellName": "350900"
+        },
+        {
+            "name": "三明市",
+            "spellName": "350400"
+        },
+        {
+            "name": "南平市",
+            "spellName": "350700"
+        },
+        {
+            "name": "龙岩市",
+            "spellName": "350800"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "city": "晋中市",
+    "district": [
+        {
+            "name": "榆次区",
+            "postCode": "030600"
+        },
+        {
+            "name": "介休市",
+            "postCode": "031200"
+        },
+        {
+            "name": "榆社县",
+            "postCode": "031800"
+        },
+        {
+            "name": "左权县",
+            "postCode": "032600"
+        },
+        {
+            "name": "和顺县",
+            "postCode": "032700"
+        },
+        {
+            "name": "昔阳县",
+            "postCode": "045400"
+        },
+        {
+            "name": "寿阳县",
+            "postCode": "045400"
+        },
+        {
+            "name": "太谷县",
+            "postCode": "030800"
+        },
+        {
+            "name": "祁　县",
+            "postCode": "030900"
+        },
+        {
+            "name": "平遥县",
+            "postCode": "031100"
+        },
+        {
+            "name": "灵石县",
+            "postCode": "031300"
+        }
+    ]
+}

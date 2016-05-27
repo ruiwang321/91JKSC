@@ -1,0 +1,41 @@
+{
+    "city":"安阳市",
+    "district": [
+        {
+            "name": "北关区",
+            "postCode": "455001"
+        },
+        {
+            "name": "文峰区",
+            "postCode": "455000"
+        },
+        {
+            "name": "殷都区",
+            "postCode": "455004"
+        },
+        {
+            "name": "龙安区",
+            "postCode": "455001"
+        },
+        {
+            "name": "林州市",
+            "postCode": "456550"
+        },
+        {
+            "name": "安阳县",
+            "postCode": "455000"
+        },
+        {
+            "name": "汤阴县",
+            "postCode": "456150"
+        },
+        {
+            "name": "滑　县",
+            "postCode": "456400"
+        },
+        {
+            "name": "内黄县",
+            "postCode": "456350"
+        }
+    ]
+}
